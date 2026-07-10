@@ -188,7 +188,7 @@ function saveData(topics) {
         error: null
     };
 
-    const outDir = path.join(__dirname, '..', 'public');
+    const outDir = path.join(__dirname, '..');
     if (!fs.existsSync(outDir)) fs.mkdirSync(outDir, { recursive: true });
 
     const outPath = path.join(outDir, 'data.json');
