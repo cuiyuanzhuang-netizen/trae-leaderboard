@@ -1,12 +1,11 @@
 /**
  * Vercel Serverless Function - 获取论坛所有参赛作品数据
- * 通过并行请求加速数据获取
+ * 一次性并行请求所有页面，最大化速度
  */
 
 const API_BASE = 'https://forum.trae.cn/c/38-category/40-category/40.json';
 const PINNED_IDS = [22549, 21487];
-const MAX_PAGES = 50;
-const BATCH_SIZE = 10; // 并行请求批次大小
+const MAX_PAGES = 55;
 
 async function fetchPage(page) {
     const url = `${API_BASE}?page=${page}`;
@@ -15,9 +14,9 @@ async function fetchPage(page) {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
             'Accept': 'application/json'
         },
-        signal: AbortSignal.timeout(12000)
+        signal: AbortSignal.timeout(8000)
     });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    if (!res.ok) throw new Error(`HTTP ${res.status} on page ${page}`);
     return res.json();
 }
 
@@ -57,30 +56,7 @@ function parseTopics(data) {
         });
 }
 
-async function fetchBatch(pages) {
-    const results = await Promise.allSettled(pages.map(p => fetchPage(p)));
-    const allTopics = [];
-    let lastPage = -1;
-
-    for (let i = 0; i < results.length; i++) {
-        if (results[i].status === 'fulfilled') {
-            const data = results[i].value;
-            allTopics.push(...parseTopics(data));
-            lastPage = pages[i];
-
-            // 检查是否还有更多
-            const moreUrl = (data.topic_list || {}).more_topics_url;
-            if (!moreUrl) {
-                return { topics: allTopics, hasMore: false };
-            }
-        }
-    }
-
-    return { topics: allTopics, hasMore: true, lastPage };
-}
-
 export default async function handler(req, res) {
-    // CORS headers
     res.setHeader('Access-Control-Allow-Origin', '*');
     res.setHeader('Access-Control-Allow-Methods', 'GET, OPTIONS');
     res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
@@ -90,45 +66,56 @@ export default async function handler(req, res) {
     }
 
     try {
-        // 先获取第一页，确定总页数
-        const firstData = await fetchPage(0);
-        const firstTopics = parseTopics(firstData);
-        const hasMore = (firstData.topic_list || {}).more_topics_url;
+        // 第一阶段：获取前2页确定大致页数
+        const [page0, page1] = await Promise.all([
+            fetchPage(0),
+            fetchPage(1).catch(() => null)
+        ]);
 
-        if (!hasMore) {
-            return res.status(200).json({
-                topics: firstTopics,
-                count: firstTopics.length,
-                last_update: new Date().toISOString(),
-                loading: false,
-                error: null
-            });
-        }
+        const allTopics = [...parseTopics(page0)];
+        let maxPage = MAX_PAGES;
 
-        // 并行批量获取剩余页面
-        const allTopics = [...firstTopics];
-        let startPage = 1;
-        let continueFetching = true;
-
-        while (continueFetching && startPage < MAX_PAGES) {
-            const pages = [];
-            for (let i = 0; i < BATCH_SIZE && startPage + i < MAX_PAGES; i++) {
-                pages.push(startPage + i);
-            }
-
-            const batchResult = await fetchBatch(pages);
-            allTopics.push(...batchResult.topics);
-
-            if (!batchResult.hasMore || pages[pages.length - 1] >= MAX_PAGES - 1) {
-                continueFetching = false;
-            } else {
-                startPage += BATCH_SIZE;
+        if (page1) {
+            allTopics.push(...parseTopics(page1));
+            // 如果第1页有更多，说明数据量很大，需要请求更多页
+            const more1 = (page1.topic_list || {}).more_topics_url;
+            if (!more1) {
+                // 只有2页数据
+                return res.status(200).json({
+                    topics: allTopics,
+                    count: allTopics.length,
+                    last_update: new Date().toISOString(),
+                    loading: false,
+                    error: null
+                });
             }
         }
+
+        // 第二阶段：并行请求剩余所有页面（page 2 到 maxPage-1）
+        const remainingPages = [];
+        for (let p = 2; p < maxPage; p++) {
+            remainingPages.push(p);
+        }
+
+        const results = await Promise.allSettled(remainingPages.map(p => fetchPage(p)));
+
+        for (const result of results) {
+            if (result.status === 'fulfilled') {
+                allTopics.push(...parseTopics(result.value));
+            }
+        }
+
+        // 去重（以防有重复topic）
+        const seen = new Set();
+        const deduped = allTopics.filter(t => {
+            if (seen.has(t.id)) return false;
+            seen.add(t.id);
+            return true;
+        });
 
         return res.status(200).json({
-            topics: allTopics,
-            count: allTopics.length,
+            topics: deduped,
+            count: deduped.length,
             last_update: new Date().toISOString(),
             loading: false,
             error: null
