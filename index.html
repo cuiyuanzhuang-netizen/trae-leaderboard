@@ -475,14 +475,14 @@
             if (refreshBtn) refreshBtn.disabled = true;
 
             try {
-                loadingText.textContent = '正在从论坛获取全部参赛作品数据...';
+                loadingText.textContent = '正在加载排行榜数据...';
 
-                const res = await fetch('/api/data', { signal: AbortSignal.timeout(30000) });
-                if (!res.ok) throw new Error('服务器返回错误: ' + res.status);
+                const res = await fetch('/data.json?t=' + Date.now());
+                if (!res.ok) throw new Error('数据文件不存在: ' + res.status);
                 const data = await res.json();
 
-                if (data.error && (!data.topics || data.topics.length === 0)) {
-                    throw new Error(data.error);
+                if (!data.topics || data.topics.length === 0) {
+                    throw new Error('暂无数据，GitHub Actions 可能正在首次抓取');
                 }
 
                 allTopics = data.topics || [];
@@ -492,7 +492,7 @@
 
                 document.getElementById('totalCount').textContent = allTopics.length;
                 const ts = data.last_update || new Date().toISOString();
-                const timeStr = new Date(ts).toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit' });
+                const timeStr = new Date(ts).toLocaleString('zh-CN', { month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' });
                 document.getElementById('lastUpdate').textContent = '更新于 ' + timeStr;
 
                 renderLeaderboard();
@@ -500,7 +500,7 @@
             } catch (e) {
                 loadingDiv.style.display = 'none';
                 errorDiv.style.display = 'block';
-                errorDiv.innerHTML = `数据加载失败：${e.message}<br><br>可能是网络问题或论坛访问限制。<br>请稍后重试，或直接访问<a href="https://forum.trae.cn/c/38-category/40-category/40" target="_blank" style="color:#667eea;">初赛专区</a>查看。`;
+                errorDiv.innerHTML = `数据加载失败：${e.message}<br><br>数据由 GitHub Actions 每5分钟自动更新。<br>如果是首次部署，请等待 Actions 运行完成。<br>也可直接访问<a href="https://forum.trae.cn/c/38-category/40-category/40" target="_blank" style="color:#667eea;">初赛专区</a>查看。`;
             } finally {
                 if (refreshBtn) refreshBtn.disabled = false;
             }
