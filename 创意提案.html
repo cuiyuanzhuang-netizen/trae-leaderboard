@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TRAE大赛排行榜查询 — 创意提案</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            background: #0a0a14;
+            color: #e0e0e0;
+            line-height: 1.7;
+        }
+
+        .hero {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 40%, #f093fb 100%);
+            padding: 80px 20px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(255,255,255,0.05) 1px, transparent 1px);
+            background-size: 30px 30px;
+            animation: drift 20s linear infinite;
+        }
+
+        @keyframes drift {
+            from { transform: translate(0, 0); }
+            to { transform: translate(30px, 30px); }
+        }
+
+        .hero h1 {
+            font-size: 42px;
+            font-weight: 800;
+            color: #fff;
+            margin-bottom: 16px;
+            position: relative;
+            text-shadow: 0 2px 20px rgba(0,0,0,0.3);
+        }
+
+        .hero .tagline {
+            font-size: 18px;
+            color: rgba(255,255,255,0.85);
+            position: relative;
+        }
+
+        .hero .badge {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 6px 20px;
+            background: rgba(255,255,255,0.2);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255,255,255,0.3);
+            border-radius: 20px;
+            color: #fff;
+            font-size: 14px;
+            position: relative;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        .section {
+            padding: 60px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.06);
+        }
+
+        .section:last-child { border-bottom: none; }
+
+        .section h2 {
+            font-size: 26px;
+            font-weight: 700;
+            margin-bottom: 24px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .section h2 .num {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 36px;
+            height: 36px;
+            border-radius: 10px;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: #fff;
+            font-size: 16px;
+            font-weight: 700;
+        }
+
+        .card {
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 16px;
+            padding: 28px;
+            margin-bottom: 16px;
+        }
+
+        .card h3 {
+            font-size: 17px;
+            color: #8ea0f0;
+            margin-bottom: 12px;
+        }
+
+        .card p {
+            color: #bbb;
+            font-size: 15px;
+            margin-bottom: 8px;
+        }
+
+        .card p strong {
+            color: #e0e0e0;
+        }
+
+        .pain-points {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 16px;
+            margin-top: 20px;
+        }
+
+        .pain-card {
+            background: rgba(255,255,255,0.03);
+            border: 1px solid rgba(255,255,255,0.06);
+            border-radius: 14px;
+            padding: 24px;
+            text-align: center;
+            transition: transform 0.3s, border-color 0.3s;
+        }
+
+        .pain-card:hover {
+            transform: translateY(-4px);
+            border-color: rgba(102,126,234,0.4);
+        }
+
+        .pain-card .icon {
+            font-size: 36px;
+            margin-bottom: 12px;
+        }
+
+        .pain-card h4 {
+            font-size: 15px;
+            color: #e0e0e0;
+            margin-bottom: 8px;
+        }
+
+        .pain-card p {
+            font-size: 13px;
+            color: #888;
+        }
+
+        .demo-mockup {
+            background: rgba(0,0,0,0.3);
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 16px;
+            padding: 24px;
+            margin-top: 20px;
+        }
+
+        .mockup-search {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .mockup-search input {
+            flex: 1;
+            padding: 12px 18px;
+            border-radius: 10px;
+            border: 1px solid rgba(255,255,255,0.1);
+            background: rgba(0,0,0,0.3);
+            color: #fff;
+            font-size: 14px;
+        }
+
+        .mockup-search button {
+            padding: 12px 28px;
+            border-radius: 10px;
+            border: none;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: #fff;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+        }
+
+        .mockup-result {
+            background: rgba(102,126,234,0.08);
+            border: 1px solid rgba(102,126,234,0.2);
+            border-radius: 12px;
+            padding: 24px;
+            text-align: center;
+            margin-bottom: 16px;
+        }
+
+        .mockup-result .rank {
+            font-size: 48px;
+            font-weight: 800;
+            background: linear-gradient(135deg, #667eea, #f093fb);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .mockup-result .label {
+            font-size: 13px;
+            color: #888;
+            margin-bottom: 8px;
+        }
+
+        .mockup-result .title {
+            font-size: 16px;
+            color: #ddd;
+            margin-bottom: 12px;
+        }
+
+        .mockup-result .meta {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            font-size: 14px;
+            color: #aaa;
+            flex-wrap: wrap;
+        }
+
+        .mockup-result .meta strong { color: #667eea; }
+
+        .mockup-list {
+            margin-top: 12px;
+        }
+
+        .mockup-item {
+            display: grid;
+            grid-template-columns: 40px 1fr 60px 60px 60px;
+            padding: 10px 12px;
+            border-bottom: 1px solid rgba(255,255,255,0.04);
+            font-size: 13px;
+            align-items: center;
+        }
+
+        .mockup-item:first-child {
+            background: rgba(255,255,255,0.03);
+            border-radius: 8px 8px 0 0;
+            font-weight: 600;
+            color: #888;
+            font-size: 11px;
+            text-transform: uppercase;
+        }
+
+        .mockup-item .rk { font-weight: 700; }
+        .mockup-item .rk.gold { color: #ffd700; }
+        .mockup-item .rk.silver { color: #c0c0c0; }
+        .mockup-item .rk.bronze { color: #cd7f32; }
+        .mockup-item .vl { text-align: center; color: #667eea; font-weight: 600; }
+
+        .value-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 16px;
+            margin-top: 20px;
+        }
+
+        .value-card {
+            background: rgba(255,255,255,0.03);
+            border: 1px solid rgba(255,255,255,0.06);
+            border-radius: 14px;
+            padding: 24px;
+        }
+
+        .value-card .icon {
+            font-size: 28px;
+            margin-bottom: 12px;
+        }
+
+        .value-card h4 {
+            font-size: 16px;
+            color: #8ea0f0;
+            margin-bottom: 8px;
+        }
+
+        .value-card p {
+            font-size: 14px;
+            color: #999;
+        }
+
+        .tech-stack {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 16px;
+        }
+
+        .tech-tag {
+            padding: 6px 16px;
+            border-radius: 8px;
+            background: rgba(102,126,234,0.1);
+            border: 1px solid rgba(102,126,234,0.2);
+            color: #8ea0f0;
+            font-size: 13px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            color: #555;
+            font-size: 13px;
+        }
+
+        @media (max-width: 600px) {
+            .hero h1 { font-size: 28px; }
+            .hero .tagline { font-size: 15px; }
+            .mockup-item { grid-template-columns: 30px 1fr 40px 40px 40px; font-size: 11px; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="hero">
+    <h1>TRAE大赛排行榜查询</h1>
+    <p class="tagline">输入作品名称，1秒查询你的投票排名和综合排行</p>
+    <div class="badge">学习工作赛道</div>
+</div>
+
+<div class="container">
+
+    <!-- 创意介绍 -->
+    <div class="section">
+        <h2><span class="num">1</span>创意介绍</h2>
+        <div class="card">
+            <h3>想解决什么问题</h3>
+            <p>TRAE AI 创造力大赛有 <strong>7000+</strong> 个参赛作品，选手发布作品后无法快速知道自己的排名，投票数和点赞数处于什么水平。手动翻页对比耗时且容易遗漏。</p>
+        </div>
+        <div class="card">
+            <h3>为什么会想到做这个</h3>
+            <p>我自己参赛时发现作品淹没在上千个帖子中，想看排名只能一页页翻论坛数投票数，非常痛苦。于是想到：<strong>做一个工具，输入作品名就能秒查排名。</strong></p>
+        </div>
+        <div class="card">
+            <h3>大概是什么产品</h3>
+            <p>一个<strong>网站</strong>，支持搜索作品名称或用户名，查看投票排名、点赞排名、浏览排名和综合热度排名，同时展示排行榜前20名，点击可跳转原帖。</p>
+        </div>
+    </div>
+
+    <!-- 目标用户及痛点 -->
+    <div class="section">
+        <h2><span class="num">2</span>目标用户及痛点</h2>
+        <div class="card">
+            <h3>面向哪些用户</h3>
+            <p>TRAE AI 创造力大赛的所有参赛选手，以及关注比赛进展的观众。</p>
+        </div>
+        <div class="card">
+            <h3>在什么场景下使用</h3>
+            <p>发布作品后想查看自己的排名位置、投票数据，或想看看目前排行榜上哪些作品领先，决定是否需要拉票。</p>
+        </div>
+        <div class="pain-points">
+            <div class="pain-card">
+                <div class="icon">🔍</div>
+                <h4>找不到自己</h4>
+                <p>7000+作品，默认排序根本找不到自己的帖子</p>
+            </div>
+            <div class="pain-card">
+                <div class="icon">📄</div>
+                <h4>手动翻页累</h4>
+                <p>想看投票排名只能翻几十页对比，耗时费力</p>
+            </div>
+            <div class="pain-card">
+                <div class="icon">📊</div>
+                <h4>无排行榜</h4>
+                <p>没有可视化排行，无法直观了解竞争格局</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- 产品演示 -->
+    <div class="section">
+        <h2><span class="num">3</span>产品界面预览</h2>
+        <div class="demo-mockup">
+            <div class="mockup-search">
+                <input type="text" value="绽放 Bloom" readonly>
+                <button>搜索排名</button>
+            </div>
+            <div class="mockup-result">
+                <div class="label">你的排名</div>
+                <div class="rank">#127</div>
+                <div class="title">【生活娱乐赛道】绽放 Bloom — 帮助内向者渐进式走出社交舒适圈</div>
+                <div class="meta">
+                    <div>投票：<strong>12</strong></div>
+                    <div>点赞：<strong>5</strong></div>
+                    <div>浏览：<strong>89</strong></div>
+                    <div>超过 <strong>98.2%</strong> 的作品</div>
+                </div>
+            </div>
+            <div class="mockup-list">
+                <div class="mockup-item">
+                    <div>排名</div>
+                    <div>作品名称</div>
+                    <div class="vl">投票</div>
+                    <div class="vl">点赞</div>
+                    <div class="vl">浏览</div>
+                </div>
+                <div class="mockup-item">
+                    <div class="rk gold">1</div>
+                    <div>初赛参赛指南（置顶帖）</div>
+                    <div class="vl">610</div>
+                    <div class="vl">274</div>
+                    <div class="vl">39607</div>
+                </div>
+                <div class="mockup-item">
+                    <div class="rk silver">2</div>
+                    <div>太乙式 — 融合AI编程探索古代知识体系</div>
+                    <div class="vl">85</div>
+                    <div class="vl">42</div>
+                    <div class="vl">3200</div>
+                </div>
+                <div class="mockup-item">
+                    <div class="rk bronze">3</div>
+                    <div>ChallengeDaily — 忙了一天却不知道忙什么</div>
+                    <div class="vl">67</div>
+                    <div class="vl">31</div>
+                    <div class="vl">2100</div>
+                </div>
+                <div class="mockup-item">
+                    <div class="rk">4</div>
+                    <div>BioQuest — 高一竞赛生做的生物学习站</div>
+                    <div class="vl">54</div>
+                    <div class="vl">28</div>
+                    <div class="vl">1800</div>
+                </div>
+                <div class="mockup-item">
+                    <div class="rk">5</div>
+                    <div>Echoclip — 面向Dota 2玩家的智能教练</div>
+                    <div class="vl">48</div>
+                    <div class="vl">22</div>
+                    <div class="vl">1500</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 价值与意义 -->
+    <div class="section">
+        <h2><span class="num">4</span>价值与意义</h2>
+        <div class="value-grid">
+            <div class="value-card">
+                <div class="icon">⚡</div>
+                <h4>效率提升</h4>
+                <p>将原本手动翻页数十分钟才能找到排名的过程，缩短到输入关键词1秒查询。选手可快速了解自己的位置，及时调整策略。</p>
+            </div>
+            <div class="value-card">
+                <div class="icon">🌐</div>
+                <h4>社会价值</h4>
+                <p>为参赛社区提供透明、实时的数据展示，让比赛更公开透明，激发选手参与热情和良性竞争。</p>
+            </div>
+            <div class="value-card">
+                <div class="icon">🔄</div>
+                <h4>实时更新</h4>
+                <p>通过 GitHub Actions 每5分钟自动抓取最新数据，选手随时刷新即可看到最新排名变化。</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- 技术方案 -->
+    <div class="section">
+        <h2><span class="num">5</span>技术方案</h2>
+        <div class="card">
+            <h3>架构设计</h3>
+            <p><strong>数据获取：</strong>GitHub Actions 定时任务，通过 Discourse JSON API 并行抓取论坛全部页面</p>
+            <p><strong>数据存储：</strong>生成静态 JSON 文件，存储在仓库中</p>
+            <p><strong>前端展示：</strong>纯 HTML/CSS/JS，读取 JSON 渲染排行榜和搜索结果</p>
+            <p><strong>部署方案：</strong>Vercel / Cloudflare Pages 静态托管</p>
+        </div>
+        <div class="tech-stack">
+            <div class="tech-tag">HTML5</div>
+            <div class="tech-tag">CSS3</div>
+            <div class="tech-tag">JavaScript</div>
+            <div class="tech-tag">GitHub Actions</div>
+            <div class="tech-tag">Discourse API</div>
+            <div class="tech-tag">Vercel</div>
+        </div>
+    </div>
+
+</div>
+
+<footer>
+    <p>TRAE AI 创造力大赛 · 创意提案</p>
+    <p>用 TRAE Work 构建 | 2026</p>
+</footer>
+
+</body>
+</html>
