@@ -1,6 +1,12 @@
 /**
  * 抓取论坛所有参赛作品数据，存为静态 JSON
  * 由 GitHub Actions 每 5 分钟调用一次
+ *
+ * 策略：
+ *   1. 串行获取前几页，同时根据 more_topics_url 判断是否还有更多
+ *   2. 二分法探测总页数
+ *   3. 分批并行请求（每批10页），避免连接被拒绝
+ *   4. 去重后保存
  */
 
 const fs = require('fs');
@@ -8,7 +14,7 @@ const path = require('path');
 
 const API_BASE = 'https://forum.trae.cn/c/38-category/40-category/40.json';
 const PINNED_IDS = [22549, 21487];
-const MAX_PAGES = 80; // 足够大，覆盖所有作品
+const BATCH_SIZE = 10; // 每批并行请求数
 
 async function fetchPage(page) {
     const url = `${API_BASE}?page=${page}`;
@@ -58,47 +64,106 @@ function parseTopics(data) {
         });
 }
 
+/**
+ * 二分法探测最后一个有数据的页码
+ */
+async function findLastPage() {
+    let lo = 0;
+    let hi = 512; // 上限设大一些
+
+    while (lo < hi) {
+        const mid = Math.ceil((lo + hi) / 2);
+        try {
+            const data = await fetchPage(mid);
+            const topics = (data.topic_list || {}).topics || [];
+            if (topics.length > 0) {
+                lo = mid;
+            } else {
+                hi = mid - 1;
+            }
+        } catch (e) {
+            hi = mid - 1;
+        }
+    }
+
+    return lo;
+}
+
+/**
+ * 分批并行请求，每批 BATCH_SIZE 页
+ */
+async function fetchPagesBatch(pages) {
+    const allResults = [];
+
+    for (let i = 0; i < pages.length; i += BATCH_SIZE) {
+        const batch = pages.slice(i, i + BATCH_SIZE);
+        const results = await Promise.allSettled(batch.map(p => fetchPage(p)));
+
+        for (let j = 0; j < results.length; j++) {
+            allResults.push({ page: batch[j], result: results[j] });
+        }
+
+        // 进度日志
+        const done = Math.min(i + BATCH_SIZE, pages.length);
+        console.log(`Progress: ${done}/${pages.length} pages requested`);
+    }
+
+    return allResults;
+}
+
 async function main() {
     console.log('Starting data fetch...');
 
-    // 先获取第一页确定是否有数据
+    // 第一阶段：获取第一页
     const firstData = await fetchPage(0);
     let allTopics = parseTopics(firstData);
-
     const hasMore = (firstData.topic_list || {}).more_topics_url;
     console.log(`Page 0: ${allTopics.length} topics, hasMore=${!!hasMore}`);
 
     if (!hasMore) {
-        // 只有一页
         return saveData(allTopics);
     }
 
-    // 并行获取剩余所有页面
+    // 第二阶段：二分探测总页数
+    console.log('Detecting total pages via binary search...');
+    const lastPage = await findLastPage();
+    console.log(`Last page with data: ${lastPage}`);
+
+    // 第三阶段：分批并行请求 page 1 到 lastPage
     const pages = [];
-    for (let p = 1; p < MAX_PAGES; p++) pages.push(p);
+    for (let p = 1; p <= lastPage; p++) pages.push(p);
 
-    console.log(`Fetching pages 1 to ${MAX_PAGES - 1} in parallel...`);
+    console.log(`Fetching pages 1 to ${lastPage} in batches of ${BATCH_SIZE}...`);
 
-    const results = await Promise.allSettled(pages.map(p => fetchPage(p)));
+    const allResults = await fetchPagesBatch(pages);
 
     let pagesOk = 0;
     let pagesFail = 0;
-    let lastHasMore = true;
+    const failedPages = [];
 
-    for (let i = 0; i < results.length; i++) {
-        if (results[i].status === 'fulfilled') {
-            const data = results[i].value;
-            const topics = parseTopics(data);
+    for (const { page, result } of allResults) {
+        if (result.status === 'fulfilled') {
+            const topics = parseTopics(result.value);
             allTopics.push(...topics);
             pagesOk++;
-
-            const more = (data.topic_list || {}).more_topics_url;
-            if (!more) {
-                // 这页之后没更多了，但继续处理已完成的请求
-                lastHasMore = false;
-            }
         } else {
             pagesFail++;
+            failedPages.push(page);
+        }
+    }
+
+    // 如果有失败的页面，重试一次
+    if (failedPages.length > 0) {
+        console.log(`Retrying ${failedPages.length} failed pages...`);
+        const retryResults = await fetchPagesBatch(failedPages);
+
+        for (const { page, result } of retryResults) {
+            if (result.status === 'fulfilled') {
+                const topics = parseTopics(result.value);
+                allTopics.push(...topics);
+                pagesOk++;
+                pagesFail--;
+            }
         }
     }
 
