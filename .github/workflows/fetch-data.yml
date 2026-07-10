@@ -2,8 +2,8 @@ name: Fetch Forum Data
 
 on:
   schedule:
-    # 每 5 分钟运行一次（GitHub Actions 最小间隔）
-    - cron: '*/5 * * * *'
+    # 每 15 分钟运行一次（GitHub Actions 免费账户更稳定）
+    - cron: '*/15 * * * *'
   workflow_dispatch: # 支持手动触发
 
 permissions:
