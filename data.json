@@ -32,7 +32,7 @@
       "slug": "topic",
       "vote_count": 14,
       "like_count": 1,
-      "views": 169,
+      "views": 170,
       "reply_count": 3,
       "tags": [
         "学习工作"
@@ -60,7 +60,7 @@
       "slug": "topic",
       "vote_count": 6,
       "like_count": 3,
-      "views": 27,
+      "views": 28,
       "reply_count": 1,
       "tags": [
         "生活娱乐"
@@ -982,9 +982,9 @@
       "id": 112060,
       "title": "【社会服务赛道】DormPeace：基于AI的宿舍矛盾预警与智能调解平台",
       "slug": "topic",
-      "vote_count": 1,
+      "vote_count": 2,
       "like_count": 0,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [
         "社会服务"
@@ -2461,7 +2461,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 1,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -38169,7 +38169,9 @@
       "like_count": 0,
       "views": 17,
       "reply_count": 0,
-      "tags": [],
+      "tags": [
+        "硬件交互"
+      ],
       "username": "u3682691789633865",
       "created_at": "2026-07-04T09:09:30.492Z"
     },
@@ -73494,7 +73496,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 17,
+      "views": 18,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -79043,7 +79045,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 90,
+      "views": 91,
       "reply_count": 0,
       "tags": [
         "学习工作",
@@ -80409,7 +80411,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 88,
+      "views": 89,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -92506,7 +92508,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 1,
-      "views": 105,
+      "views": 106,
       "reply_count": 1,
       "tags": [
         "学习工作"
@@ -94688,7 +94690,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 25,
+      "views": 26,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -103201,6 +103203,6 @@
     }
   ],
   "count": 7373,
-  "last_update": "2026-07-10T17:25:51.010Z",
+  "last_update": "2026-07-10T17:31:13.717Z",
   "error": null
 }
