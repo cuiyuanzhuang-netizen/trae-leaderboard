@@ -1,12 +1,41 @@
 {
   "topics": [
     {
+      "id": 68382,
+      "title": "【生活娱乐赛道】时光星球·成长记录 | 积分打卡+愿望兑换，不费妈就能帮助孩子养成好习惯。时光轴下记录成长每一天。",
+      "slug": "topic",
+      "vote_count": 2,
+      "like_count": 0,
+      "views": 23,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u1554026448841104",
+      "created_at": "2026-07-03T01:14:48.371Z"
+    },
+    {
+      "id": 96622,
+      "title": "【社会公益+社会服务】银发桥--让我们听到老年人渴求关怀、关注的微弱的声音",
+      "slug": "topic",
+      "vote_count": 19,
+      "like_count": 20,
+      "views": 81,
+      "reply_count": 3,
+      "tags": [
+        "社会服务",
+        "社会公益"
+      ],
+      "username": "u3009803814178538",
+      "created_at": "2026-07-09T11:25:11.929Z"
+    },
+    {
       "id": 112072,
       "title": "农事通是一款面向中国小农户的 Android 原生智慧农业 App， 采用 Flutter/Dart 构建，核心设计理念为 Local-First（本地优先）： 所有农户数据、农事记录、市场行情、政策信息全部存储在手机本地 SQLite 数据库中， 仅在 AI 对话等必需场景才调用云端大模型 API。",
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 2,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -48,7 +77,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 1,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -62,7 +91,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 12,
+      "views": 13,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -76,7 +105,7 @@
       "slug": "topic",
       "vote_count": 12,
       "like_count": 115,
-      "views": 579,
+      "views": 582,
       "reply_count": 15,
       "tags": [
         "社会服务"
@@ -90,7 +119,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 1,
+      "views": 2,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -172,7 +201,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 6,
+      "views": 7,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -200,7 +229,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 3,
-      "views": 21,
+      "views": 22,
       "reply_count": 2,
       "tags": [
         "生活娱乐"
@@ -500,7 +529,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 12,
+      "views": 13,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -528,7 +557,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 6,
+      "views": 7,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -695,7 +724,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 3,
-      "views": 41,
+      "views": 42,
       "reply_count": 1,
       "tags": [
         "硬件交互"
@@ -3804,21 +3833,6 @@
       "created_at": "2026-07-05T01:54:12.162Z"
     },
     {
-      "id": 96622,
-      "title": "【社会公益+社会服务】银发桥--让我们听到老年人渴求关怀、关注的微弱的声音",
-      "slug": "topic",
-      "vote_count": 19,
-      "like_count": 20,
-      "views": 80,
-      "reply_count": 3,
-      "tags": [
-        "社会服务",
-        "社会公益"
-      ],
-      "username": "u3009803814178538",
-      "created_at": "2026-07-09T11:25:11.929Z"
-    },
-    {
       "id": 107217,
       "title": "【生活娱乐赛道】微量生活",
       "slug": "topic",
@@ -4005,7 +4019,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 1,
+      "views": 2,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -4188,7 +4202,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 7,
+      "views": 8,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -5159,7 +5173,7 @@
       "slug": "topic",
       "vote_count": 60,
       "like_count": 96,
-      "views": 880,
+      "views": 881,
       "reply_count": 4,
       "tags": [
         "生活娱乐"
@@ -5201,7 +5215,7 @@
       "slug": "topic",
       "vote_count": 49,
       "like_count": 22,
-      "views": 531,
+      "views": 532,
       "reply_count": 3,
       "tags": [
         "学习工作"
@@ -5581,7 +5595,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 6,
+      "views": 8,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -7227,7 +7241,7 @@
       "slug": "topic",
       "vote_count": 5,
       "like_count": 6,
-      "views": 33,
+      "views": 35,
       "reply_count": 6,
       "tags": [
         "学习工作"
@@ -7270,7 +7284,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 1,
-      "views": 16,
+      "views": 17,
       "reply_count": 0,
       "tags": [
         "学习工作",
@@ -7972,7 +7986,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 16,
+      "views": 17,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -8899,7 +8913,7 @@
       "slug": "topic",
       "vote_count": 4,
       "like_count": 8,
-      "views": 31,
+      "views": 32,
       "reply_count": 4,
       "tags": [
         "学习工作"
@@ -10539,7 +10553,7 @@
       "slug": "topic",
       "vote_count": 56,
       "like_count": 20,
-      "views": 316,
+      "views": 317,
       "reply_count": 1,
       "tags": [
         "社会公益"
@@ -11329,7 +11343,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 2,
-      "views": 11,
+      "views": 12,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -12803,7 +12817,7 @@
       "slug": "topic",
       "vote_count": 148,
       "like_count": 14,
-      "views": 849,
+      "views": 850,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -20402,7 +20416,7 @@
       "slug": "topic",
       "vote_count": 59,
       "like_count": 15,
-      "views": 194,
+      "views": 196,
       "reply_count": 6,
       "tags": [
         "学习工作"
@@ -27634,7 +27648,7 @@
       "slug": "topic",
       "vote_count": 61,
       "like_count": 380,
-      "views": 3081,
+      "views": 3082,
       "reply_count": 94,
       "tags": [
         "学习工作"
@@ -49199,20 +49213,6 @@
       ],
       "username": "u2596384446625296",
       "created_at": "2026-07-02T14:53:13.655Z"
-    },
-    {
-      "id": 68382,
-      "title": "【生活娱乐赛道】时光星球·成长记录 | 积分打卡+愿望兑换，不费妈就能帮助孩子养成好习惯。时光轴下记录成长每一天。",
-      "slug": "topic",
-      "vote_count": 2,
-      "like_count": 0,
-      "views": 22,
-      "reply_count": 0,
-      "tags": [
-        "生活娱乐"
-      ],
-      "username": "u1554026448841104",
-      "created_at": "2026-07-03T01:14:48.371Z"
     },
     {
       "id": 68379,
@@ -92699,7 +92699,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 27,
+      "views": 28,
       "reply_count": 0,
       "tags": [],
       "username": "u1563979237564970",
@@ -102824,6 +102824,6 @@
     }
   ],
   "count": 7346,
-  "last_update": "2026-07-10T15:51:11.695Z",
+  "last_update": "2026-07-10T15:55:55.106Z",
   "error": null
 }
