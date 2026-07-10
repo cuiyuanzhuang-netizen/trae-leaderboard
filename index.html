@@ -1,0 +1,663 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TRAE大赛排行榜查询</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            background: #0f0f1a;
+            color: #e0e0e0;
+            min-height: 100vh;
+        }
+
+        .gradient-bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 400px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+            opacity: 0.15;
+            z-index: -1;
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 30px 0 20px;
+        }
+
+        header h1 {
+            font-size: 28px;
+            font-weight: 700;
+            background: linear-gradient(135deg, #667eea, #f093fb);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 8px;
+        }
+
+        header p {
+            color: #888;
+            font-size: 14px;
+        }
+
+        .search-section {
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 16px;
+            padding: 24px;
+            margin-bottom: 24px;
+            backdrop-filter: blur(10px);
+        }
+
+        .search-bar {
+            display: flex;
+            gap: 12px;
+            margin-bottom: 16px;
+        }
+
+        .search-bar input {
+            flex: 1;
+            padding: 12px 18px;
+            border-radius: 12px;
+            border: 1px solid rgba(255,255,255,0.1);
+            background: rgba(0,0,0,0.3);
+            color: #fff;
+            font-size: 15px;
+            outline: none;
+            transition: border-color 0.3s;
+        }
+
+        .search-bar input:focus {
+            border-color: #667eea;
+        }
+
+        .search-bar input::placeholder {
+            color: #555;
+        }
+
+        .search-bar button {
+            padding: 12px 28px;
+            border-radius: 12px;
+            border: none;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: #fff;
+            font-size: 15px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s, opacity 0.2s;
+            white-space: nowrap;
+        }
+
+        .search-bar button:hover {
+            transform: translateY(-1px);
+            opacity: 0.9;
+        }
+
+        .search-bar button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .tabs {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            margin-bottom: 16px;
+        }
+
+        .tab {
+            padding: 8px 18px;
+            border-radius: 10px;
+            border: 1px solid rgba(255,255,255,0.1);
+            background: rgba(0,0,0,0.2);
+            color: #aaa;
+            font-size: 13px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .tab:hover {
+            border-color: rgba(102,126,234,0.5);
+            color: #ccc;
+        }
+
+        .tab.active {
+            background: linear-gradient(135deg, rgba(102,126,234,0.3), rgba(118,75,162,0.3));
+            border-color: #667eea;
+            color: #fff;
+        }
+
+        .status-bar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 13px;
+            color: #888;
+            margin-bottom: 16px;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .status-bar .stats {
+            display: flex;
+            gap: 16px;
+        }
+
+        .status-bar .stats span {
+            color: #667eea;
+            font-weight: 600;
+        }
+
+        .result-card {
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 16px;
+            padding: 24px;
+            margin-bottom: 16px;
+            text-align: center;
+            display: none;
+        }
+
+        .result-card.show {
+            display: block;
+            animation: fadeIn 0.4s ease;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .result-rank {
+            font-size: 48px;
+            font-weight: 800;
+            background: linear-gradient(135deg, #667eea, #f093fb);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            line-height: 1.2;
+        }
+
+        .result-label {
+            font-size: 14px;
+            color: #888;
+            margin-bottom: 16px;
+        }
+
+        .result-title {
+            font-size: 18px;
+            color: #fff;
+            margin-bottom: 12px;
+            line-height: 1.5;
+        }
+
+        .result-meta {
+            display: flex;
+            justify-content: center;
+            gap: 24px;
+            flex-wrap: wrap;
+            font-size: 14px;
+        }
+
+        .result-meta div {
+            color: #aaa;
+        }
+
+        .result-meta strong {
+            color: #667eea;
+        }
+
+        .result-link {
+            display: inline-block;
+            margin-top: 16px;
+            padding: 8px 24px;
+            border-radius: 10px;
+            background: rgba(102,126,234,0.15);
+            border: 1px solid rgba(102,126,234,0.3);
+            color: #8ea0f0;
+            text-decoration: none;
+            font-size: 14px;
+            transition: all 0.3s;
+        }
+
+        .result-link:hover {
+            background: rgba(102,126,234,0.25);
+        }
+
+        .leaderboard {
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 16px;
+            overflow: hidden;
+        }
+
+        .leaderboard-header {
+            display: grid;
+            grid-template-columns: 50px 1fr 80px 80px 80px;
+            padding: 14px 16px;
+            background: rgba(0,0,0,0.2);
+            font-size: 12px;
+            color: #888;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .leaderboard-item {
+            display: grid;
+            grid-template-columns: 50px 1fr 80px 80px 80px;
+            padding: 14px 16px;
+            border-top: 1px solid rgba(255,255,255,0.04);
+            align-items: center;
+            transition: background 0.2s;
+            cursor: pointer;
+        }
+
+        .leaderboard-item:hover {
+            background: rgba(255,255,255,0.03);
+        }
+
+        .leaderboard-item.highlight {
+            background: rgba(102,126,234,0.1);
+            border-left: 3px solid #667eea;
+        }
+
+        .rank-num {
+            font-weight: 700;
+            font-size: 15px;
+            color: #888;
+        }
+
+        .rank-num.top1 { color: #ffd700; }
+        .rank-num.top2 { color: #c0c0c0; }
+        .rank-num.top3 { color: #cd7f32; }
+
+        .item-title {
+            font-size: 14px;
+            color: #ddd;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            padding-right: 12px;
+        }
+
+        .item-title a {
+            color: #ddd;
+            text-decoration: none;
+        }
+
+        .item-title a:hover {
+            color: #667eea;
+        }
+
+        .item-value {
+            font-size: 14px;
+            font-weight: 600;
+            color: #667eea;
+            text-align: center;
+        }
+
+        .item-tags {
+            display: inline-block;
+            font-size: 11px;
+            padding: 2px 8px;
+            border-radius: 6px;
+            background: rgba(255,255,255,0.06);
+            color: #aaa;
+            margin-left: 6px;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+        }
+
+        .spinner {
+            width: 32px;
+            height: 32px;
+            border: 3px solid rgba(102,126,234,0.2);
+            border-top-color: #667eea;
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+            margin: 0 auto 12px;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        .error-msg {
+            text-align: center;
+            padding: 30px;
+            color: #e57373;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+
+        .refresh-btn {
+            padding: 8px 20px;
+            border-radius: 10px;
+            border: 1px solid rgba(255,255,255,0.1);
+            background: rgba(0,0,0,0.2);
+            color: #aaa;
+            font-size: 13px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .refresh-btn:hover {
+            border-color: #667eea;
+            color: #fff;
+        }
+
+        footer {
+            text-align: center;
+            padding: 30px 0;
+            color: #555;
+            font-size: 12px;
+            line-height: 1.6;
+        }
+
+        footer a {
+            color: #667eea;
+            text-decoration: none;
+        }
+
+        @media (max-width: 700px) {
+            .leaderboard-header, .leaderboard-item {
+                grid-template-columns: 40px 1fr 60px 60px 60px;
+                font-size: 12px;
+                padding: 10px 10px;
+            }
+            .item-title {
+                font-size: 13px;
+            }
+            .search-bar {
+                flex-direction: column;
+            }
+            .search-bar button {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="gradient-bg"></div>
+    <div class="container">
+        <header>
+            <h1>TRAE AI 创造力大赛 · 排行榜查询</h1>
+            <p>搜索你的作品，查看投票排名和综合排行</p>
+        </header>
+
+        <div class="search-section">
+            <div class="search-bar">
+                <input type="text" id="searchInput" placeholder="输入作品名称或用户名进行搜索..." />
+                <button id="searchBtn" onclick="searchWork()">搜索排名</button>
+            </div>
+            <div class="tabs">
+                <div class="tab active" data-sort="vote" onclick="switchTab('vote')">投票排行</div>
+                <div class="tab" data-sort="like" onclick="switchTab('like')">点赞排行</div>
+                <div class="tab" data-sort="views" onclick="switchTab('views')">浏览排行</div>
+                <div class="tab" data-sort="hot" onclick="switchTab('hot')">综合热度</div>
+            </div>
+            <div class="status-bar">
+                <div class="stats">
+                    <span id="totalCount">-</span> 个作品
+                    <span id="lastUpdate" style="color:#666;">未加载</span>
+                </div>
+                <button class="refresh-btn" onclick="refreshData()">刷新数据</button>
+            </div>
+        </div>
+
+        <div class="result-card" id="resultCard">
+            <div class="result-label">你的排名</div>
+            <div class="result-rank" id="resultRank">#-</div>
+            <div class="result-title" id="resultTitle"></div>
+            <div class="result-meta" id="resultMeta"></div>
+            <a href="#" id="resultLink" class="result-link" target="_blank">查看作品帖</a>
+        </div>
+
+        <div id="loadingDiv" class="loading" style="display:none;">
+            <div class="spinner"></div>
+            <div id="loadingText">正在加载所有参赛作品...</div>
+        </div>
+
+        <div id="errorDiv" class="error-msg" style="display:none;"></div>
+
+        <div id="leaderboardDiv" class="leaderboard" style="display:none;">
+            <div class="leaderboard-header">
+                <div>排名</div>
+                <div>作品名称</div>
+                <div id="colHeader2">投票</div>
+                <div>点赞</div>
+                <div>浏览</div>
+            </div>
+            <div id="leaderboardBody"></div>
+        </div>
+
+        <footer>
+            <p>数据来源：<a href="https://forum.trae.cn/c/38-category/40-category/40" target="_blank">TRAE社区初赛专区</a></p>
+            <p>数据仅供参考，最终排名以官方评审结果为准</p>
+        </footer>
+    </div>
+
+    <script>
+        let allTopics = [];
+        let currentSort = 'vote';
+        let loaded = false;
+
+        async function loadData() {
+            const loadingDiv = document.getElementById('loadingDiv');
+            const errorDiv = document.getElementById('errorDiv');
+            const leaderboardDiv = document.getElementById('leaderboardDiv');
+            const loadingText = document.getElementById('loadingText');
+            const refreshBtn = document.querySelector('.refresh-btn');
+
+            loadingDiv.style.display = 'block';
+            errorDiv.style.display = 'none';
+            leaderboardDiv.style.display = 'none';
+            if (refreshBtn) refreshBtn.disabled = true;
+
+            try {
+                loadingText.textContent = '正在从论坛获取全部参赛作品数据...';
+
+                const res = await fetch('/api/data', { signal: AbortSignal.timeout(30000) });
+                if (!res.ok) throw new Error('服务器返回错误: ' + res.status);
+                const data = await res.json();
+
+                if (data.error && (!data.topics || data.topics.length === 0)) {
+                    throw new Error(data.error);
+                }
+
+                allTopics = data.topics || [];
+                loaded = true;
+                loadingDiv.style.display = 'none';
+                leaderboardDiv.style.display = 'block';
+
+                document.getElementById('totalCount').textContent = allTopics.length;
+                const ts = data.last_update || new Date().toISOString();
+                const timeStr = new Date(ts).toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit' });
+                document.getElementById('lastUpdate').textContent = '更新于 ' + timeStr;
+
+                renderLeaderboard();
+
+            } catch (e) {
+                loadingDiv.style.display = 'none';
+                errorDiv.style.display = 'block';
+                errorDiv.innerHTML = `数据加载失败：${e.message}<br><br>可能是网络问题或论坛访问限制。<br>请稍后重试，或直接访问<a href="https://forum.trae.cn/c/38-category/40-category/40" target="_blank" style="color:#667eea;">初赛专区</a>查看。`;
+            } finally {
+                if (refreshBtn) refreshBtn.disabled = false;
+            }
+        }
+
+        async function refreshData() {
+            await loadData();
+        }
+
+        function getSortedTopics() {
+            const sorted = [...allTopics];
+            switch (currentSort) {
+                case 'vote':
+                    return sorted.sort((a,b) => b.vote_count - a.vote_count);
+                case 'like':
+                    return sorted.sort((a,b) => b.like_count - a.like_count);
+                case 'views':
+                    return sorted.sort((a,b) => b.views - a.views);
+                case 'hot':
+                    return sorted.sort((a,b) => {
+                        const scoreA = a.vote_count * 3 + a.like_count * 2 + Math.log10(a.views + 1) * 5;
+                        const scoreB = b.vote_count * 3 + b.like_count * 2 + Math.log10(b.views + 1) * 5;
+                        return scoreB - scoreA;
+                    });
+            }
+            return sorted;
+        }
+
+        function renderLeaderboard(highlightId) {
+            const body = document.getElementById('leaderboardBody');
+            const sorted = getSortedTopics();
+            const top = sorted.slice(0, 100);
+
+            const colHeaders = {
+                vote: '投票',
+                like: '点赞',
+                views: '浏览',
+                hot: '热度'
+            };
+            document.getElementById('colHeader2').textContent = colHeaders[currentSort];
+
+            body.innerHTML = top.map((t, i) => {
+                const rank = i + 1;
+                const rankClass = rank <= 3 ? 'top' + rank : '';
+                const highlight = t.id === highlightId ? 'highlight' : '';
+                const tagHtml = t.tags.length > 0
+                    ? `<span class="item-tags">${t.tags[0]}</span>`
+                    : '';
+                const mainValue = currentSort === 'vote' ? t.vote_count
+                    : currentSort === 'like' ? t.like_count
+                    : currentSort === 'views' ? t.views
+                    : Math.round(t.vote_count * 3 + t.like_count * 2 + Math.log10(t.views + 1) * 5);
+
+                return `<div class="leaderboard-item ${highlight}" onclick="window.open('https://forum.trae.cn/t/topic/${t.id}', '_blank')">
+                    <div class="rank-num ${rankClass}">${rank}</div>
+                    <div class="item-title">
+                        <a href="https://forum.trae.cn/t/topic/${t.id}" target="_blank" onclick="event.stopPropagation()">${escapeHtml(t.title)}</a>
+                        ${tagHtml}
+                    </div>
+                    <div class="item-value">${mainValue}</div>
+                    <div class="item-value" style="color:#e57373;">${t.like_count}</div>
+                    <div class="item-value" style="color:#81c784;">${t.views}</div>
+                </div>`;
+            }).join('');
+        }
+
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        function searchWork() {
+            if (!loaded) {
+                alert('数据还在加载中，请稍等...');
+                return;
+            }
+
+            const query = document.getElementById('searchInput').value.trim().toLowerCase();
+            if (!query) {
+                alert('请输入作品名称或用户名');
+                return;
+            }
+
+            const resultCard = document.getElementById('resultCard');
+            const sorted = getSortedTopics();
+
+            const found = sorted.filter(t =>
+                t.title.toLowerCase().includes(query) ||
+                t.username.toLowerCase().includes(query)
+            );
+
+            if (found.length === 0) {
+                resultCard.classList.add('show');
+                resultCard.innerHTML = `
+                    <div class="result-label">未找到匹配作品</div>
+                    <div style="font-size:16px;color:#aaa;margin-top:12px;">没有找到包含 "${escapeHtml(query)}" 的作品</div>
+                    <div style="font-size:13px;color:#666;margin-top:8px;">请尝试输入作品名称的关键词或你的论坛用户名</div>
+                `;
+                return;
+            }
+
+            const best = found[0];
+            const rank = sorted.indexOf(best) + 1;
+            const total = sorted.length;
+            const percentile = ((1 - rank / total) * 100).toFixed(1);
+
+            resultCard.classList.add('show');
+            document.getElementById('resultRank').textContent = '#' + rank;
+            document.getElementById('resultTitle').textContent = best.title;
+
+            const rankLabels = {
+                vote: '投票排名',
+                like: '点赞排名',
+                views: '浏览排名',
+                hot: '综合热度排名'
+            };
+
+            const mainValue = currentSort === 'vote' ? best.vote_count + ' 票'
+                : currentSort === 'like' ? best.like_count + ' 赞'
+                : currentSort === 'views' ? best.views + ' 次浏览'
+                : Math.round(best.vote_count * 3 + best.like_count * 2 + Math.log10(best.views + 1) * 5) + ' 分';
+
+            document.getElementById('resultMeta').innerHTML = `
+                <div>${rankLabels[currentSort]}：<strong>${mainValue}</strong></div>
+                <div>投票：<strong>${best.vote_count}</strong></div>
+                <div>点赞：<strong>${best.like_count}</strong></div>
+                <div>浏览：<strong>${best.views}</strong></div>
+                <div>超过 <strong>${percentile}%</strong> 的作品</div>
+            `;
+
+            const link = document.getElementById('resultLink');
+            link.href = `https://forum.trae.cn/t/topic/${best.id}`;
+
+            renderLeaderboard(best.id);
+
+            resultCard.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+
+        function switchTab(sort) {
+            currentSort = sort;
+            document.querySelectorAll('.tab').forEach(t => {
+                t.classList.toggle('active', t.dataset.sort === sort);
+            });
+
+            if (loaded) {
+                renderLeaderboard();
+                const query = document.getElementById('searchInput').value.trim();
+                if (query) searchWork();
+            }
+        }
+
+        document.getElementById('searchInput').addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') searchWork();
+        });
+
+        loadData();
+    </script>
+</body>
+</html>
