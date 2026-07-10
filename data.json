@@ -1,6 +1,20 @@
 {
   "topics": [
     {
+      "id": 112049,
+      "title": "【社会服务赛道】片成 Film end: AI 快速剪辑并可视化调整创作系统",
+      "slug": "topic",
+      "vote_count": 2,
+      "like_count": 0,
+      "views": 5,
+      "reply_count": 0,
+      "tags": [
+        "社会服务"
+      ],
+      "username": "andi1123",
+      "created_at": "2026-07-10T15:29:07.135Z"
+    },
+    {
       "id": 70989,
       "title": "【学习工作赛道】校联学仓 —— 一体化学生云盘社交 AI 综合平台",
       "slug": "topic",
@@ -159,9 +173,9 @@
       "id": 112061,
       "title": "【学习工作赛道】职途 - AI面试模拟沙盘",
       "slug": "topic",
-      "vote_count": 1,
+      "vote_count": 2,
       "like_count": 0,
-      "views": 5,
+      "views": 6,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -187,7 +201,7 @@
       "id": 112056,
       "title": "一个沉浸式梦境记录与探索平台，支持AI梦境解析、星空可视化、深浅色切换及分享卡片导出。",
       "slug": "topic",
-      "vote_count": 0,
+      "vote_count": 1,
       "like_count": 0,
       "views": 2,
       "reply_count": 0,
@@ -196,20 +210,6 @@
       ],
       "username": "u3991665920720339",
       "created_at": "2026-07-10T15:37:34.691Z"
-    },
-    {
-      "id": 112049,
-      "title": "【社会服务赛道】片成 Film end: AI 快速剪辑并可视化调整创作系统",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
-      "views": 5,
-      "reply_count": 0,
-      "tags": [
-        "社会服务"
-      ],
-      "username": "andi1123",
-      "created_at": "2026-07-10T15:29:07.135Z"
     },
     {
       "id": 73676,
@@ -2025,7 +2025,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -3478,20 +3478,6 @@
       "created_at": "2026-07-10T11:13:56.241Z"
     },
     {
-      "id": 71322,
-      "title": "RevLab 逆向实验室 — JS 逆向可视化教学沙箱",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 2,
-      "views": 14,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "spider",
-      "created_at": "2026-07-05T02:51:16.442Z"
-    },
-    {
       "id": 111689,
       "title": "一名关注教育科技的独立开发者，致力于用技术帮助中学生做出更科学的学业决策",
       "slug": "topic",
@@ -4020,7 +4006,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 6,
+      "views": 7,
       "reply_count": 0,
       "tags": [],
       "username": "u4118146289252692",
@@ -4103,7 +4089,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -4230,7 +4216,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 1,
+      "views": 2,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -7355,7 +7341,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 8,
-      "views": 34,
+      "views": 35,
       "reply_count": 3,
       "tags": [
         "学习工作"
@@ -12489,7 +12475,7 @@
       "slug": "topic",
       "vote_count": 8,
       "like_count": 84,
-      "views": 366,
+      "views": 367,
       "reply_count": 12,
       "tags": [
         "学习工作"
@@ -24006,7 +23992,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 1,
-      "views": 23,
+      "views": 24,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -35158,6 +35144,20 @@
       "created_at": "2026-07-04T15:48:11.655Z"
     },
     {
+      "id": 71322,
+      "title": "RevLab 逆向实验室 — JS 逆向可视化教学沙箱",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 2,
+      "views": 14,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "spider",
+      "created_at": "2026-07-05T02:51:16.442Z"
+    },
+    {
       "id": 71054,
       "title": "【社会服务赛道】遗境探秘 —— AI 驱动的非遗沉浸式互动剧本游戏 可在线体验",
       "slug": "topic",
@@ -37761,7 +37761,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 16,
+      "views": 17,
       "reply_count": 0,
       "tags": [],
       "username": "u3682691789633865",
@@ -41851,7 +41851,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 78,
+      "views": 79,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -54108,7 +54108,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 0,
-      "views": 95,
+      "views": 96,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -65736,7 +65736,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 14,
+      "views": 15,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -76157,7 +76157,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 30,
+      "views": 31,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -90832,7 +90832,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 39,
+      "views": 40,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -94210,7 +94210,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 4,
-      "views": 176,
+      "views": 177,
       "reply_count": 1,
       "tags": [
         "生活娱乐"
@@ -102823,6 +102823,6 @@
     }
   ],
   "count": 7346,
-  "last_update": "2026-07-10T16:35:56.277Z",
+  "last_update": "2026-07-10T16:41:07.646Z",
   "error": null
 }
