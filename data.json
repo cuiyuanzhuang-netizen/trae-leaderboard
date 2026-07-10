@@ -1,6 +1,20 @@
 {
   "topics": [
     {
+      "id": 97957,
+      "title": "【硬件交互赛道】赛博EDC推牌---电子指尖滑轨---快节奏生活的随身解压玩具",
+      "slug": "topic",
+      "vote_count": 2,
+      "like_count": 1,
+      "views": 23,
+      "reply_count": 3,
+      "tags": [
+        "硬件交互"
+      ],
+      "username": "ZENEDC",
+      "created_at": "2026-07-10T08:05:08.191Z"
+    },
+    {
       "id": 68382,
       "title": "【生活娱乐赛道】时光星球·成长记录 | 积分打卡+愿望兑换，不费妈就能帮助孩子养成好习惯。时光轴下记录成长每一天。",
       "slug": "topic",
@@ -76,7 +90,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 5,
-      "views": 11,
+      "views": 13,
       "reply_count": 2,
       "tags": [
         "社会服务",
@@ -119,7 +133,7 @@
       "slug": "topic",
       "vote_count": 12,
       "like_count": 115,
-      "views": 584,
+      "views": 585,
       "reply_count": 15,
       "tags": [
         "社会服务"
@@ -243,7 +257,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 3,
-      "views": 22,
+      "views": 23,
       "reply_count": 2,
       "tags": [
         "生活娱乐"
@@ -861,9 +875,9 @@
       "id": 96869,
       "title": "【学习工作赛道】不摸鱼会死人，只是当局者都不知道而已——摸鱼修仙传",
       "slug": "topic",
-      "vote_count": 12,
+      "vote_count": 13,
       "like_count": 10,
-      "views": 71,
+      "views": 72,
       "reply_count": 6,
       "tags": [
         "学习工作"
@@ -1325,20 +1339,6 @@
       ],
       "username": "子杰",
       "created_at": "2026-07-05T06:06:31.864Z"
-    },
-    {
-      "id": 97957,
-      "title": "【硬件交互赛道】赛博EDC推牌---电子指尖滑轨---快节奏生活的随身解压玩具",
-      "slug": "topic",
-      "vote_count": 2,
-      "like_count": 1,
-      "views": 22,
-      "reply_count": 2,
-      "tags": [
-        "硬件交互"
-      ],
-      "username": "ZENEDC",
-      "created_at": "2026-07-10T08:05:08.191Z"
     },
     {
       "id": 111973,
@@ -2903,7 +2903,7 @@
       "slug": "topic",
       "vote_count": 127,
       "like_count": 137,
-      "views": 1410,
+      "views": 1412,
       "reply_count": 7,
       "tags": [
         "生活娱乐"
@@ -4441,7 +4441,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 6,
+      "views": 7,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -8142,7 +8142,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 14,
+      "views": 16,
       "reply_count": 0,
       "tags": [
         "硬件交互"
@@ -10253,9 +10253,9 @@
       "id": 50091,
       "title": "生活娱乐赛道 + 识蕴 AI汉服图鉴社交小程序",
       "slug": "topic",
-      "vote_count": 40,
+      "vote_count": 41,
       "like_count": 65,
-      "views": 335,
+      "views": 336,
       "reply_count": 18,
       "tags": [
         "生活娱乐"
@@ -17744,7 +17744,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 5,
+      "views": 6,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -73847,7 +73847,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 7,
+      "views": 8,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -77080,7 +77080,7 @@
       "slug": "topic",
       "vote_count": 25,
       "like_count": 0,
-      "views": 122,
+      "views": 123,
       "reply_count": 0,
       "tags": [
         "生活娱乐",
@@ -102838,6 +102838,6 @@
     }
   ],
   "count": 7347,
-  "last_update": "2026-07-10T16:05:57.049Z",
+  "last_update": "2026-07-10T16:11:30.139Z",
   "error": null
 }
