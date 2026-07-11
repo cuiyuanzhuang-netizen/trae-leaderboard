@@ -1,6 +1,258 @@
 {
   "topics": [
     {
+      "id": 112561,
+      "title": "【学习工作赛道】《你没事吧APP》Demo：年轻人的情绪吐槽与人生高光记录站",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 0,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u4425978531028388",
+      "created_at": "2026-07-11T05:04:36.832Z"
+    },
+    {
+      "id": 40329,
+      "title": "【社会服务/社会公益】暖行者AI — 骑手智能配送助手",
+      "slug": "topic",
+      "vote_count": 10,
+      "like_count": 40,
+      "views": 365,
+      "reply_count": 9,
+      "tags": [
+        "社会服务",
+        "社会公益"
+      ],
+      "username": "暖行者",
+      "created_at": "2026-06-22T18:31:13.653Z"
+    },
+    {
+      "id": 32905,
+      "title": "【社会服务赛道】智读古籍——AI让千年典籍活起来，人人皆可与先贤对话",
+      "slug": "topic",
+      "vote_count": 93,
+      "like_count": 57,
+      "views": 1392,
+      "reply_count": 16,
+      "tags": [
+        "社会服务",
+        "社会公益"
+      ],
+      "username": "u2860264051712039",
+      "created_at": "2026-06-18T12:36:34.037Z"
+    },
+    {
+      "id": 39844,
+      "title": "（3D非遗物品效果，可在线体验网址！！！）【社会服务、社会公益赛道】「非遗新韵 · 锦绣中华」——为非遗文化焕发新的光彩",
+      "slug": "topic",
+      "vote_count": 30,
+      "like_count": 139,
+      "views": 1188,
+      "reply_count": 48,
+      "tags": [
+        "社会服务",
+        "社会公益"
+      ],
+      "username": "u33435435925884",
+      "created_at": "2026-06-22T12:16:07.392Z"
+    },
+    {
+      "id": 50430,
+      "title": "【社会服务赛道】DPU·需求势能引擎：让AI通过12维需求分析，读懂你话语背后的真实意思（含人格模拟|装逼检测|智能对话分析）",
+      "slug": "topic",
+      "vote_count": 49,
+      "like_count": 171,
+      "views": 729,
+      "reply_count": 51,
+      "tags": [
+        "社会服务",
+        "社会公益"
+      ],
+      "username": "Alpha-领域",
+      "created_at": "2026-06-29T10:51:48.326Z"
+    },
+    {
+      "id": 26381,
+      "title": "【社会服务赛道】老人沟通转化器Demo——用AI把\"正常话\"变成老人听得懂的指令",
+      "slug": "topic",
+      "vote_count": 4,
+      "like_count": 8,
+      "views": 534,
+      "reply_count": 1,
+      "tags": [
+        "社会服务",
+        "社会公益"
+      ],
+      "username": "u775572157899435",
+      "created_at": "2026-06-17T03:07:28.638Z"
+    },
+    {
+      "id": 23654,
+      "title": "【社会服务赛道】CareBridge：让每一代女性，无论处于哪个年龄阶段，在低资源环境里都能获得持续的健康照护",
+      "slug": "topic",
+      "vote_count": 106,
+      "like_count": 123,
+      "views": 1773,
+      "reply_count": 86,
+      "tags": [
+        "社会服务",
+        "社会公益"
+      ],
+      "username": "用户18",
+      "created_at": "2026-06-16T08:56:27.289Z"
+    },
+    {
+      "id": 31818,
+      "title": "【学习工作】+沉浸式英语学习助手",
+      "slug": "topic",
+      "vote_count": 2,
+      "like_count": 1,
+      "views": 45,
+      "reply_count": 0,
+      "tags": [
+        "学习工作",
+        "社会公益"
+      ],
+      "username": "用户43182",
+      "created_at": "2026-06-18T07:09:58.335Z"
+    },
+    {
+      "id": 32325,
+      "title": "【社会公益赛道】回声——–一个基于个人数字遗产的性格化记忆交互档案demo",
+      "slug": "topic",
+      "vote_count": 3,
+      "like_count": 0,
+      "views": 44,
+      "reply_count": 0,
+      "tags": [
+        "社会公益"
+      ],
+      "username": "FreeWhite",
+      "created_at": "2026-06-18T08:54:42.199Z"
+    },
+    {
+      "id": 31849,
+      "title": "【社会公益赛道】+ 食光知味——AI 拍照识别食物营养，为全家人的健康把关",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 30,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐",
+        "社会公益"
+      ],
+      "username": "u3423254831443111",
+      "created_at": "2026-06-18T07:21:02.745Z"
+    },
+    {
+      "id": 32172,
+      "title": "【生活娱乐赛道 + 社会公益附加】AI 公益营养师——拍照识卡路里，免费定制你的专属饮食计划",
+      "slug": "topic",
+      "vote_count": 7,
+      "like_count": 9,
+      "views": 96,
+      "reply_count": 5,
+      "tags": [
+        "生活娱乐",
+        "社会公益"
+      ],
+      "username": "用户65872",
+      "created_at": "2026-06-18T08:27:28.917Z"
+    },
+    {
+      "id": 31322,
+      "title": "【社会服务赛道】安心办——老人也能看懂的医保、银行、政务 App 操作助手",
+      "slug": "topic",
+      "vote_count": 2,
+      "like_count": 0,
+      "views": 30,
+      "reply_count": 0,
+      "tags": [
+        "社会服务",
+        "社会公益"
+      ],
+      "username": "lv.999",
+      "created_at": "2026-06-18T04:46:09.081Z"
+    },
+    {
+      "id": 25673,
+      "title": "【社会服务赛道】时光相簿 Demo - 阿尔茨海默患者回忆训练工具",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 108,
+      "reply_count": 0,
+      "tags": [
+        "社会公益"
+      ],
+      "username": "用户12603",
+      "created_at": "2026-06-16T18:59:31.255Z"
+    },
+    {
+      "id": 30597,
+      "title": "【社会服务赛道 + 社会公益】明途 MingTu Demo —— AI 视障出行伴侣，打开即用的\"电子导盲犬\"",
+      "slug": "topic",
+      "vote_count": 2,
+      "like_count": 0,
+      "views": 103,
+      "reply_count": 0,
+      "tags": [
+        "社会服务",
+        "社会公益"
+      ],
+      "username": "用户12603",
+      "created_at": "2026-06-18T01:45:50.106Z"
+    },
+    {
+      "id": 30679,
+      "title": "【社会服务赛道】智绘笔记 MindMap AI —— AI 自动将学习资料转化为知识图谱",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 34,
+      "reply_count": 0,
+      "tags": [
+        "学习工作",
+        "社会服务",
+        "社会公益"
+      ],
+      "username": "用户65477",
+      "created_at": "2026-06-18T02:02:56.741Z"
+    },
+    {
+      "id": 112560,
+      "title": "【生活娱乐赛道】跨次元聊天，干涉他们的人生剧本，可以试用，我接AI了，但是没有安卓的主动轮询推送机制，剧情AI可能不会自己推进（特雷西娅、能天使、星、夏弥。我估计夏弥会因为版权给下掉）",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 0,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u2860297364702435",
+      "created_at": "2026-07-11T05:01:07.773Z"
+    },
+    {
+      "id": 27904,
+      "title": "【社会服务赛道】银龄防骗助手——拍照识骗 + 语音问 AI，帮助老人远离诈骗！",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 74,
+      "reply_count": 0,
+      "tags": [
+        "社会服务",
+        "社会公益"
+      ],
+      "username": "Pisco",
+      "created_at": "2026-06-17T07:58:58.126Z"
+    },
+    {
       "id": 24053,
       "title": "【社会服务赛道】毕业集市——让毕业生物品流转更简单——初赛 Demo 帖",
       "slug": "topic",
@@ -150,9 +402,9 @@
       "id": 112374,
       "title": "【硬件交互+社会公益】步伴 Buban —— 这！是我们做的AI “硬&核”拐棍",
       "slug": "topic",
-      "vote_count": 44,
+      "vote_count": 45,
       "like_count": 7,
-      "views": 88,
+      "views": 89,
       "reply_count": 1,
       "tags": [
         "社会公益",
@@ -634,9 +886,9 @@
       "id": 112511,
       "title": "【生活娱乐】都市隶人",
       "slug": "topic",
-      "vote_count": 0,
+      "vote_count": 1,
       "like_count": 0,
-      "views": 0,
+      "views": 1,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -947,7 +1199,7 @@
       "slug": "topic",
       "vote_count": 21,
       "like_count": 58,
-      "views": 756,
+      "views": 757,
       "reply_count": 13,
       "tags": [
         "学习工作"
@@ -1449,21 +1701,6 @@
       "created_at": "2026-07-11T03:21:59.132Z"
     },
     {
-      "id": 32905,
-      "title": "【社会服务赛道】智读古籍——AI让千年典籍活起来，人人皆可与先贤对话",
-      "slug": "topic",
-      "vote_count": 93,
-      "like_count": 57,
-      "views": 1392,
-      "reply_count": 16,
-      "tags": [
-        "社会服务",
-        "社会公益"
-      ],
-      "username": "u2860264051712039",
-      "created_at": "2026-06-18T12:36:34.037Z"
-    },
-    {
       "id": 112458,
       "title": "【社会服务赛道】＋医路伴",
       "slug": "topic",
@@ -1825,7 +2062,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 0,
-      "views": 20,
+      "views": 21,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -2360,21 +2597,6 @@
       "created_at": "2026-07-10T15:14:25.673Z"
     },
     {
-      "id": 39844,
-      "title": "（3D非遗物品效果，可在线体验网址！！！）【社会服务、社会公益赛道】「非遗新韵 · 锦绣中华」——为非遗文化焕发新的光彩",
-      "slug": "topic",
-      "vote_count": 30,
-      "like_count": 139,
-      "views": 1188,
-      "reply_count": 48,
-      "tags": [
-        "社会服务",
-        "社会公益"
-      ],
-      "username": "u33435435925884",
-      "created_at": "2026-06-22T12:16:07.392Z"
-    },
-    {
       "id": 112302,
       "title": "【硬件交互赛道】VibeInput — 手机变电脑的万能输入器",
       "slug": "topic",
@@ -2811,7 +3033,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 1,
+      "views": 2,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -3940,21 +4162,6 @@
       "created_at": "2026-07-10T16:51:41.282Z"
     },
     {
-      "id": 40329,
-      "title": "【社会服务/社会公益】暖行者AI — 骑手智能配送助手",
-      "slug": "topic",
-      "vote_count": 10,
-      "like_count": 40,
-      "views": 364,
-      "reply_count": 9,
-      "tags": [
-        "社会服务",
-        "社会公益"
-      ],
-      "username": "暖行者",
-      "created_at": "2026-06-22T18:31:13.653Z"
-    },
-    {
       "id": 96897,
       "title": "让数学不再单调",
       "slug": "topic",
@@ -4949,6 +5156,20 @@
       ],
       "username": "夏秋一梦",
       "created_at": "2026-07-10T15:23:35.117Z"
+    },
+    {
+      "id": 112017,
+      "title": "【学习工作】扫描认知盲区 用碎片时间建立政治、军事、历史、哲学、金融五大学科的底层认知",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 2,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "Shelly",
+      "created_at": "2026-07-10T15:23:34.495Z"
     },
     {
       "id": 111645,
@@ -6962,7 +7183,7 @@
       "slug": "topic",
       "vote_count": 127,
       "like_count": 137,
-      "views": 1424,
+      "views": 1425,
       "reply_count": 7,
       "tags": [
         "生活娱乐"
@@ -7639,21 +7860,6 @@
       ],
       "username": "离垢",
       "created_at": "2026-07-10T08:26:14.442Z"
-    },
-    {
-      "id": 50430,
-      "title": "【社会服务赛道】DPU·需求势能引擎：让AI通过12维需求分析，读懂你话语背后的真实意思（含人格模拟|装逼检测|智能对话分析）",
-      "slug": "topic",
-      "vote_count": 49,
-      "like_count": 171,
-      "views": 728,
-      "reply_count": 51,
-      "tags": [
-        "社会服务",
-        "社会公益"
-      ],
-      "username": "Alpha-领域",
-      "created_at": "2026-06-29T10:51:48.326Z"
     },
     {
       "id": 111578,
@@ -10527,7 +10733,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 7,
+      "views": 8,
       "reply_count": 0,
       "tags": [
         "生活娱乐",
@@ -11821,7 +12027,7 @@
       "slug": "topic",
       "vote_count": 8,
       "like_count": 15,
-      "views": 88,
+      "views": 89,
       "reply_count": 5,
       "tags": [
         "学习工作"
@@ -12474,21 +12680,6 @@
       ],
       "username": "u3682690187673824",
       "created_at": "2026-06-20T04:02:14.280Z"
-    },
-    {
-      "id": 23654,
-      "title": "【社会服务赛道】CareBridge：让每一代女性，无论处于哪个年龄阶段，在低资源环境里都能获得持续的健康照护",
-      "slug": "topic",
-      "vote_count": 106,
-      "like_count": 123,
-      "views": 1772,
-      "reply_count": 86,
-      "tags": [
-        "社会服务",
-        "社会公益"
-      ],
-      "username": "用户18",
-      "created_at": "2026-06-16T08:56:27.289Z"
     },
     {
       "id": 96950,
@@ -19321,7 +19512,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 31,
+      "views": 32,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -20378,7 +20569,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 8,
+      "views": 9,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -24717,9 +24908,9 @@
       "id": 75313,
       "title": "【生活娱乐赛道】今天·Echo",
       "slug": "topic",
-      "vote_count": 0,
+      "vote_count": 1,
       "like_count": 1,
-      "views": 10,
+      "views": 11,
       "reply_count": 0,
       "tags": [
         "生活娱乐",
@@ -26084,7 +26275,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 3,
-      "views": 19,
+      "views": 20,
       "reply_count": 0,
       "tags": [
         "社会服务"
@@ -31600,7 +31791,7 @@
       "slug": "topic",
       "vote_count": 11,
       "like_count": 2,
-      "views": 72,
+      "views": 73,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -82399,7 +82590,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 13,
+      "views": 14,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -99646,21 +99837,6 @@
       "created_at": "2026-06-19T05:12:41.857Z"
     },
     {
-      "id": 26381,
-      "title": "【社会服务赛道】老人沟通转化器Demo——用AI把\"正常话\"变成老人听得懂的指令",
-      "slug": "topic",
-      "vote_count": 4,
-      "like_count": 8,
-      "views": 532,
-      "reply_count": 1,
-      "tags": [
-        "社会服务",
-        "社会公益"
-      ],
-      "username": "u775572157899435",
-      "created_at": "2026-06-17T03:07:28.638Z"
-    },
-    {
       "id": 33985,
       "title": "情绪陪伴聊天机器人",
       "slug": "topic",
@@ -101500,35 +101676,6 @@
       "created_at": "2026-06-18T09:15:17.438Z"
     },
     {
-      "id": 32172,
-      "title": "【生活娱乐赛道 + 社会公益附加】AI 公益营养师——拍照识卡路里，免费定制你的专属饮食计划",
-      "slug": "topic",
-      "vote_count": 7,
-      "like_count": 9,
-      "views": 96,
-      "reply_count": 5,
-      "tags": [
-        "生活娱乐",
-        "社会公益"
-      ],
-      "username": "用户65872",
-      "created_at": "2026-06-18T08:27:28.917Z"
-    },
-    {
-      "id": 32325,
-      "title": "【社会公益赛道】回声——–一个基于个人数字遗产的性格化记忆交互档案demo",
-      "slug": "topic",
-      "vote_count": 3,
-      "like_count": 0,
-      "views": 44,
-      "reply_count": 0,
-      "tags": [
-        "社会公益"
-      ],
-      "username": "FreeWhite",
-      "created_at": "2026-06-18T08:54:42.199Z"
-    },
-    {
       "id": 32388,
       "title": "【生活娱乐赛道】+蛙徒——与你同行 让每一次出发都有迹可循",
       "slug": "topic",
@@ -102037,21 +102184,6 @@
       "created_at": "2026-06-18T07:03:36.705Z"
     },
     {
-      "id": 31818,
-      "title": "【学习工作】+沉浸式英语学习助手",
-      "slug": "topic",
-      "vote_count": 2,
-      "like_count": 1,
-      "views": 43,
-      "reply_count": 0,
-      "tags": [
-        "学习工作",
-        "社会公益"
-      ],
-      "username": "用户43182",
-      "created_at": "2026-06-18T07:09:58.335Z"
-    },
-    {
       "id": 31915,
       "title": "【学习工作赛道】 Offer Lens —— 竞岗透镜：把招聘JD变成你的竞争策略地图",
       "slug": "topic",
@@ -102092,21 +102224,6 @@
       ],
       "username": "用户62314",
       "created_at": "2026-06-18T07:48:08.412Z"
-    },
-    {
-      "id": 31849,
-      "title": "【社会公益赛道】+ 食光知味——AI 拍照识别食物营养，为全家人的健康把关",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 30,
-      "reply_count": 0,
-      "tags": [
-        "生活娱乐",
-        "社会公益"
-      ],
-      "username": "u3423254831443111",
-      "created_at": "2026-06-18T07:21:02.745Z"
     },
     {
       "id": 31730,
@@ -102351,21 +102468,6 @@
       ],
       "username": "maniu",
       "created_at": "2026-06-18T04:46:11.008Z"
-    },
-    {
-      "id": 31322,
-      "title": "【社会服务赛道】安心办——老人也能看懂的医保、银行、政务 App 操作助手",
-      "slug": "topic",
-      "vote_count": 2,
-      "like_count": 0,
-      "views": 30,
-      "reply_count": 0,
-      "tags": [
-        "社会服务",
-        "社会公益"
-      ],
-      "username": "lv.999",
-      "created_at": "2026-06-18T04:46:09.081Z"
     },
     {
       "id": 31305,
@@ -104525,20 +104627,6 @@
       "created_at": "2026-06-17T03:49:09.978Z"
     },
     {
-      "id": 25673,
-      "title": "【社会服务赛道】时光相簿 Demo - 阿尔茨海默患者回忆训练工具",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
-      "views": 108,
-      "reply_count": 0,
-      "tags": [
-        "社会公益"
-      ],
-      "username": "用户12603",
-      "created_at": "2026-06-16T18:59:31.255Z"
-    },
-    {
       "id": 26559,
       "title": "【社会服务赛道】全民 GEO 服务平台 Demo—— 人人可拥有的大模型可识别技能数字身份",
       "slug": "topic",
@@ -104884,7 +104972,7 @@
       "created_at": "2026-06-16T09:36:55.350Z"
     }
   ],
-  "count": 7492,
-  "last_update": "2026-07-11T05:01:30.415Z",
+  "count": 7498,
+  "last_update": "2026-07-11T05:05:54.068Z",
   "error": null
 }
