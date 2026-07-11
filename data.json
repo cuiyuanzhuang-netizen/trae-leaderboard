@@ -1,6 +1,79 @@
 {
   "topics": [
     {
+      "id": 112374,
+      "title": "【硬件交互+社会公益】步伴 Buban —— 这！是我们做的AI “硬&核”拐棍",
+      "slug": "topic",
+      "vote_count": 21,
+      "like_count": 0,
+      "views": 44,
+      "reply_count": 0,
+      "tags": [
+        "社会公益",
+        "硬件交互"
+      ],
+      "username": "小左OvO",
+      "created_at": "2026-07-11T02:25:25.066Z"
+    },
+    {
+      "id": 96622,
+      "title": "【社会公益+社会服务】银发桥--让我们听到老年人渴求关怀、关注的微弱的声音",
+      "slug": "topic",
+      "vote_count": 19,
+      "like_count": 22,
+      "views": 87,
+      "reply_count": 4,
+      "tags": [
+        "社会服务",
+        "社会公益"
+      ],
+      "username": "u3009803814178538",
+      "created_at": "2026-07-09T11:25:11.929Z"
+    },
+    {
+      "id": 112397,
+      "title": "Quantum Edge Trader——AI智能投研平台 初赛Demo",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 0,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u4065342395517323",
+      "created_at": "2026-07-11T02:48:32.342Z"
+    },
+    {
+      "id": 68951,
+      "title": "多行业维修服务 SaaS 管理系统",
+      "slug": "topic",
+      "vote_count": 3,
+      "like_count": 1,
+      "views": 52,
+      "reply_count": 7,
+      "tags": [
+        "学习工作",
+        "社会服务"
+      ],
+      "username": "用户64254",
+      "created_at": "2026-07-03T07:40:05.753Z"
+    },
+    {
+      "id": 112395,
+      "title": "【生活娱乐赛道】栖伴・会住进你房间的 MR 虚拟宠物",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 0,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "IANEPO",
+      "created_at": "2026-07-11T02:46:39.328Z"
+    },
+    {
       "id": 112393,
       "title": "【社会服务赛道】田管家——可以让50岁农民伯伯用的顺手的农事助理",
       "slug": "topic",
@@ -14,21 +87,6 @@
       ],
       "username": "用户64635",
       "created_at": "2026-07-11T02:45:04.682Z"
-    },
-    {
-      "id": 112374,
-      "title": "【硬件交互+社会公益】步伴 Buban —— 这！是我们做的AI “硬&核”拐棍",
-      "slug": "topic",
-      "vote_count": 20,
-      "like_count": 0,
-      "views": 41,
-      "reply_count": 0,
-      "tags": [
-        "社会公益",
-        "硬件交互"
-      ],
-      "username": "小左OvO",
-      "created_at": "2026-07-11T02:25:25.066Z"
     },
     {
       "id": 72280,
@@ -121,7 +179,7 @@
       "slug": "topic",
       "vote_count": 29,
       "like_count": 12,
-      "views": 266,
+      "views": 267,
       "reply_count": 3,
       "tags": [
         "生活娱乐"
@@ -245,7 +303,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -330,7 +388,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "社会服务"
@@ -618,7 +676,7 @@
       "slug": "topic",
       "vote_count": 30,
       "like_count": 139,
-      "views": 1180,
+      "views": 1182,
       "reply_count": 48,
       "tags": [
         "社会服务",
@@ -1787,21 +1845,6 @@
       "created_at": "2026-07-05T06:54:52.361Z"
     },
     {
-      "id": 68951,
-      "title": "多行业维修服务 SaaS 管理系统",
-      "slug": "topic",
-      "vote_count": 3,
-      "like_count": 1,
-      "views": 52,
-      "reply_count": 4,
-      "tags": [
-        "学习工作",
-        "社会服务"
-      ],
-      "username": "用户64254",
-      "created_at": "2026-07-03T07:40:05.753Z"
-    },
-    {
       "id": 111682,
       "title": "一名关注老年人数字生活的产品设计师，希望用技术帮助长辈跨越数字鸿沟。",
       "slug": "topic",
@@ -1974,7 +2017,7 @@
       "slug": "topic",
       "vote_count": 6,
       "like_count": 3,
-      "views": 33,
+      "views": 34,
       "reply_count": 1,
       "tags": [
         "生活娱乐"
@@ -2226,7 +2269,7 @@
       "slug": "topic",
       "vote_count": 13,
       "like_count": 15,
-      "views": 109,
+      "views": 110,
       "reply_count": 7,
       "tags": [
         "生活娱乐"
@@ -2254,7 +2297,7 @@
       "slug": "topic",
       "vote_count": 10,
       "like_count": 40,
-      "views": 362,
+      "views": 363,
       "reply_count": 9,
       "tags": [
         "社会服务",
@@ -2322,9 +2365,9 @@
       "id": 96869,
       "title": "【学习工作赛道】不摸鱼会死人，只是当局者都不知道而已——摸鱼修仙传",
       "slug": "topic",
-      "vote_count": 13,
+      "vote_count": 14,
       "like_count": 10,
-      "views": 78,
+      "views": 82,
       "reply_count": 6,
       "tags": [
         "学习工作"
@@ -2863,21 +2906,6 @@
       ],
       "username": "u2292910865798035",
       "created_at": "2026-07-10T15:57:31.421Z"
-    },
-    {
-      "id": 96622,
-      "title": "【社会公益+社会服务】银发桥--让我们听到老年人渴求关怀、关注的微弱的声音",
-      "slug": "topic",
-      "vote_count": 19,
-      "like_count": 20,
-      "views": 86,
-      "reply_count": 3,
-      "tags": [
-        "社会服务",
-        "社会公益"
-      ],
-      "username": "u3009803814178538",
-      "created_at": "2026-07-09T11:25:11.929Z"
     },
     {
       "id": 112067,
@@ -5007,7 +5035,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 1,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -5201,7 +5229,7 @@
       "slug": "topic",
       "vote_count": 9,
       "like_count": 9,
-      "views": 87,
+      "views": 88,
       "reply_count": 1,
       "tags": [
         "学习工作"
@@ -5386,7 +5414,7 @@
       "slug": "topic",
       "vote_count": 127,
       "like_count": 137,
-      "views": 1420,
+      "views": 1421,
       "reply_count": 7,
       "tags": [
         "生活娱乐"
@@ -5511,7 +5539,7 @@
       "slug": "topic",
       "vote_count": 7,
       "like_count": 2,
-      "views": 38,
+      "views": 39,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -5627,7 +5655,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 10,
+      "views": 11,
       "reply_count": 0,
       "tags": [
         "生活娱乐",
@@ -5656,7 +5684,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 1,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -5865,7 +5893,7 @@
       "slug": "topic",
       "vote_count": 38,
       "like_count": 78,
-      "views": 266,
+      "views": 267,
       "reply_count": 17,
       "tags": [
         "生活娱乐"
@@ -6487,9 +6515,9 @@
       "id": 96736,
       "title": "学习工作 + 拖到最后算我输 - 竞技匹配式任务自律APP",
       "slug": "topic",
-      "vote_count": 2,
+      "vote_count": 3,
       "like_count": 0,
-      "views": 9,
+      "views": 10,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -7166,9 +7194,9 @@
       "id": 96870,
       "title": "【生活服务赛道】一款名为“幸福玩家”的ios端app小工具，通过引导用户完成一个个小任务，帮用户看到情绪，感知幸福，构建良好亲密关系",
       "slug": "topic",
-      "vote_count": 5,
+      "vote_count": 6,
       "like_count": 5,
-      "views": 28,
+      "views": 29,
       "reply_count": 2,
       "tags": [
         "生活娱乐"
@@ -10118,8 +10146,8 @@
       "title": "【生活娱乐赛道】玄学每日一签——用\"自证预言\"给你每天的正向能量",
       "slug": "topic",
       "vote_count": 2,
-      "like_count": 4,
-      "views": 28,
+      "like_count": 5,
+      "views": 29,
       "reply_count": 2,
       "tags": [
         "生活娱乐"
@@ -11045,7 +11073,7 @@
       "slug": "topic",
       "vote_count": 106,
       "like_count": 123,
-      "views": 1763,
+      "views": 1764,
       "reply_count": 86,
       "tags": [
         "社会服务",
@@ -13505,8 +13533,8 @@
       "title": "【学习工作赛道】【在线体验】舒尔特方格 · 跨平台专注力训练 —— 一份代码覆盖 Web / 桌面 / 移动 7 端,告别“找得到、玩不下去、跨端不通”",
       "slug": "topic",
       "vote_count": 2,
-      "like_count": 5,
-      "views": 26,
+      "like_count": 6,
+      "views": 27,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -14440,7 +14468,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 3,
-      "views": 9,
+      "views": 10,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -15247,9 +15275,9 @@
       "id": 41243,
       "title": "【生活娱乐赛道】今天吃什么——懂你口味和场景的智能食谱推荐 Agent 助手",
       "slug": "topic",
-      "vote_count": 16,
+      "vote_count": 17,
       "like_count": 61,
-      "views": 331,
+      "views": 332,
       "reply_count": 10,
       "tags": [
         "生活娱乐"
@@ -29655,7 +29683,7 @@
       "slug": "topic",
       "vote_count": 61,
       "like_count": 380,
-      "views": 3095,
+      "views": 3097,
       "reply_count": 94,
       "tags": [
         "学习工作"
@@ -30680,9 +30708,9 @@
       "id": 32905,
       "title": "【社会服务赛道】智读古籍——AI让千年典籍活起来，人人皆可与先贤对话",
       "slug": "topic",
-      "vote_count": 91,
+      "vote_count": 92,
       "like_count": 57,
-      "views": 1382,
+      "views": 1383,
       "reply_count": 16,
       "tags": [
         "社会服务",
@@ -32681,7 +32709,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 6,
+      "views": 8,
       "reply_count": 0,
       "tags": [
         "学习工作",
@@ -58995,7 +59023,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 457,
+      "views": 458,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -65375,7 +65403,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 25,
+      "views": 26,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -71122,9 +71150,9 @@
       "id": 42832,
       "title": "【硬件交互赛道】**Disken ——一个简约的、高效的管理硬盘的工具",
       "slug": "topic",
-      "vote_count": 12,
+      "vote_count": 13,
       "like_count": 15,
-      "views": 243,
+      "views": 244,
       "reply_count": 4,
       "tags": [
         "学习工作",
@@ -84048,7 +84076,7 @@
       "slug": "topic",
       "vote_count": 4,
       "like_count": 0,
-      "views": 141,
+      "views": 143,
       "reply_count": 0,
       "tags": [
         "生活娱乐",
@@ -104179,7 +104207,7 @@
       "created_at": "2026-06-16T08:56:07.299Z"
     }
   ],
-  "count": 7442,
-  "last_update": "2026-07-11T02:45:47.099Z",
+  "count": 7444,
+  "last_update": "2026-07-11T02:51:02.906Z",
   "error": null
 }
