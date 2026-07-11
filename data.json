@@ -1,12 +1,64 @@
 {
   "topics": [
     {
+      "id": 113754,
+      "title": "这是一个快速发展的时代，而不变的只有我们的生活。",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [],
+      "username": "u1237380366087178",
+      "created_at": "2026-07-11T14:59:26.158Z"
+    },
+    {
+      "id": 113752,
+      "title": "【硬件交互赛道】童语守护——基于ESP32-S3与字节生态低龄儿童语音定位守护硬件",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [],
+      "username": "跳大神神",
+      "created_at": "2026-07-11T14:59:19.715Z"
+    },
+    {
+      "id": 113750,
+      "title": "摸鱼回忆厅 — 可体验 Demo",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 0,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u4368786627782636",
+      "created_at": "2026-07-11T14:57:39.750Z"
+    },
+    {
+      "id": 113748,
+      "title": " AI 应用赛道 / 智问 SocraticMind —— AI 苏格拉底式深度学伴",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u1008678061484937",
+      "created_at": "2026-07-11T14:56:04.470Z"
+    },
+    {
       "id": 113744,
       "title": "【学习工作赛道】智阅卡片 — 让专业阅读像刷短视频一样高效",
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -20,7 +72,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 1,
       "reply_count": 0,
       "tags": [
         "生活娱乐",
@@ -47,9 +99,9 @@
       "id": 113739,
       "title": "【学习工作赛道】“清道夫”舆情风控智能体",
       "slug": "topic",
-      "vote_count": 0,
+      "vote_count": 1,
       "like_count": 0,
-      "views": 1,
+      "views": 2,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -75,7 +127,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 1,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -105,7 +157,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 1,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -258,7 +310,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 1,
-      "views": 42,
+      "views": 44,
       "reply_count": 3,
       "tags": [
         "生活娱乐",
@@ -273,7 +325,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 1,
+      "views": 2,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -1109,7 +1161,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 5,
+      "views": 6,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -2091,7 +2143,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -2238,9 +2290,9 @@
       "id": 113484,
       "title": "【社会服务赛道】盾界 ShieldGuard · 初赛 Demo",
       "slug": "topic",
-      "vote_count": 1,
+      "vote_count": 2,
       "like_count": 0,
-      "views": 5,
+      "views": 8,
       "reply_count": 0,
       "tags": [
         "社会服务"
@@ -2307,7 +2359,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 5,
+      "views": 6,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -2944,7 +2996,7 @@
       "slug": "topic",
       "vote_count": 8,
       "like_count": 4,
-      "views": 61,
+      "views": 62,
       "reply_count": 3,
       "tags": [
         "社会服务"
@@ -4388,7 +4440,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 1,
+      "views": 2,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -9866,7 +9918,7 @@
       "slug": "topic",
       "vote_count": 53,
       "like_count": 171,
-      "views": 771,
+      "views": 773,
       "reply_count": 51,
       "tags": [
         "社会服务",
@@ -33490,7 +33542,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 4,
-      "views": 27,
+      "views": 28,
       "reply_count": 3,
       "tags": [
         "学习工作"
@@ -38244,18 +38296,6 @@
       "created_at": "2026-07-06T09:57:56.637Z"
     },
     {
-      "id": 73488,
-      "title": "【标签】生活娱乐 【标题】【生活娱乐赛道】约球星球 — 羽毛球智能组局与球馆评价平台 0. 先和大家打个招呼 👋 大家好！我是一名独立开发者，也是打了七八年羽毛球的业余球友。 说起来做这个项目的契机挺偶然的——周末想约人打球，翻了三个微信群、两个公众号，最后还是没凑齐人。当时就想：要是有个专门约羽毛球局的产品就好了。 但我不是专业前端，写个表单都费劲。直到遇到 TRAE，我才发现\"把脑子里的想法变成产品\"这件事，原来可以这么直接： 我用大白话描述需求：\"帮我做一个羽毛球约球网站，要有找球局、找",
-      "slug": "topic",
-      "vote_count": 7,
-      "like_count": 1,
-      "views": 34,
-      "reply_count": 0,
-      "tags": [],
-      "username": "u239074828363576",
-      "created_at": "2026-07-06T08:59:45.293Z"
-    },
-    {
       "id": 45408,
       "title": "【生活娱乐赛道】做一个拼豆图纸生成应用「初赛」",
       "slug": "topic",
@@ -40912,7 +40952,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 12,
+      "views": 13,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -42513,7 +42553,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 20,
+      "views": 21,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -53846,7 +53886,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 11,
+      "views": 12,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -56845,7 +56885,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 26,
+      "views": 27,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -62762,7 +62802,7 @@
       "slug": "topic",
       "vote_count": 88,
       "like_count": 6,
-      "views": 284,
+      "views": 285,
       "reply_count": 1,
       "tags": [
         "社会服务",
@@ -74031,7 +74071,7 @@
       "slug": "topic",
       "vote_count": 27,
       "like_count": 5,
-      "views": 191,
+      "views": 192,
       "reply_count": 2,
       "tags": [
         "社会服务",
@@ -74644,7 +74684,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 98,
+      "views": 99,
       "reply_count": 4,
       "tags": [
         "社会服务",
@@ -74839,7 +74879,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 31,
+      "views": 32,
       "reply_count": 1,
       "tags": [
         "生活娱乐"
@@ -76318,7 +76358,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 41,
+      "views": 42,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -92485,7 +92525,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 22,
+      "views": 23,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -105699,7 +105739,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 6,
-      "views": 87,
+      "views": 88,
       "reply_count": 3,
       "tags": [
         "生活娱乐"
@@ -112690,6 +112730,20 @@
       "created_at": "2026-06-16T17:53:37.806Z"
     },
     {
+      "id": 25645,
+      "title": "平行宇宙人生模拟器——用AI重演你的人生关键抉择",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 128,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u1572771931107427",
+      "created_at": "2026-06-16T17:52:57.073Z"
+    },
+    {
       "id": 25560,
       "title": "【生活娱乐赛道】人生拍卖会——用五次出价，看见真正的自己",
       "slug": "topic",
@@ -112885,7 +112939,7 @@
       "created_at": "2026-06-16T09:36:55.350Z"
     }
   ],
-  "count": 8065,
-  "last_update": "2026-07-11T14:56:04.952Z",
+  "count": 8069,
+  "last_update": "2026-07-11T15:01:32.456Z",
   "error": null
 }
