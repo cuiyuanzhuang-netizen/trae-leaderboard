@@ -1,12 +1,52 @@
 {
   "topics": [
     {
+      "id": 69982,
+      "title": "【学习工作赛道】Copycat-你示范它学会，CopyCat你的专属桌面助理",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 7,
+      "views": 51,
+      "reply_count": 4,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "脑袋都在颤抖",
+      "created_at": "2026-07-04T06:54:50.687Z"
+    },
+    {
+      "id": 72227,
+      "title": "大宋GTA游戏",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 1,
+      "views": 11,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "云黎XC",
+      "created_at": "2026-07-05T09:54:13.812Z"
+    },
+    {
+      "id": 112325,
+      "title": "【学习工作】+ 服务治理平台-提高银行接口及文件服务治理效率",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [],
+      "username": "用户65009",
+      "created_at": "2026-07-11T01:32:14.936Z"
+    },
+    {
       "id": 112306,
       "title": "【生活娱乐】雪糕音乐 — Loop Engineering构建本地音乐播放器",
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 5,
+      "views": 8,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -20,27 +60,13 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 2,
-      "views": 19,
+      "views": 20,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
       ],
       "username": "一个闲人",
       "created_at": "2026-07-05T09:59:52.596Z"
-    },
-    {
-      "id": 112307,
-      "title": "【学习工作】银行服务治理平台",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 3,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "用户65009",
-      "created_at": "2026-07-11T01:18:57.162Z"
     },
     {
       "id": 112305,
@@ -62,25 +88,11 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 2,
       "reply_count": 0,
       "tags": [],
       "username": "u51046443399700",
       "created_at": "2026-07-11T01:15:05.160Z"
-    },
-    {
-      "id": 72227,
-      "title": "大宋GTA游戏",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 1,
-      "views": 10,
-      "reply_count": 0,
-      "tags": [
-        "生活娱乐"
-      ],
-      "username": "云黎XC",
-      "created_at": "2026-07-05T09:54:13.812Z"
     },
     {
       "id": 112303,
@@ -114,7 +126,7 @@
       "slug": "topic",
       "vote_count": 30,
       "like_count": 139,
-      "views": 1173,
+      "views": 1176,
       "reply_count": 48,
       "tags": [
         "社会服务",
@@ -509,9 +521,9 @@
       "id": 112248,
       "title": "J-space 理念的治未病推理应用——以索克生活 APP 项目为例",
       "slug": "topic",
-      "vote_count": 0,
+      "vote_count": 1,
       "like_count": 0,
-      "views": 1,
+      "views": 2,
       "reply_count": 0,
       "tags": [
         "学习工作",
@@ -539,9 +551,9 @@
       "id": 112246,
       "title": "J-space 理念的医疗推理应用——以索克生活 APP 项目为例",
       "slug": "topic",
-      "vote_count": 0,
+      "vote_count": 1,
       "like_count": 0,
-      "views": 1,
+      "views": 2,
       "reply_count": 0,
       "tags": [
         "学习工作",
@@ -829,7 +841,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 16,
+      "views": 17,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -2153,7 +2165,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "生活娱乐",
@@ -3195,7 +3207,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 3,
-      "views": 33,
+      "views": 34,
       "reply_count": 1,
       "tags": [
         "生活娱乐"
@@ -3252,7 +3264,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 1,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -3294,7 +3306,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 5,
+      "views": 6,
       "reply_count": 0,
       "tags": [
         "社会服务"
@@ -4314,7 +4326,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 14,
+      "views": 15,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -4656,7 +4668,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 1,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -5146,7 +5158,7 @@
       "slug": "topic",
       "vote_count": 22,
       "like_count": 22,
-      "views": 68,
+      "views": 69,
       "reply_count": 3,
       "tags": [
         "生活娱乐"
@@ -5452,20 +5464,6 @@
       ],
       "username": "凪音澪",
       "created_at": "2026-06-17T10:04:01.833Z"
-    },
-    {
-      "id": 69982,
-      "title": "【学习工作赛道】Copycat-你示范它学会，CopyCat你的专属桌面助理",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 7,
-      "views": 50,
-      "reply_count": 2,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "脑袋都在颤抖",
-      "created_at": "2026-07-04T06:54:50.687Z"
     },
     {
       "id": 71309,
@@ -5791,7 +5789,7 @@
       "slug": "topic",
       "vote_count": 21,
       "like_count": 58,
-      "views": 749,
+      "views": 750,
       "reply_count": 13,
       "tags": [
         "学习工作"
@@ -6844,9 +6842,9 @@
       "id": 96870,
       "title": "【生活服务赛道】一款名为“幸福玩家”的ios端app小工具，通过引导用户完成一个个小任务，帮用户看到情绪，感知幸福，构建良好亲密关系",
       "slug": "topic",
-      "vote_count": 4,
+      "vote_count": 5,
       "like_count": 5,
-      "views": 26,
+      "views": 27,
       "reply_count": 2,
       "tags": [
         "生活娱乐"
@@ -7039,7 +7037,7 @@
       "slug": "topic",
       "vote_count": 60,
       "like_count": 96,
-      "views": 889,
+      "views": 890,
       "reply_count": 4,
       "tags": [
         "生活娱乐"
@@ -10035,7 +10033,7 @@
       "slug": "topic",
       "vote_count": 12,
       "like_count": 79,
-      "views": 747,
+      "views": 748,
       "reply_count": 19,
       "tags": [
         "学习工作"
@@ -10402,7 +10400,7 @@
       "slug": "topic",
       "vote_count": 6,
       "like_count": 1,
-      "views": 50,
+      "views": 51,
       "reply_count": 1,
       "tags": [
         "社会服务"
@@ -20312,7 +20310,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 14,
+      "views": 15,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -21805,7 +21803,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 1,
-      "views": 16,
+      "views": 17,
       "reply_count": 0,
       "tags": [
         "社会公益"
@@ -103985,6 +103983,6 @@
     }
   ],
   "count": 7428,
-  "last_update": "2026-07-11T01:31:04.197Z",
+  "last_update": "2026-07-11T01:35:49.029Z",
   "error": null
 }
