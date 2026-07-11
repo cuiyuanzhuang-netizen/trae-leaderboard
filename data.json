@@ -1,12 +1,85 @@
 {
   "topics": [
     {
+      "id": 96939,
+      "title": "【生活娱乐赛道】 桌面宠物，让一个人的电脑不再孤单",
+      "slug": "topic",
+      "vote_count": 4,
+      "like_count": 6,
+      "views": 33,
+      "reply_count": 3,
+      "tags": [
+        "生活娱乐",
+        "社会服务"
+      ],
+      "username": "一叶孤舟",
+      "created_at": "2026-07-09T14:52:09.050Z"
+    },
+    {
+      "id": 112374,
+      "title": "【硬件交互+社会公益】步伴 Buban —— 这！是我们做的AI “硬&核”拐棍",
+      "slug": "topic",
+      "vote_count": 35,
+      "like_count": 0,
+      "views": 74,
+      "reply_count": 1,
+      "tags": [
+        "社会公益",
+        "硬件交互"
+      ],
+      "username": "小左OvO",
+      "created_at": "2026-07-11T02:25:25.066Z"
+    },
+    {
+      "id": 112490,
+      "title": "【生活娱乐】BlockSoul — Minecraft 人格测试",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 0,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u217030587071273",
+      "created_at": "2026-07-11T03:48:42.859Z"
+    },
+    {
+      "id": 112118,
+      "title": "【生活娱乐赛道】AI通缉令生成器——把你的吐槽变成一张复古通缉令",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u656825396002091",
+      "created_at": "2026-07-10T16:45:34.897Z"
+    },
+    {
+      "id": 48689,
+      "title": "【学习工作赛道】BioQuest：一个高一竞赛生用 TRAE 造的生物学习站，可在线体验！纯前端无后端，AI 连 6 家大模型",
+      "slug": "topic",
+      "vote_count": 68,
+      "like_count": 78,
+      "views": 665,
+      "reply_count": 15,
+      "tags": [
+        "学习工作",
+        "社会公益"
+      ],
+      "username": "astrnox",
+      "created_at": "2026-06-28T06:19:47.198Z"
+    },
+    {
       "id": 72420,
       "title": "【生活娱乐赛道】肤方助手-智能场景化护肤决策助手",
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 16,
+      "views": 17,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -49,7 +122,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 15,
+      "views": 16,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -143,27 +216,12 @@
       "created_at": "2026-07-11T03:41:33.918Z"
     },
     {
-      "id": 48689,
-      "title": "【学习工作赛道】BioQuest：一个高一竞赛生用 TRAE 造的生物学习站，可在线体验！纯前端无后端，AI 连 6 家大模型",
-      "slug": "topic",
-      "vote_count": 68,
-      "like_count": 78,
-      "views": 664,
-      "reply_count": 15,
-      "tags": [
-        "学习工作",
-        "社会公益"
-      ],
-      "username": "astrnox",
-      "created_at": "2026-06-28T06:19:47.198Z"
-    },
-    {
       "id": 31753,
       "title": "【学习工作赛道】ClipFlow（已开源）奶奶每天复制粘贴搞到崩溃，我没忍住，让TRAE帮做了个“一键投喂AI”的插件，全村人都来借电脑用",
       "slug": "topic",
-      "vote_count": 15,
+      "vote_count": 16,
       "like_count": 42,
-      "views": 1014,
+      "views": 1015,
       "reply_count": 21,
       "tags": [
         "学习工作"
@@ -247,7 +305,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 86,
+      "views": 87,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -484,7 +542,7 @@
       "slug": "topic",
       "vote_count": 93,
       "like_count": 57,
-      "views": 1388,
+      "views": 1389,
       "reply_count": 16,
       "tags": [
         "社会服务",
@@ -539,9 +597,9 @@
       "id": 112447,
       "title": "T.A.R.E.V.I.S.：TRAE Agent 的桌面级具身智能终端",
       "slug": "topic",
-      "vote_count": 4,
+      "vote_count": 5,
       "like_count": 0,
-      "views": 16,
+      "views": 20,
       "reply_count": 0,
       "tags": [
         "社会公益",
@@ -578,21 +636,6 @@
       ],
       "username": "u555699477165674",
       "created_at": "2026-07-11T03:20:12.481Z"
-    },
-    {
-      "id": 112374,
-      "title": "【硬件交互+社会公益】步伴 Buban —— 这！是我们做的AI “硬&核”拐棍",
-      "slug": "topic",
-      "vote_count": 34,
-      "like_count": 0,
-      "views": 73,
-      "reply_count": 1,
-      "tags": [
-        "社会公益",
-        "硬件交互"
-      ],
-      "username": "小左OvO",
-      "created_at": "2026-07-11T02:25:25.066Z"
     },
     {
       "id": 67179,
@@ -641,9 +684,9 @@
       "id": 72813,
       "title": "【学习工作】《人类群星闪耀时》：用群星记录走在人类文明前面的人",
       "slug": "topic",
-      "vote_count": 3,
+      "vote_count": 4,
       "like_count": 1,
-      "views": 50,
+      "views": 51,
       "reply_count": 1,
       "tags": [
         "学习工作"
@@ -798,7 +841,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 3,
+      "views": 4,
       "reply_count": 0,
       "tags": [
         "学习工作",
@@ -1303,7 +1346,7 @@
       "slug": "topic",
       "vote_count": 11,
       "like_count": 0,
-      "views": 34,
+      "views": 35,
       "reply_count": 0,
       "tags": [
         "生活娱乐",
@@ -1984,7 +2027,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 1,
+      "views": 2,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -3085,21 +3128,6 @@
       "created_at": "2026-07-09T14:30:02.731Z"
     },
     {
-      "id": 96939,
-      "title": "【生活娱乐赛道】 桌面宠物，让一个人的电脑不再孤单",
-      "slug": "topic",
-      "vote_count": 4,
-      "like_count": 3,
-      "views": 33,
-      "reply_count": 0,
-      "tags": [
-        "生活娱乐",
-        "社会服务"
-      ],
-      "username": "一叶孤舟",
-      "created_at": "2026-07-09T14:52:09.050Z"
-    },
-    {
       "id": 67174,
       "title": "生活娱乐 + 人前显圣",
       "slug": "topic",
@@ -3304,20 +3332,6 @@
       ],
       "username": "用户66016",
       "created_at": "2026-07-10T16:45:50.368Z"
-    },
-    {
-      "id": 112118,
-      "title": "【生活娱乐赛道】AI通缉令生成器——把你的吐槽变成一张复古通缉令",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
-      "views": 1,
-      "reply_count": 0,
-      "tags": [
-        "生活娱乐"
-      ],
-      "username": "u656825396002091",
-      "created_at": "2026-07-10T16:45:34.897Z"
     },
     {
       "id": 112108,
@@ -4996,7 +5010,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 6,
+      "views": 7,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -5661,7 +5675,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 1,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -6516,7 +6530,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 5,
+      "views": 6,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -13180,7 +13194,7 @@
       "slug": "topic",
       "vote_count": 11,
       "like_count": 3,
-      "views": 46,
+      "views": 47,
       "reply_count": 2,
       "tags": [
         "社会服务"
@@ -23198,7 +23212,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 6,
-      "views": 47,
+      "views": 48,
       "reply_count": 1,
       "tags": [
         "生活娱乐"
@@ -25832,7 +25846,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 2,
-      "views": 27,
+      "views": 28,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -26291,7 +26305,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 15,
+      "views": 16,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -65120,7 +65134,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 18,
+      "views": 19,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -68184,7 +68198,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 160,
+      "views": 161,
       "reply_count": 0,
       "tags": [
         "硬件交互"
@@ -71619,7 +71633,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 34,
+      "views": 35,
       "reply_count": 1,
       "tags": [
         "生活娱乐",
@@ -83294,7 +83308,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 11,
+      "views": 12,
       "reply_count": 0,
       "tags": [
         "生活娱乐",
@@ -96958,7 +96972,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 22,
+      "views": 23,
       "reply_count": 0,
       "tags": [],
       "username": "AI.T",
@@ -104606,7 +104620,7 @@
       "created_at": "2026-06-16T09:36:55.350Z"
     }
   ],
-  "count": 7472,
-  "last_update": "2026-07-11T03:45:52.537Z",
+  "count": 7473,
+  "last_update": "2026-07-11T03:51:04.867Z",
   "error": null
 }
