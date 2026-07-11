@@ -1,6 +1,48 @@
 {
   "topics": [
     {
+      "id": 112307,
+      "title": "【学习工作】银行服务治理平台",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "用户65009",
+      "created_at": "2026-07-11T01:18:57.162Z"
+    },
+    {
+      "id": 112306,
+      "title": "【生活娱乐】雪糕音乐 — Loop Engineering构建本地音乐播放器",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "用户12385",
+      "created_at": "2026-07-11T01:17:24.382Z"
+    },
+    {
+      "id": 112305,
+      "title": "【生活娱乐赛道】+10分钟生活圈选房助手DEMO",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 0,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u516100656217428",
+      "created_at": "2026-07-11T01:17:17.928Z"
+    },
+    {
       "id": 112304,
       "title": "一款面向求职者与 HR 双方的 AI 面试助手 App。本地 0.5B 大模型实时优化问题与生成提示，云端顶级大模型（DeepSeek / Qwen）解答完整答案，全程支持语音提问与语音回答，问答以笔记形式沉淀复用。",
       "slug": "topic",
@@ -58,7 +100,7 @@
       "slug": "topic",
       "vote_count": 30,
       "like_count": 139,
-      "views": 1170,
+      "views": 1172,
       "reply_count": 48,
       "tags": [
         "社会服务",
@@ -73,7 +115,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "硬件交互"
@@ -228,7 +270,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 15,
+      "views": 16,
       "reply_count": 1,
       "tags": [],
       "username": "u1000998865213226",
@@ -326,7 +368,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -469,7 +511,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 1,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -529,7 +571,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -8939,7 +8981,7 @@
       "slug": "topic",
       "vote_count": 11,
       "like_count": 9,
-      "views": 251,
+      "views": 253,
       "reply_count": 3,
       "tags": [
         "生活娱乐"
@@ -9139,7 +9181,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 10,
+      "views": 11,
       "reply_count": 0,
       "tags": [
         "学习工作",
@@ -10539,8 +10581,8 @@
       "title": "【生活娱乐赛道】吃道 ChiDao 一个 AI 驱动的家庭料理伙伴",
       "slug": "topic",
       "vote_count": 2,
-      "like_count": 7,
-      "views": 12,
+      "like_count": 8,
+      "views": 13,
       "reply_count": 2,
       "tags": [
         "生活娱乐"
@@ -14624,7 +14666,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 2,
-      "views": 11,
+      "views": 12,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -38147,7 +38189,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 0,
-      "views": 19,
+      "views": 20,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -75400,7 +75442,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 25,
+      "views": 26,
       "reply_count": 0,
       "tags": [
         "生活娱乐",
@@ -97247,7 +97289,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 3,
-      "views": 65,
+      "views": 66,
       "reply_count": 2,
       "tags": [
         "学习工作"
@@ -103940,7 +103982,7 @@
       "created_at": "2026-06-16T08:56:07.299Z"
     }
   ],
-  "count": 7425,
-  "last_update": "2026-07-11T01:15:47.856Z",
+  "count": 7428,
+  "last_update": "2026-07-11T01:20:58.936Z",
   "error": null
 }
