@@ -1,12 +1,84 @@
 {
   "topics": [
     {
+      "id": 112542,
+      "title": "学习工作 · KeKe ExamHub — 学校考试信息数字化管理平台",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "落梦陳",
+      "created_at": "2026-07-11T04:34:24.758Z"
+    },
+    {
+      "id": 31494,
+      "title": "【硬件交互】KHS智能补给规划——导入赛道轨迹，一键生成全程科学补给计划",
+      "slug": "topic",
+      "vote_count": 3,
+      "like_count": 3,
+      "views": 92,
+      "reply_count": 1,
+      "tags": [
+        "硬件交互"
+      ],
+      "username": "看哈苏",
+      "created_at": "2026-06-18T05:50:29.361Z"
+    },
+    {
+      "id": 112538,
+      "title": " [生活娱乐]典籍回响之时，君将以何文风入卷？典雅？诗经？论语？亦或是史记？",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u2654656435065292",
+      "created_at": "2026-07-11T04:31:43.432Z"
+    },
+    {
+      "id": 40399,
+      "title": "【硬件交互赛道】安伴药灯：¥35.2 BOM成本的独居老人服药守护灯",
+      "slug": "topic",
+      "vote_count": 2,
+      "like_count": 0,
+      "views": 88,
+      "reply_count": 0,
+      "tags": [
+        "社会服务",
+        "社会公益",
+        "硬件交互"
+      ],
+      "username": "用户52303",
+      "created_at": "2026-06-22T18:36:46.781Z"
+    },
+    {
+      "id": 68151,
+      "title": "【硬件交互】DAP Sampler —— 用几十块钱的 DAP-Link 做出万元 JTrace 才有的高速变量采样示波器",
+      "slug": "topic",
+      "vote_count": 5,
+      "like_count": 11,
+      "views": 119,
+      "reply_count": 1,
+      "tags": [
+        "硬件交互"
+      ],
+      "username": "Liuuuu9",
+      "created_at": "2026-07-02T14:48:17.254Z"
+    },
+    {
       "id": 33434,
       "title": "【生活娱乐赛道】可在线体验：luminid 轻量化的MIDI节奏播放器 —— 让 TRAE 帮我做了一款能玩自己 MIDI 的音游",
       "slug": "topic",
       "vote_count": 4,
       "like_count": 6,
-      "views": 115,
+      "views": 118,
       "reply_count": 2,
       "tags": [
         "生活娱乐",
@@ -47,9 +119,9 @@
       "id": 112374,
       "title": "【硬件交互+社会公益】步伴 Buban —— 这！是我们做的AI “硬&核”拐棍",
       "slug": "topic",
-      "vote_count": 40,
+      "vote_count": 41,
       "like_count": 1,
-      "views": 81,
+      "views": 83,
       "reply_count": 1,
       "tags": [
         "社会公益",
@@ -78,7 +150,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 17,
-      "views": 264,
+      "views": 265,
       "reply_count": 6,
       "tags": [
         "社会公益",
@@ -107,7 +179,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 22,
-      "views": 355,
+      "views": 357,
       "reply_count": 7,
       "tags": [
         "硬件交互"
@@ -133,7 +205,7 @@
       "id": 75163,
       "title": "【学习工作赛道】 命运齿轮—把人生变成一场RPG",
       "slug": "topic",
-      "vote_count": 9,
+      "vote_count": 10,
       "like_count": 44,
       "views": 102,
       "reply_count": 9,
@@ -164,7 +236,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 6,
+      "views": 7,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -192,7 +264,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 1,
+      "views": 2,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -206,7 +278,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -278,7 +350,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 1,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -348,7 +420,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 3,
-      "views": 37,
+      "views": 38,
       "reply_count": 1,
       "tags": [
         "学习工作"
@@ -577,7 +649,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 1,
-      "views": 463,
+      "views": 464,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -619,7 +691,7 @@
       "slug": "topic",
       "vote_count": 10,
       "like_count": 59,
-      "views": 632,
+      "views": 633,
       "reply_count": 10,
       "tags": [
         "学习工作"
@@ -1249,9 +1321,9 @@
       "id": 112447,
       "title": "T.A.R.E.V.I.S.：TRAE Agent 的桌面级具身智能终端",
       "slug": "topic",
-      "vote_count": 6,
+      "vote_count": 7,
       "like_count": 0,
-      "views": 22,
+      "views": 23,
       "reply_count": 0,
       "tags": [
         "社会公益",
@@ -1336,9 +1408,9 @@
       "id": 72813,
       "title": "【学习工作】《人类群星闪耀时》：用群星记录走在人类文明前面的人",
       "slug": "topic",
-      "vote_count": 6,
+      "vote_count": 7,
       "like_count": 2,
-      "views": 60,
+      "views": 61,
       "reply_count": 1,
       "tags": [
         "学习工作"
@@ -2433,7 +2505,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 5,
+      "views": 6,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -3837,7 +3909,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 10,
+      "views": 11,
       "reply_count": 4,
       "tags": [
         "社会服务"
@@ -7364,7 +7436,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 1,
+      "views": 2,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -19316,7 +19388,7 @@
       "slug": "topic",
       "vote_count": 12,
       "like_count": 45,
-      "views": 169,
+      "views": 170,
       "reply_count": 5,
       "tags": [
         "社会服务",
@@ -23162,7 +23234,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 1,
-      "views": 23,
+      "views": 24,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -29092,7 +29164,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 9,
+      "views": 10,
       "reply_count": 0,
       "tags": [
         "生活娱乐",
@@ -37634,7 +37706,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 0,
-      "views": 14,
+      "views": 15,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -52537,7 +52609,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 15,
+      "views": 16,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -93173,7 +93245,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 0,
-      "views": 169,
+      "views": 170,
       "reply_count": 1,
       "tags": [
         "学习工作",
@@ -93850,20 +93922,6 @@
       "created_at": "2026-06-24T00:00:11.544Z"
     },
     {
-      "id": 31494,
-      "title": "【硬件交互】KHS智能补给规划——导入赛道轨迹，一键生成全程科学补给计划",
-      "slug": "topic",
-      "vote_count": 3,
-      "like_count": 3,
-      "views": 92,
-      "reply_count": 1,
-      "tags": [
-        "硬件交互"
-      ],
-      "username": "看哈苏",
-      "created_at": "2026-06-18T05:50:29.361Z"
-    },
-    {
       "id": 42747,
       "title": "【学习工作】我是@创野小朱，我做了一个极客魔方AI辅助网安学习平台",
       "slug": "topic",
@@ -94191,7 +94249,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 28,
+      "views": 29,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -97947,7 +98005,7 @@
       "slug": "topic",
       "vote_count": 4,
       "like_count": 5,
-      "views": 237,
+      "views": 239,
       "reply_count": 1,
       "tags": [
         "学习工作"
@@ -102227,7 +102285,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 28,
+      "views": 29,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -103490,7 +103548,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 50,
+      "views": 51,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -104253,7 +104311,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 72,
+      "views": 73,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -104445,7 +104503,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 106,
+      "views": 107,
       "reply_count": 0,
       "tags": [
         "社会公益"
@@ -104778,7 +104836,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 42,
+      "views": 43,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -104793,7 +104851,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 73,
+      "views": 74,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -104807,7 +104865,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 3,
-      "views": 339,
+      "views": 340,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -104829,7 +104887,7 @@
       "created_at": "2026-06-16T09:36:55.350Z"
     }
   ],
-  "count": 7488,
-  "last_update": "2026-07-11T04:31:10.883Z",
+  "count": 7492,
+  "last_update": "2026-07-11T04:35:47.732Z",
   "error": null
 }
