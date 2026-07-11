@@ -1,6 +1,33 @@
 {
   "topics": [
     {
+      "id": 112277,
+      "title": "【学习工作赛道】Good大学生陪练",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 0,
+      "reply_count": 0,
+      "tags": [],
+      "username": "u1224220337517804",
+      "created_at": "2026-07-11T00:19:52.541Z"
+    },
+    {
+      "id": 112275,
+      "title": "加油学习机——中小学生成长辅助系统",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 2,
+      "reply_count": 0,
+      "tags": [
+        "学习工作",
+        "社会公益"
+      ],
+      "username": "u3229732474195680",
+      "created_at": "2026-07-11T00:15:40.224Z"
+    },
+    {
       "id": 72212,
       "title": "【学习工作赛道】SpaceCost-solo · 职场空间与资产综合管理工具（初赛作品）",
       "slug": "topic",
@@ -46,7 +73,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "社会服务"
@@ -2184,7 +2211,7 @@
       "slug": "topic",
       "vote_count": 4,
       "like_count": 1,
-      "views": 31,
+      "views": 32,
       "reply_count": 4,
       "tags": [
         "硬件交互"
@@ -6228,7 +6255,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 9,
+      "views": 10,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -6846,7 +6873,7 @@
       "slug": "topic",
       "vote_count": 60,
       "like_count": 96,
-      "views": 888,
+      "views": 889,
       "reply_count": 4,
       "tags": [
         "生活娱乐"
@@ -28811,7 +28838,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 95,
+      "views": 96,
       "reply_count": 3,
       "tags": [
         "生活娱乐"
@@ -33421,7 +33448,7 @@
       "slug": "topic",
       "vote_count": 5,
       "like_count": 0,
-      "views": 34,
+      "views": 35,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -46388,7 +46415,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 11,
+      "views": 12,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -56756,7 +56783,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 29,
+      "views": 30,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -103833,7 +103860,7 @@
       "created_at": "2026-06-16T08:56:07.299Z"
     }
   ],
-  "count": 7417,
-  "last_update": "2026-07-11T00:15:43.637Z",
+  "count": 7419,
+  "last_update": "2026-07-11T00:20:58.165Z",
   "error": null
 }
