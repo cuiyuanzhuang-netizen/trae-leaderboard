@@ -1,12 +1,82 @@
 {
   "topics": [
     {
+      "id": 115472,
+      "title": "【社会服务】存墨 — 古籍数字化修复与众包校阅平台",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [
+        "社会服务",
+        "社会公益"
+      ],
+      "username": "u3528773563326619",
+      "created_at": "2026-07-12T14:19:46.232Z"
+    },
+    {
+      "id": 115470,
+      "title": "【社会服务赛道】隐私拼图师 Privacy Puzzle Demo——把你的公开信息拼一拼，看看陌生人能挖出多少你的信息",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [
+        "社会服务"
+      ],
+      "username": "言不虚",
+      "created_at": "2026-07-12T14:18:42.411Z"
+    },
+    {
+      "id": 115469,
+      "title": "【社会服务赛道】 智护到家— 护工服务数字化平台",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [],
+      "username": "浮云CCC_1219",
+      "created_at": "2026-07-12T14:18:38.154Z"
+    },
+    {
+      "id": 115468,
+      "title": "【学习工作】白日回声—收藏不再吃灰，知识每天回响",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 2,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u2556790124577548",
+      "created_at": "2026-07-12T14:18:25.879Z"
+    },
+    {
+      "id": 115463,
+      "title": "【社会服务赛道】 智护到家— 护工服务数字化平台",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [
+        "社会服务",
+        "社会公益"
+      ],
+      "username": "浮云CCC_1219",
+      "created_at": "2026-07-12T14:15:34.663Z"
+    },
+    {
       "id": 115461,
       "title": "【社会服务】拉了吗 — 大小便健康记录与AI分析助手DEMO",
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 1,
       "reply_count": 0,
       "tags": [
         "社会服务"
@@ -48,7 +118,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 1,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -89,7 +159,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 1,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -104,7 +174,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 2,
+      "views": 5,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -118,7 +188,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -175,7 +245,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -189,7 +259,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "社会服务"
@@ -288,7 +358,7 @@
       "slug": "topic",
       "vote_count": 6,
       "like_count": 0,
-      "views": 26,
+      "views": 27,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -452,7 +522,7 @@
       "slug": "topic",
       "vote_count": 9,
       "like_count": 4,
-      "views": 26,
+      "views": 27,
       "reply_count": 4,
       "tags": [],
       "username": "u2767903724427468",
@@ -829,7 +899,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 5,
+      "views": 6,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -872,7 +942,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "学习工作",
@@ -955,7 +1025,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 1,
-      "views": 43,
+      "views": 44,
       "reply_count": 2,
       "tags": [
         "社会服务",
@@ -1012,7 +1082,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 5,
+      "views": 6,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -1457,18 +1527,6 @@
       "created_at": "2026-07-12T12:31:19.639Z"
     },
     {
-      "id": 115277,
-      "title": "【社会服务赛道】 智护到家",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 2,
-      "reply_count": 0,
-      "tags": [],
-      "username": "浮云CCC_1219",
-      "created_at": "2026-07-12T12:35:09.563Z"
-    },
-    {
       "id": 115274,
       "title": "【学习工作赛道】TermMind —— 用自然语言管理你的 Linux 服务器",
       "slug": "topic",
@@ -1481,18 +1539,6 @@
       ],
       "username": "Junan",
       "created_at": "2026-07-12T12:35:03.279Z"
-    },
-    {
-      "id": 115271,
-      "title": "【社会服务赛道】 智护到家",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 2,
-      "reply_count": 0,
-      "tags": [],
-      "username": "浮云CCC_1219",
-      "created_at": "2026-07-12T12:34:14.239Z"
     },
     {
       "id": 72727,
@@ -1577,6 +1623,20 @@
       ],
       "username": "u2064216266911952",
       "created_at": "2026-07-11T12:14:07.967Z"
+    },
+    {
+      "id": 113525,
+      "title": "【学习工作】小智陪学作业监督助手",
+      "slug": "topic",
+      "vote_count": 2,
+      "like_count": 3,
+      "views": 13,
+      "reply_count": 3,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "139178",
+      "created_at": "2026-07-11T12:20:35.486Z"
     },
     {
       "id": 115246,
@@ -2149,7 +2209,7 @@
       "slug": "topic",
       "vote_count": 70,
       "like_count": 97,
-      "views": 1030,
+      "views": 1031,
       "reply_count": 4,
       "tags": [
         "生活娱乐"
@@ -3173,6 +3233,18 @@
       "created_at": "2026-07-12T10:02:30.546Z"
     },
     {
+      "id": 112105,
+      "title": "硬件交互赛道 + 小方盒 - 便携式 BLE 远程调试 KVM",
+      "slug": "topic",
+      "vote_count": 2,
+      "like_count": 0,
+      "views": 13,
+      "reply_count": 1,
+      "tags": [],
+      "username": "u3291316376314857",
+      "created_at": "2026-07-10T16:43:57.063Z"
+    },
+    {
       "id": 114999,
       "title": "【学习工作赛道】本地优先多模型路由 Agent — 初赛 Demo 作品",
       "slug": "topic",
@@ -3585,7 +3657,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -4722,7 +4794,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 0,
-      "views": 20,
+      "views": 21,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -5496,7 +5568,7 @@
       "slug": "topic",
       "vote_count": 11,
       "like_count": 45,
-      "views": 126,
+      "views": 127,
       "reply_count": 10,
       "tags": [
         "学习工作"
@@ -6500,7 +6572,7 @@
       "slug": "topic",
       "vote_count": 53,
       "like_count": 174,
-      "views": 811,
+      "views": 812,
       "reply_count": 53,
       "tags": [
         "社会服务",
@@ -8805,7 +8877,7 @@
       "slug": "topic",
       "vote_count": 18,
       "like_count": 42,
-      "views": 1080,
+      "views": 1081,
       "reply_count": 22,
       "tags": [
         "学习工作"
@@ -9048,7 +9120,7 @@
       "slug": "topic",
       "vote_count": 10,
       "like_count": 1,
-      "views": 182,
+      "views": 183,
       "reply_count": 3,
       "tags": [
         "学习工作"
@@ -9198,7 +9270,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 7,
+      "views": 8,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -9709,9 +9781,9 @@
       "id": 95798,
       "title": "【生活娱乐赛道】粤讲越有 —— 一个会教你讲地道广州话的 Web Demo",
       "slug": "topic",
-      "vote_count": 33,
+      "vote_count": 34,
       "like_count": 1,
-      "views": 85,
+      "views": 87,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -9868,7 +9940,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 5,
+      "views": 6,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -9910,7 +9982,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 11,
+      "views": 12,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -10510,9 +10582,9 @@
       "id": 114033,
       "title": "【社会服务赛道】星伴日课 —— 面向孤独症家庭的 AI 每日干预助手",
       "slug": "topic",
-      "vote_count": 1,
+      "vote_count": 2,
       "like_count": 0,
-      "views": 3,
+      "views": 4,
       "reply_count": 0,
       "tags": [
         "社会服务"
@@ -11261,7 +11333,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 37,
+      "views": 38,
       "reply_count": 0,
       "tags": [
         "社会服务"
@@ -12456,7 +12528,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -12850,7 +12922,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "社会公益",
@@ -15539,9 +15611,9 @@
       "id": 113375,
       "title": "【学习工作赛道】+ SSH Connect Pro",
       "slug": "topic",
-      "vote_count": 0,
+      "vote_count": 1,
       "like_count": 1,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -16399,7 +16471,7 @@
       "slug": "topic",
       "vote_count": 5,
       "like_count": 1,
-      "views": 31,
+      "views": 32,
       "reply_count": 0,
       "tags": [],
       "username": "u3876200729827536",
@@ -20661,7 +20733,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 1,
-      "views": 46,
+      "views": 47,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -21246,7 +21318,7 @@
       "slug": "topic",
       "vote_count": 37,
       "like_count": 34,
-      "views": 297,
+      "views": 298,
       "reply_count": 5,
       "tags": [
         "社会服务",
@@ -21333,7 +21405,7 @@
       "slug": "topic",
       "vote_count": 5,
       "like_count": 1,
-      "views": 53,
+      "views": 54,
       "reply_count": 5,
       "tags": [
         "硬件交互"
@@ -22350,7 +22422,7 @@
       "slug": "topic",
       "vote_count": 12,
       "like_count": 79,
-      "views": 776,
+      "views": 777,
       "reply_count": 19,
       "tags": [
         "学习工作"
@@ -26680,7 +26752,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 1,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -27556,7 +27628,7 @@
       "slug": "topic",
       "vote_count": 127,
       "like_count": 137,
-      "views": 1515,
+      "views": 1516,
       "reply_count": 7,
       "tags": [
         "生活娱乐"
@@ -27977,7 +28049,7 @@
       "slug": "topic",
       "vote_count": 39,
       "like_count": 78,
-      "views": 297,
+      "views": 298,
       "reply_count": 17,
       "tags": [
         "生活娱乐"
@@ -28673,7 +28745,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 2,
-      "views": 22,
+      "views": 23,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -29897,7 +29969,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 3,
+      "views": 4,
       "reply_count": 0,
       "tags": [],
       "username": "u757978135279012",
@@ -30589,7 +30661,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 13,
+      "views": 14,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -30875,7 +30947,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 7,
+      "views": 8,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -30973,7 +31045,7 @@
       "slug": "topic",
       "vote_count": 11,
       "like_count": 9,
-      "views": 270,
+      "views": 271,
       "reply_count": 3,
       "tags": [
         "生活娱乐"
@@ -31087,7 +31159,7 @@
       "slug": "topic",
       "vote_count": 17,
       "like_count": 0,
-      "views": 49,
+      "views": 50,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -34265,7 +34337,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 6,
-      "views": 27,
+      "views": 28,
       "reply_count": 3,
       "tags": [
         "生活娱乐",
@@ -34745,7 +34817,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 2,
-      "views": 19,
+      "views": 20,
       "reply_count": 0,
       "tags": [
         "生活娱乐",
@@ -37159,7 +37231,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 14,
+      "views": 15,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -37189,7 +37261,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 15,
+      "views": 16,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -38548,7 +38620,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 1,
-      "views": 20,
+      "views": 21,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -38590,7 +38662,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 1,
+      "views": 2,
       "reply_count": 0,
       "tags": [],
       "username": "Lira",
@@ -39228,7 +39300,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 6,
-      "views": 26,
+      "views": 27,
       "reply_count": 0,
       "tags": [
         "社会公益"
@@ -41681,7 +41753,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 2,
-      "views": 21,
+      "views": 22,
       "reply_count": 0,
       "tags": [],
       "username": "u1945510095626825",
@@ -42308,7 +42380,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 13,
+      "views": 14,
       "reply_count": 0,
       "tags": [
         "社会服务"
@@ -43409,7 +43481,7 @@
       "slug": "topic",
       "vote_count": 60,
       "like_count": 15,
-      "views": 208,
+      "views": 209,
       "reply_count": 6,
       "tags": [
         "学习工作"
@@ -44456,7 +44528,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 8,
+      "views": 9,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -44922,7 +44994,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 9,
+      "views": 10,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -45077,7 +45149,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 1,
-      "views": 19,
+      "views": 20,
       "reply_count": 0,
       "tags": [
         "学习工作",
@@ -45929,7 +46001,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 12,
+      "views": 13,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -46125,7 +46197,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 2,
-      "views": 28,
+      "views": 29,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -46181,7 +46253,7 @@
       "slug": "topic",
       "vote_count": 4,
       "like_count": 5,
-      "views": 14,
+      "views": 15,
       "reply_count": 0,
       "tags": [],
       "username": "张洋",
@@ -47209,7 +47281,7 @@
       "slug": "topic",
       "vote_count": 32,
       "like_count": 45,
-      "views": 1462,
+      "views": 1463,
       "reply_count": 18,
       "tags": [
         "生活娱乐"
@@ -48553,7 +48625,7 @@
       "slug": "topic",
       "vote_count": 17,
       "like_count": 5,
-      "views": 137,
+      "views": 138,
       "reply_count": 1,
       "tags": [
         "学习工作"
@@ -49803,7 +49875,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 7,
+      "views": 8,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -51285,7 +51357,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 12,
+      "views": 13,
       "reply_count": 0,
       "tags": [
         "社会服务"
@@ -54353,7 +54425,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 17,
+      "views": 18,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -54533,7 +54605,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 17,
+      "views": 18,
       "reply_count": 0,
       "tags": [
         "生活娱乐",
@@ -57217,7 +57289,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 28,
+      "views": 29,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -57432,7 +57504,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 6,
+      "views": 7,
       "reply_count": 0,
       "tags": [
         "生活娱乐",
@@ -60372,7 +60444,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 16,
+      "views": 17,
       "reply_count": 0,
       "tags": [
         "硬件交互"
@@ -61963,7 +62035,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 13,
+      "views": 14,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -62217,7 +62289,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 10,
+      "views": 11,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -65824,7 +65896,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 23,
+      "views": 24,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -68884,7 +68956,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 14,
+      "views": 15,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -70151,7 +70223,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 8,
+      "views": 9,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -74357,7 +74429,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 10,
+      "views": 12,
       "reply_count": 0,
       "tags": [
         "社会服务"
@@ -86937,10 +87009,10 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 36,
+      "views": 37,
       "reply_count": 0,
       "tags": [],
-      "username": "u322582944429452",
+      "username": "长按电源键关机",
       "created_at": "2026-06-28T08:17:13.632Z"
     },
     {
@@ -99881,7 +99953,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 29,
+      "views": 30,
       "reply_count": 0,
       "tags": [
         "社会公益"
@@ -105731,7 +105803,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 33,
+      "views": 34,
       "reply_count": 2,
       "tags": [
         "学习工作"
@@ -106258,7 +106330,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 103,
+      "views": 104,
       "reply_count": 2,
       "tags": [
         "生活娱乐"
@@ -109981,7 +110053,7 @@
       "slug": "topic",
       "vote_count": 10,
       "like_count": 4,
-      "views": 74,
+      "views": 75,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -122660,9 +122732,21 @@
       ],
       "username": "用户65716",
       "created_at": "2026-06-16T08:59:26.371Z"
+    },
+    {
+      "id": 23845,
+      "title": "【学习工作赛道】每日口播选题助手Demo——解决每日选题的困扰",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 1,
+      "views": 68,
+      "reply_count": 0,
+      "tags": [],
+      "username": "用户65904",
+      "created_at": "2026-06-16T09:36:55.350Z"
     }
   ],
-  "count": 8763,
-  "last_update": "2026-07-12T14:16:18.809Z",
+  "count": 8769,
+  "last_update": "2026-07-12T14:21:16.088Z",
   "error": null
 }
