@@ -1,6 +1,78 @@
 {
   "topics": [
     {
+      "id": 113718,
+      "title": "【社会服务】+心岛伴行",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 2,
+      "views": 4,
+      "reply_count": 1,
+      "tags": [
+        "社会服务",
+        "社会公益"
+      ],
+      "username": "u181849755495216",
+      "created_at": "2026-07-11T14:34:52.750Z"
+    },
+    {
+      "id": 73784,
+      "title": "【学习工作赛道】+ 日历版月度课程表",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 1,
+      "views": 6,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u3330850420173243",
+      "created_at": "2026-07-06T12:02:06.056Z"
+    },
+    {
+      "id": 114034,
+      "title": "〖社会服务〗MediRead 助老用药读懂助手 最终版",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [
+        "社会服务"
+      ],
+      "username": "u4206094633680474",
+      "created_at": "2026-07-12T01:17:49.892Z"
+    },
+    {
+      "id": 112233,
+      "title": "信号盲区守护者——山区/户外无信号场景下的应急救援系统",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 1,
+      "views": 14,
+      "reply_count": 2,
+      "tags": [
+        "社会服务",
+        "社会公益"
+      ],
+      "username": "u2438064010965035",
+      "created_at": "2026-07-10T23:51:21.697Z"
+    },
+    {
+      "id": 114033,
+      "title": "【社会服务赛道】星伴日课 —— 面向孤独症家庭的 AI 每日干预助手",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [
+        "社会服务"
+      ],
+      "username": "u3053786374101300",
+      "created_at": "2026-07-12T01:16:44.331Z"
+    },
+    {
       "id": 114032,
       "title": "〖社会服务〗MediRead 助老用药读懂助手 ",
       "slug": "topic",
@@ -18,9 +90,9 @@
       "id": 114030,
       "title": "生活娱乐赛道 · 阳台菜园日历",
       "slug": "topic",
-      "vote_count": 0,
+      "vote_count": 1,
       "like_count": 0,
-      "views": 0,
+      "views": 1,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -74,7 +146,7 @@
       "slug": "topic",
       "vote_count": 9,
       "like_count": 3,
-      "views": 19,
+      "views": 20,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -989,21 +1061,6 @@
       "created_at": "2026-07-11T18:46:04.396Z"
     },
     {
-      "id": 112233,
-      "title": "信号盲区守护者——山区/户外无信号场景下的应急救援系统",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 1,
-      "views": 14,
-      "reply_count": 1,
-      "tags": [
-        "社会服务",
-        "社会公益"
-      ],
-      "username": "u2438064010965035",
-      "created_at": "2026-07-10T23:51:21.697Z"
-    },
-    {
       "id": 113800,
       "title": "社会服务 | 智能健康助手— AI Agent 驱动的家庭健康管理",
       "slug": "topic",
@@ -1580,7 +1637,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 1,
+      "views": 2,
       "reply_count": 0,
       "tags": [
         "硬件交互"
@@ -2340,7 +2397,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 8,
+      "views": 9,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -2727,7 +2784,7 @@
       "slug": "topic",
       "vote_count": 6,
       "like_count": 2,
-      "views": 43,
+      "views": 44,
       "reply_count": 3,
       "tags": [
         "学习工作"
@@ -3171,21 +3228,6 @@
       "created_at": "2026-07-11T09:02:53.393Z"
     },
     {
-      "id": 113718,
-      "title": "【社会服务】+心岛伴行",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 1,
-      "views": 3,
-      "reply_count": 0,
-      "tags": [
-        "社会服务",
-        "社会公益"
-      ],
-      "username": "u181849755495216",
-      "created_at": "2026-07-11T14:34:52.750Z"
-    },
-    {
       "id": 113757,
       "title": "【硬件交互赛道】童语守护——基于ESP32-S3与字节生态低龄儿童语音定位守护嵌入硬件",
       "slug": "topic",
@@ -3535,7 +3577,7 @@
       "slug": "topic",
       "vote_count": 20,
       "like_count": 1,
-      "views": 208,
+      "views": 209,
       "reply_count": 6,
       "tags": [
         "学习工作",
@@ -3778,7 +3820,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 1,
-      "views": 16,
+      "views": 17,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -4151,7 +4193,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 1,
+      "views": 2,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -4275,7 +4317,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 1,
-      "views": 18,
+      "views": 20,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -4868,7 +4910,7 @@
       "slug": "topic",
       "vote_count": 11,
       "like_count": 2,
-      "views": 35,
+      "views": 36,
       "reply_count": 1,
       "tags": [],
       "username": "u1951004288365056",
@@ -6111,7 +6153,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -9947,9 +9989,9 @@
       "id": 112890,
       "title": "MeterAI Test Suite — AI+JLINK电表白盒验证Demo （初赛）",
       "slug": "topic",
-      "vote_count": 0,
+      "vote_count": 1,
       "like_count": 0,
-      "views": 3,
+      "views": 4,
       "reply_count": 0,
       "tags": [
         "硬件交互"
@@ -12481,7 +12523,7 @@
       "slug": "topic",
       "vote_count": 94,
       "like_count": 57,
-      "views": 1428,
+      "views": 1430,
       "reply_count": 16,
       "tags": [
         "社会服务",
@@ -12511,7 +12553,7 @@
       "slug": "topic",
       "vote_count": 108,
       "like_count": 124,
-      "views": 1837,
+      "views": 1838,
       "reply_count": 86,
       "tags": [
         "社会服务",
@@ -13206,7 +13248,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 1,
-      "views": 481,
+      "views": 482,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -14949,7 +14991,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 5,
+      "views": 6,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -15796,7 +15838,7 @@
       "slug": "topic",
       "vote_count": 34,
       "like_count": 2,
-      "views": 107,
+      "views": 108,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -17031,7 +17073,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 11,
+      "views": 12,
       "reply_count": 0,
       "tags": [
         "学习工作",
@@ -18731,7 +18773,7 @@
       "slug": "topic",
       "vote_count": 127,
       "like_count": 137,
-      "views": 1471,
+      "views": 1472,
       "reply_count": 7,
       "tags": [
         "生活娱乐"
@@ -26050,7 +26092,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 2,
-      "views": 17,
+      "views": 18,
       "reply_count": 0,
       "tags": [
         "生活娱乐",
@@ -27341,7 +27383,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 2,
-      "views": 18,
+      "views": 19,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -28114,7 +28156,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 8,
+      "views": 9,
       "reply_count": 0,
       "tags": [
         "学习工作",
@@ -31459,7 +31501,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -39799,20 +39841,6 @@
       "created_at": "2026-07-06T12:04:05.385Z"
     },
     {
-      "id": 73784,
-      "title": "【学习工作赛道】+ 日历版月度课程表",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 1,
-      "views": 6,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "u3330850420173243",
-      "created_at": "2026-07-06T12:02:06.056Z"
-    },
-    {
       "id": 73782,
       "title": "【生活娱乐赛道】CityWalk AI 本地轻旅行规划师",
       "slug": "topic",
@@ -41110,7 +41138,7 @@
       "slug": "topic",
       "vote_count": 61,
       "like_count": 378,
-      "views": 3175,
+      "views": 3176,
       "reply_count": 94,
       "tags": [
         "学习工作"
@@ -41464,7 +41492,7 @@
       "slug": "topic",
       "vote_count": 4,
       "like_count": 1,
-      "views": 60,
+      "views": 61,
       "reply_count": 1,
       "tags": [
         "学习工作"
@@ -42729,7 +42757,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 14,
+      "views": 15,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -44691,7 +44719,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [],
       "username": "u4273131748335644",
@@ -67332,7 +67360,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 39,
+      "views": 40,
       "reply_count": 1,
       "tags": [
         "学习工作"
@@ -82717,7 +82745,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 105,
+      "views": 106,
       "reply_count": 0,
       "tags": [
         "社会服务"
@@ -106292,7 +106320,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 31,
+      "views": 32,
       "reply_count": 1,
       "tags": [
         "学习工作"
@@ -114558,7 +114586,7 @@
       "created_at": "2026-06-16T09:36:55.350Z"
     }
   ],
-  "count": 8184,
-  "last_update": "2026-07-12T01:15:47.852Z",
+  "count": 8186,
+  "last_update": "2026-07-12T01:20:58.030Z",
   "error": null
 }
