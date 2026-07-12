@@ -1,12 +1,96 @@
 {
   "topics": [
     {
+      "id": 114389,
+      "title": "起手式——开启AI工作流的第一步",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 4,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u212650084546092",
+      "created_at": "2026-07-12T06:43:12.242Z"
+    },
+    {
+      "id": 114393,
+      "title": "【学习工作赛道】Prompt Vault：面向多AI平台用户的 AI 提示词检索、创建与迭代版本控制工作台",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 6,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u2099395873484912",
+      "created_at": "2026-07-12T06:46:12.470Z"
+    },
+    {
+      "id": 114399,
+      "title": "【硬件交互赛道】Plant Monster -- 桌面上的植物小精灵，一个会\"被看见\"的 AI 助手",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 4,
+      "reply_count": 0,
+      "tags": [
+        "硬件交互"
+      ],
+      "username": "u850348810699904",
+      "created_at": "2026-07-12T06:49:13.616Z"
+    },
+    {
+      "id": 114445,
+      "title": "【生活娱乐赛道】身体基地 - 久坐的人需要的不只是站立提醒",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u1247320745720908",
+      "created_at": "2026-07-12T07:12:14.068Z"
+    },
+    {
+      "id": 114444,
+      "title": "【生活娱乐赛道】+职场社死模拟器",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u2701913133424460",
+      "created_at": "2026-07-12T07:11:28.914Z"
+    },
+    {
+      "id": 114400,
+      "title": "基于IBM的BLM方法论的智能化规划工具",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 2,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "RedCloud",
+      "created_at": "2026-07-12T06:49:45.882Z"
+    },
+    {
       "id": 114441,
       "title": "一个移动优先的 AI 宠物健康陪伴网页 Demo（可直接打开 HTML 体验），对标「阿福式」陪伴心智，面向毛孩日常护理。",
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 2,
       "reply_count": 0,
       "tags": [],
       "username": "u810765619301492",
@@ -32,7 +116,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 6,
+      "views": 8,
       "reply_count": 0,
       "tags": [
         "硬件交互"
@@ -46,7 +130,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 1,
+      "views": 2,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -74,7 +158,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 4,
+      "views": 5,
       "reply_count": 1,
       "tags": [
         "学习工作"
@@ -88,7 +172,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 1,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -117,7 +201,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 1,
+      "views": 2,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -131,7 +215,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [],
       "username": "niannian20",
@@ -143,7 +227,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 17,
+      "views": 19,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -169,7 +253,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 1,
+      "views": 2,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -198,7 +282,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 6,
+      "views": 7,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -210,7 +294,7 @@
       "id": 114422,
       "title": "晋味人格馆 —— MBTI匹配太原美食  正文",
       "slug": "topic",
-      "vote_count": 1,
+      "vote_count": 2,
       "like_count": 0,
       "views": 4,
       "reply_count": 0,
@@ -279,34 +363,6 @@
       "created_at": "2026-07-12T06:51:31.880Z"
     },
     {
-      "id": 114400,
-      "title": "基于IBM的BLM方法论的智能化规划工具",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
-      "views": 2,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "RedCloud",
-      "created_at": "2026-07-12T06:49:45.882Z"
-    },
-    {
-      "id": 114399,
-      "title": "【硬件交互赛道】Plant Monster -- 桌面上的植物小精灵，一个会\"被看见\"的 AI 助手",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 2,
-      "reply_count": 0,
-      "tags": [
-        "硬件交互"
-      ],
-      "username": "u850348810699904",
-      "created_at": "2026-07-12T06:49:13.616Z"
-    },
-    {
       "id": 74072,
       "title": "Obsidian RAG —— 把你的 Obsidian 笔记变成 Trae 可调用的本地知识库",
       "slug": "topic",
@@ -319,20 +375,6 @@
       ],
       "username": "用户65922",
       "created_at": "2026-07-06T15:28:47.193Z"
-    },
-    {
-      "id": 114393,
-      "title": "【学习工作赛道】Prompt Vault：面向多AI平台用户的 AI 提示词检索、创建与迭代版本控制工作台",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 3,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "u2099395873484912",
-      "created_at": "2026-07-12T06:46:12.470Z"
     },
     {
       "id": 113841,
@@ -355,7 +397,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 3,
+      "views": 5,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -364,26 +406,12 @@
       "created_at": "2026-07-12T06:43:33.805Z"
     },
     {
-      "id": 114389,
-      "title": "起手式——开启AI工作流的第一步",
+      "id": 114388,
+      "title": "第一步：基础框架搭建 我告诉 TRAE 我想做一个期末复习规划工具，它帮我从零搭建了完整的 Web 应用框架，包括响应式布局、侧边栏导航、深色/浅色主题切换、科目管理表单等基础功能。 第二步：核心调度算法 我描述了想要\"根据科目难度和重要性自动排计划\"的需求，TRAE 实现了权重计算算法——综合考虑难度权重、薄弱科目加权、模拟考分折算和完成率调整，支持普通加权模式和艾宾浩斯间隔复习模式（间隔 1-3-7-15 天）。 第三步：教材知识库构建 这是最大的工程量。我提出\"要按大学专业分类导入教材知识点\"的",
       "slug": "topic",
-      "vote_count": 0,
+      "vote_count": 1,
       "like_count": 0,
       "views": 3,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "u212650084546092",
-      "created_at": "2026-07-12T06:43:12.242Z"
-    },
-    {
-      "id": 114388,
-      "title": "第一步：基础框架搭建 我告诉 TRAE 我想做一个期末复习规划工具，它帮我从零搭建了完整的 Web 应用框架，包括响应式布局、侧边栏导航、深色/浅色主题切换、科目管理表单等基础功能。  第二步：核心调度算法 我描述了想要\"根据科目难度和重要性自动排计划\"的需求，TRAE 实现了权重计算算法——综合考虑难度权重、薄弱科目加权、模拟考分折算和完成率调整，支持普通加权模式和艾宾浩斯间隔复习模式（间隔 1-3-7-15 天）。  第三步：教材知识库构建 这是最大的工程量。我提出\"要按大学专业分类导入教材知识点\"的",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 2,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -395,9 +423,9 @@
       "id": 114361,
       "title": "【学习工作赛道】Lume（璐觅）- AI人生规划陪伴者",
       "slug": "topic",
-      "vote_count": 0,
+      "vote_count": 1,
       "like_count": 0,
-      "views": 11,
+      "views": 12,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -409,9 +437,9 @@
       "id": 114384,
       "title": "CampusDance校园舞蹈社团预约平台",
       "slug": "topic",
-      "vote_count": 0,
+      "vote_count": 1,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [],
       "username": "用户64693",
@@ -438,7 +466,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 3,
+      "views": 4,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -532,7 +560,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 3,
+      "views": 4,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -669,7 +697,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 2,
+      "views": 4,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -765,7 +793,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -1167,7 +1195,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [
         "生活娱乐",
@@ -5641,7 +5669,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 3,
+      "views": 4,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -6811,7 +6839,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 3,
+      "views": 4,
       "reply_count": 0,
       "tags": [
         "学习工作",
@@ -6969,7 +6997,7 @@
       "tags": [
         "学习工作"
       ],
-      "username": "u1927866750350249",
+      "username": "啊伟",
       "created_at": "2026-07-11T13:12:46.927Z"
     },
     {
@@ -8274,7 +8302,7 @@
       "slug": "topic",
       "vote_count": 5,
       "like_count": 8,
-      "views": 65,
+      "views": 66,
       "reply_count": 5,
       "tags": [
         "生活娱乐",
@@ -12774,7 +12802,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 27,
+      "views": 28,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -14245,7 +14273,7 @@
       "slug": "topic",
       "vote_count": 55,
       "like_count": 8,
-      "views": 179,
+      "views": 180,
       "reply_count": 3,
       "tags": [
         "社会公益",
@@ -14288,7 +14316,7 @@
       "slug": "topic",
       "vote_count": 68,
       "like_count": 97,
-      "views": 993,
+      "views": 994,
       "reply_count": 4,
       "tags": [
         "生活娱乐"
@@ -14987,7 +15015,7 @@
       "slug": "topic",
       "vote_count": 94,
       "like_count": 57,
-      "views": 1441,
+      "views": 1442,
       "reply_count": 16,
       "tags": [
         "社会服务",
@@ -15017,7 +15045,7 @@
       "slug": "topic",
       "vote_count": 109,
       "like_count": 124,
-      "views": 1864,
+      "views": 1866,
       "reply_count": 86,
       "tags": [
         "社会服务",
@@ -15642,7 +15670,7 @@
       "slug": "topic",
       "vote_count": 15,
       "like_count": 1,
-      "views": 223,
+      "views": 224,
       "reply_count": 5,
       "tags": [
         "学习工作"
@@ -21195,7 +21223,7 @@
       "slug": "topic",
       "vote_count": 127,
       "like_count": 137,
-      "views": 1487,
+      "views": 1488,
       "reply_count": 7,
       "tags": [
         "生活娱乐"
@@ -22892,7 +22920,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 5,
-      "views": 17,
+      "views": 18,
       "reply_count": 1,
       "tags": [
         "学习工作"
@@ -32075,7 +32103,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 10,
+      "views": 12,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -41770,7 +41798,7 @@
       "slug": "topic",
       "vote_count": 4,
       "like_count": 10,
-      "views": 201,
+      "views": 202,
       "reply_count": 3,
       "tags": [
         "生活娱乐"
@@ -48695,7 +48723,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 30,
+      "views": 31,
       "reply_count": 1,
       "tags": [
         "学习工作"
@@ -52383,7 +52411,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [],
       "username": "u1927915189050308",
@@ -53640,7 +53668,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 11,
+      "views": 12,
       "reply_count": 0,
       "tags": [],
       "username": "u2715107652284106",
@@ -65941,7 +65969,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 88,
+      "views": 89,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -71089,6 +71117,18 @@
       "created_at": "2026-07-01T08:15:25.154Z"
     },
     {
+      "id": 53060,
+      "title": "生活娱乐 × 月老估身价 — AI 相亲市场定位分析工具",
+      "slug": "topic",
+      "vote_count": 3,
+      "like_count": 0,
+      "views": 63,
+      "reply_count": 0,
+      "tags": [],
+      "username": "凌览",
+      "created_at": "2026-07-01T08:15:22.661Z"
+    },
+    {
       "id": 53059,
       "title": "生活娱乐赛道+衍境互动影游智能体创作系统",
       "slug": "topic",
@@ -75299,6 +75339,20 @@
       ],
       "username": "u362203354250568",
       "created_at": "2026-06-30T02:36:22.806Z"
+    },
+    {
+      "id": 51034,
+      "title": "生活娱乐——庐山",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 13,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u3845462674910699",
+      "created_at": "2026-06-30T02:41:12.960Z"
     },
     {
       "id": 51033,
@@ -103833,7 +103887,7 @@
       "slug": "topic",
       "vote_count": 6,
       "like_count": 3,
-      "views": 67,
+      "views": 68,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -116526,7 +116580,7 @@
       "created_at": "2026-06-16T09:36:55.350Z"
     }
   ],
-  "count": 8325,
-  "last_update": "2026-07-12T07:11:26.878Z",
+  "count": 8329,
+  "last_update": "2026-07-12T07:14:49.919Z",
   "error": null
 }
