@@ -1,6 +1,46 @@
 {
   "topics": [
     {
+      "id": 114361,
+      "title": "【学习工作赛道】Lume（璐觅）- AI人生规划陪伴者",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 12,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u3616714724489792",
+      "created_at": "2026-07-12T06:34:53.366Z"
+    },
+    {
+      "id": 114388,
+      "title": "第一步：基础框架搭建 我告诉 TRAE 我想做一个期末复习规划工具，它帮我从零搭建了完整的 Web 应用框架，包括响应式布局、侧边栏导航、深色/浅色主题切换、科目管理表单等基础功能。 第二步：核心调度算法 我描述了想要\"根据科目难度和重要性自动排计划\"的需求，TRAE 实现了权重计算算法——综合考虑难度权重、薄弱科目加权、模拟考分折算和完成率调整，支持普通加权模式和艾宾浩斯间隔复习模式（间隔 1-3-7-15 天）。 第三步：教材知识库构建 这是最大的工程量。我提出\"要按大学专业分类导入教材知识点\"的",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 3,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u4285259453042812",
+      "created_at": "2026-07-12T06:43:09.770Z"
+    },
+    {
+      "id": 114446,
+      "title": "【学习工作】+ 专注板 (FocusBoard) —— 把时间花在重要的事上",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 0,
+      "reply_count": 0,
+      "tags": [],
+      "username": "阿飞弹",
+      "created_at": "2026-07-12T07:14:13.046Z"
+    },
+    {
       "id": 114389,
       "title": "起手式——开启AI工作流的第一步",
       "slug": "topic",
@@ -34,7 +74,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 4,
+      "views": 6,
       "reply_count": 0,
       "tags": [
         "硬件交互"
@@ -62,7 +102,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 1,
+      "views": 2,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -102,7 +142,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 8,
+      "views": 10,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -144,7 +184,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -172,7 +212,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 1,
+      "views": 2,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -187,7 +227,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 1,
+      "views": 2,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -227,7 +267,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 19,
+      "views": 20,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -406,34 +446,6 @@
       "created_at": "2026-07-12T06:43:33.805Z"
     },
     {
-      "id": 114388,
-      "title": "第一步：基础框架搭建 我告诉 TRAE 我想做一个期末复习规划工具，它帮我从零搭建了完整的 Web 应用框架，包括响应式布局、侧边栏导航、深色/浅色主题切换、科目管理表单等基础功能。 第二步：核心调度算法 我描述了想要\"根据科目难度和重要性自动排计划\"的需求，TRAE 实现了权重计算算法——综合考虑难度权重、薄弱科目加权、模拟考分折算和完成率调整，支持普通加权模式和艾宾浩斯间隔复习模式（间隔 1-3-7-15 天）。 第三步：教材知识库构建 这是最大的工程量。我提出\"要按大学专业分类导入教材知识点\"的",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
-      "views": 3,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "u4285259453042812",
-      "created_at": "2026-07-12T06:43:09.770Z"
-    },
-    {
-      "id": 114361,
-      "title": "【学习工作赛道】Lume（璐觅）- AI人生规划陪伴者",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
-      "views": 12,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "u3616714724489792",
-      "created_at": "2026-07-12T06:34:53.366Z"
-    },
-    {
       "id": 114384,
       "title": "CampusDance校园舞蹈社团预约平台",
       "slug": "topic",
@@ -466,7 +478,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -546,7 +558,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 7,
+      "views": 9,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -1036,7 +1048,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 7,
+      "views": 8,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -11326,7 +11338,7 @@
       "slug": "topic",
       "vote_count": 4,
       "like_count": 1,
-      "views": 24,
+      "views": 25,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -15015,7 +15027,7 @@
       "slug": "topic",
       "vote_count": 94,
       "like_count": 57,
-      "views": 1442,
+      "views": 1443,
       "reply_count": 16,
       "tags": [
         "社会服务",
@@ -21590,7 +21602,7 @@
       "slug": "topic",
       "vote_count": 33,
       "like_count": 93,
-      "views": 758,
+      "views": 759,
       "reply_count": 22,
       "tags": [
         "生活娱乐"
@@ -31815,7 +31827,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [],
       "username": "u3242885963331600",
@@ -101021,7 +101033,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 24,
+      "views": 26,
       "reply_count": 0,
       "tags": [
         "生活娱乐",
@@ -106969,7 +106981,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 27,
+      "views": 28,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -116580,7 +116592,7 @@
       "created_at": "2026-06-16T09:36:55.350Z"
     }
   ],
-  "count": 8329,
-  "last_update": "2026-07-12T07:14:49.919Z",
+  "count": 8330,
+  "last_update": "2026-07-12T07:15:59.102Z",
   "error": null
 }
