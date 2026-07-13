@@ -1,12 +1,110 @@
 {
   "topics": [
     {
+      "id": 147322,
+      "title": "【生活娱乐】心里话",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "tqone",
+      "created_at": "2026-07-13T15:49:44.215Z"
+    },
+    {
+      "id": 147320,
+      "title": " 生活娱乐 + 做一个城市本地生活的云朵预报工作室",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u3871818075090260",
+      "created_at": "2026-07-13T15:49:42.015Z"
+    },
+    {
+      "id": 147319,
+      "title": "【生活娱乐赛道】大观园开席：从一道菜进入《红楼梦》的互动食盒",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 0,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u2662346259983995",
+      "created_at": "2026-07-13T15:49:39.628Z"
+    },
+    {
+      "id": 147317,
+      "title": "【学习工作赛道】做点什么——AI等待间隙的微内容伴侣",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 3,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "用户53052533314",
+      "created_at": "2026-07-13T15:48:29.335Z"
+    },
+    {
+      "id": 147312,
+      "title": "【生活娱乐赛道 】奶嗝儿——\"记录是为了放下\"",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u458933695420170",
+      "created_at": "2026-07-13T15:47:19.965Z"
+    },
+    {
+      "id": 147311,
+      "title": "【生活娱乐赛道】彩虹小蛇吃水果 — 一个小学二年级学生用 TRAE 做的贪吃蛇游戏（初赛 Demo）",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 0,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u2433651102195499",
+      "created_at": "2026-07-13T15:47:17.884Z"
+    },
+    {
+      "id": 147310,
+      "title": "【学习工作 | 账清】AI 驱动的零售供应商智能对账助手 Demo",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 3,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "wangjl1010",
+      "created_at": "2026-07-13T15:46:14.951Z"
+    },
+    {
       "id": 147306,
       "title": "【 学习工作赛道 】FNDM 文件命名与目录管理器",
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 2,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -20,7 +118,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 1,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -61,7 +159,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 1,
+      "views": 2,
       "reply_count": 0,
       "tags": [
         "生活娱乐",
@@ -76,7 +174,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -104,7 +202,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 29,
+      "views": 30,
       "reply_count": 1,
       "tags": [
         "学习工作"
@@ -154,7 +252,7 @@
     },
     {
       "id": 147281,
-      "title": "大观园开席：从一道菜进入《红楼梦》的互动食盒",
+      "title": "【生活娱乐】大观园开席：从一道菜进入《红楼梦》的互动食盒",
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
@@ -170,9 +268,9 @@
       "id": 147277,
       "title": "【生活娱乐赛道】即时回放 — 手机端的 ShadowPlay，游戏高光一键留存",
       "slug": "topic",
-      "vote_count": 2,
+      "vote_count": 5,
       "like_count": 0,
-      "views": 16,
+      "views": 22,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -184,7 +282,7 @@
       "id": 133718,
       "title": "【生活娱乐赛道】AI 饮食记录与分析——**拍照自动识别食物类别以及营养数据）",
       "slug": "topic",
-      "vote_count": 0,
+      "vote_count": 1,
       "like_count": 0,
       "views": 10,
       "reply_count": 1,
@@ -229,7 +327,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 9,
+      "views": 10,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -269,7 +367,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -326,7 +424,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 7,
+      "views": 8,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -338,9 +436,9 @@
       "id": 147232,
       "title": "【生活娱乐赛道】吃了吗——小商户零成本线上点餐系统",
       "slug": "topic",
-      "vote_count": 5,
+      "vote_count": 6,
       "like_count": 0,
-      "views": 24,
+      "views": 25,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -396,7 +494,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -1632,7 +1730,7 @@
       "slug": "topic",
       "vote_count": 12,
       "like_count": 9,
-      "views": 110,
+      "views": 111,
       "reply_count": 7,
       "tags": [
         "生活娱乐",
@@ -1759,7 +1857,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 6,
+      "views": 7,
       "reply_count": 0,
       "tags": [
         "社会服务"
@@ -3343,7 +3441,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 47,
+      "views": 48,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -3920,7 +4018,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 1,
       "reply_count": 0,
       "tags": [
         "硬件交互"
@@ -4380,11 +4478,11 @@
     },
     {
       "id": 146460,
-      "title": "【社会服务】【社会公益】基于多模态证据驱动的认知障碍临床决策支持框架",
+      "title": "【社会服务】【社会公益】别等忘了，才发现—— 认知障碍智能早筛与辅助决策平台",
       "slug": "topic",
-      "vote_count": 1,
+      "vote_count": 2,
       "like_count": 0,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -7913,7 +8011,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 15,
+      "views": 16,
       "reply_count": 0,
       "tags": [
         "生活娱乐",
@@ -8904,7 +9002,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 14,
+      "views": 15,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -9094,7 +9192,7 @@
     },
     {
       "id": 116418,
-      "title": "智调云桥——基于区块链与AI的金融纠纷智能调解平台（最新）",
+      "title": "【社会服务赛道】智调云桥：三方协同化解纠纷，用技术守护社会的温和底线",
       "slug": "topic",
       "vote_count": 3,
       "like_count": 0,
@@ -11077,7 +11175,7 @@
       "slug": "topic",
       "vote_count": 7,
       "like_count": 0,
-      "views": 42,
+      "views": 43,
       "reply_count": 1,
       "tags": [
         "社会服务",
@@ -12350,7 +12448,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -23134,7 +23232,7 @@
       "slug": "topic",
       "vote_count": 4,
       "like_count": 3,
-      "views": 165,
+      "views": 167,
       "reply_count": 0,
       "tags": [
         "学习工作",
@@ -31213,7 +31311,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 10,
+      "views": 11,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -43006,7 +43104,7 @@
       "slug": "topic",
       "vote_count": 5,
       "like_count": 8,
-      "views": 62,
+      "views": 63,
       "reply_count": 5,
       "tags": [],
       "username": "有怪",
@@ -55809,7 +55907,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 15,
+      "views": 17,
       "reply_count": 0,
       "tags": [
         "社会服务"
@@ -55949,7 +56047,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 26,
+      "views": 27,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -59055,7 +59153,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 5,
+      "views": 6,
       "reply_count": 0,
       "tags": [
         "社会服务"
@@ -69062,7 +69160,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 12,
+      "views": 13,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -77674,7 +77772,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 7,
+      "views": 8,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -94283,7 +94381,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 19,
+      "views": 20,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -99933,7 +100031,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 17,
+      "views": 18,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -106653,20 +106751,6 @@
       ],
       "username": "u4501825220251988",
       "created_at": "2026-06-26T09:37:48.173Z"
-    },
-    {
-      "id": 46780,
-      "title": "【生活服务赛道】海旅通 · AI智能海南生活服务助手",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 8,
-      "reply_count": 0,
-      "tags": [
-        "生活娱乐"
-      ],
-      "username": "u3770642008113764",
-      "created_at": "2026-06-26T09:35:57.946Z"
     },
     {
       "id": 46779,
@@ -114732,7 +114816,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 1,
-      "views": 28,
+      "views": 29,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -121186,7 +121270,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 23,
+      "views": 24,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -133583,21 +133667,6 @@
       "created_at": "2026-06-17T13:29:24.827Z"
     },
     {
-      "id": 29618,
-      "title": "【社会服务+社会公益赛道】《药明白》——老年人吃药必备的AI工具",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
-      "views": 36,
-      "reply_count": 0,
-      "tags": [
-        "社会服务",
-        "社会公益"
-      ],
-      "username": "u850348337267099",
-      "created_at": "2026-06-17T13:26:57.013Z"
-    },
-    {
       "id": 29602,
       "title": "〖生活娱乐赛道〗穿啥哟 WearWhat：（让天下美眉 不再纠结今天穿啥哟 让你女朋友不再说 没衣穿）基于真实衣橱的 AI 穿搭决策助手",
       "slug": "topic",
@@ -134420,20 +134489,6 @@
       "created_at": "2026-06-17T09:08:47.941Z"
     },
     {
-      "id": 28399,
-      "title": "【生活娱乐赛道】全能打卡提醒助手 Demo——全平台打卡任务聚合管理工具",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 29,
-      "reply_count": 0,
-      "tags": [
-        "生活娱乐"
-      ],
-      "username": "u4003796169795820",
-      "created_at": "2026-06-17T09:03:33.073Z"
-    },
-    {
       "id": 28397,
       "title": "【生活娱乐赛道】CosMaster —— AI Coser 妆造还原度评分与摄影撮合平台",
       "slug": "topic",
@@ -135204,7 +135259,7 @@
       "created_at": "2026-06-16T09:36:55.350Z"
     }
   ],
-  "count": 9657,
-  "last_update": "2026-07-13T15:46:16.995Z",
+  "count": 9661,
+  "last_update": "2026-07-13T15:51:33.058Z",
   "error": null
 }
