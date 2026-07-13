@@ -1,12 +1,121 @@
 {
   "topics": [
     {
+      "id": 116382,
+      "title": "【初赛Demo】生活娱乐 + 遇事不决量子力学",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 0,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "limuzi",
+      "created_at": "2026-07-13T04:40:40.092Z"
+    },
+    {
+      "id": 116381,
+      "title": "【学习工作赛道】ABYSS OS  AI 数字生命编程伴侣 IDE，让编程不再孤独",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 0,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "用户64489",
+      "created_at": "2026-07-13T04:40:35.768Z"
+    },
+    {
+      "id": 116380,
+      "title": "【生活娱乐赛道 】晓月-少女经期关爱与生理知识助手",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 0,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐",
+        "社会公益"
+      ],
+      "username": "u4457897487770244",
+      "created_at": "2026-07-13T04:40:30.478Z"
+    },
+    {
+      "id": 116379,
+      "title": "【生活娱乐赛道】拼豆侠 —— 多品牌拼豆辅助工具，初赛 Demo",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 0,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "用户63013",
+      "created_at": "2026-07-13T04:40:26.797Z"
+    },
+    {
+      "id": 74624,
+      "title": "【学习工作赛道】BrandSpark —AI品牌策划助手，30秒生成专业级品牌方案（已迭代5版，在线即用）",
+      "slug": "topic",
+      "vote_count": 3,
+      "like_count": 4,
+      "views": 50,
+      "reply_count": 4,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u1360524590457143",
+      "created_at": "2026-07-07T04:47:11.907Z"
+    },
+    {
+      "id": 116375,
+      "title": "【Study & Work Track】Reproduct Yourself 重塑自我",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 0,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u2785491692038807",
+      "created_at": "2026-07-13T04:40:02.509Z"
+    },
+    {
+      "id": 116374,
+      "title": "一个帮助乡村家庭建立数字档案的网站",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 0,
+      "reply_count": 0,
+      "tags": [],
+      "username": "u2285211093310121",
+      "created_at": "2026-07-13T04:39:59.624Z"
+    },
+    {
+      "id": 116365,
+      "title": "【社会服务赛道】帮你点亮下一颗星星 – 大学生可视化 职业选择路线",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [],
+      "username": "向好",
+      "created_at": "2026-07-13T04:35:40.932Z"
+    },
+    {
       "id": 116363,
       "title": "[生活娱乐] clothing pleat 衣褶",
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 2,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -34,7 +143,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 1,
+      "views": 4,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -49,7 +158,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 2,
       "reply_count": 0,
       "tags": [
         "社会公益",
@@ -76,7 +185,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 3,
+      "views": 4,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -181,20 +290,6 @@
       ],
       "username": "u4346829019291084",
       "created_at": "2026-07-13T04:00:00.521Z"
-    },
-    {
-      "id": 74624,
-      "title": "【学习工作赛道】BrandSpark —AI品牌策划助手，30秒生成专业级品牌方案（已迭代5版，在线即用）",
-      "slug": "topic",
-      "vote_count": 3,
-      "like_count": 4,
-      "views": 50,
-      "reply_count": 3,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "u1360524590457143",
-      "created_at": "2026-07-07T04:47:11.907Z"
     },
     {
       "id": 116311,
@@ -1236,9 +1331,9 @@
       "id": 112951,
       "title": "【社会服务赛道】你，很老吗？",
       "slug": "topic",
-      "vote_count": 22,
+      "vote_count": 25,
       "like_count": 0,
-      "views": 70,
+      "views": 73,
       "reply_count": 3,
       "tags": [
         "社会服务"
@@ -2292,9 +2387,9 @@
       "id": 113988,
       "title": "【社会服务赛道】AI懂我-心智障碍者动态支持档案",
       "slug": "topic",
-      "vote_count": 40,
+      "vote_count": 41,
       "like_count": 0,
-      "views": 77,
+      "views": 78,
       "reply_count": 2,
       "tags": [
         "社会服务",
@@ -7477,7 +7572,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 13,
+      "views": 14,
       "reply_count": 0,
       "tags": [
         "学习工作",
@@ -8476,7 +8571,7 @@
       "slug": "topic",
       "vote_count": 16,
       "like_count": 1,
-      "views": 126,
+      "views": 127,
       "reply_count": 9,
       "tags": [
         "学习工作"
@@ -8898,7 +8993,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 11,
+      "views": 13,
       "reply_count": 0,
       "tags": [
         "学习工作",
@@ -14535,7 +14630,7 @@
       "slug": "topic",
       "vote_count": 40,
       "like_count": 1,
-      "views": 119,
+      "views": 120,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -18725,7 +18820,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 3,
+      "views": 4,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -19859,7 +19954,7 @@
       "slug": "topic",
       "vote_count": 5,
       "like_count": 15,
-      "views": 82,
+      "views": 83,
       "reply_count": 4,
       "tags": [
         "生活娱乐"
@@ -20000,7 +20095,7 @@
       "slug": "topic",
       "vote_count": 18,
       "like_count": 35,
-      "views": 192,
+      "views": 194,
       "reply_count": 9,
       "tags": [
         "生活娱乐"
@@ -25847,7 +25942,7 @@
       "slug": "topic",
       "vote_count": 38,
       "like_count": 34,
-      "views": 311,
+      "views": 312,
       "reply_count": 5,
       "tags": [
         "社会服务",
@@ -28648,7 +28743,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 14,
+      "views": 15,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -29013,7 +29108,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 14,
+      "views": 15,
       "reply_count": 0,
       "tags": [],
       "username": "u304992442919156",
@@ -34289,7 +34384,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 8,
+      "views": 9,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -47070,7 +47165,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 14,
+      "views": 15,
       "reply_count": 0,
       "tags": [
         "硬件交互"
@@ -52928,7 +53023,7 @@
       "slug": "topic",
       "vote_count": 7,
       "like_count": 2,
-      "views": 159,
+      "views": 160,
       "reply_count": 1,
       "tags": [],
       "username": "u845984842923402",
@@ -56058,7 +56153,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 11,
+      "views": 12,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -78267,9 +78362,9 @@
       "id": 67319,
       "title": "【社会服务赛道】安心边界：面向心智障碍者的性教育与身体安全 AI 辅助工具",
       "slug": "topic",
-      "vote_count": 42,
+      "vote_count": 43,
       "like_count": 0,
-      "views": 75,
+      "views": 76,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -88280,7 +88375,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 5,
+      "views": 6,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -90869,7 +90964,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 182,
+      "views": 183,
       "reply_count": 0,
       "tags": [
         "硬件交互"
@@ -106399,7 +106494,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 22,
+      "views": 23,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -115865,7 +115960,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 17,
+      "views": 18,
       "reply_count": 0,
       "tags": [],
       "username": "u498492468894876",
@@ -116255,7 +116350,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 28,
+      "views": 29,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -126926,7 +127021,7 @@
       "created_at": "2026-06-16T09:36:55.350Z"
     }
   ],
-  "count": 9066,
-  "last_update": "2026-07-13T04:35:55.671Z",
+  "count": 9073,
+  "last_update": "2026-07-13T04:41:14.367Z",
   "error": null
 }
