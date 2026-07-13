@@ -1,12 +1,92 @@
 {
   "topics": [
     {
+      "id": 147544,
+      "title": "【社会服务】智渠DMS——AI驱动的经销商数字化管理系统",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 0,
+      "reply_count": 0,
+      "tags": [
+        "社会服务"
+      ],
+      "username": "u490850219744858",
+      "created_at": "2026-07-13T17:51:25.813Z"
+    },
+    {
+      "id": 147543,
+      "title": "学习工作 + 简历坊",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 0,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "用户16554",
+      "created_at": "2026-07-13T17:51:23.720Z"
+    },
+    {
+      "id": 147541,
+      "title": "【学习工作赛道】AgentZen—–给agent做“针灸”的合盖任务守护工具",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 0,
+      "reply_count": 0,
+      "tags": [],
+      "username": "u2275315991979962",
+      "created_at": "2026-07-13T17:51:20.414Z"
+    },
+    {
+      "id": 147536,
+      "title": "【生活娱乐赛道】全家档期协调台 —— 多孩家庭的\"接送不撞车\"AI调度台",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "学AI的ALEX",
+      "created_at": "2026-07-13T17:50:52.063Z"
+    },
+    {
+      "id": 116290,
+      "title": "【社会服务赛道】安心铃：用一台“吃灰”的二手设备，守护一名独居老人",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 59,
+      "reply_count": 4,
+      "tags": [],
+      "username": "安心铃APP开发者",
+      "created_at": "2026-07-13T03:53:34.136Z"
+    },
+    {
+      "id": 147534,
+      "title": "让 AI Agent 更懂 Bug 的智能调试平台",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 0,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u2701933002108160",
+      "created_at": "2026-07-13T17:50:46.929Z"
+    },
+    {
       "id": 147533,
       "title": "【生活娱乐赛道】MusicComposer 2.0 - AI智能音乐创作器  https://cozy-frangipane-af0821.netlify.app/",
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 1,
       "reply_count": 0,
       "tags": [],
       "username": "u3453999696852506",
@@ -863,7 +943,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 1,
+      "views": 2,
       "reply_count": 0,
       "tags": [
         "硬件交互"
@@ -1240,7 +1320,7 @@
       "id": 147360,
       "title": "【学习工作赛道】题宝TiBo — 你的专属复习搭子",
       "slug": "topic",
-      "vote_count": 0,
+      "vote_count": 1,
       "like_count": 0,
       "views": 1,
       "reply_count": 0,
@@ -11003,7 +11083,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 45,
+      "views": 46,
       "reply_count": 2,
       "tags": [
         "学习工作"
@@ -23766,7 +23846,7 @@
       "slug": "topic",
       "vote_count": 5,
       "like_count": 23,
-      "views": 167,
+      "views": 168,
       "reply_count": 5,
       "tags": [
         "生活娱乐",
@@ -25057,7 +25137,7 @@
       "slug": "topic",
       "vote_count": 4,
       "like_count": 0,
-      "views": 26,
+      "views": 27,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -26572,7 +26652,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 6,
+      "views": 7,
       "reply_count": 0,
       "tags": [
         "硬件交互"
@@ -29780,7 +29860,7 @@
       "slug": "topic",
       "vote_count": 73,
       "like_count": 83,
-      "views": 798,
+      "views": 799,
       "reply_count": 16,
       "tags": [
         "学习工作",
@@ -35125,7 +35205,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 1,
-      "views": 49,
+      "views": 50,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -68175,7 +68255,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 5,
+      "views": 6,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -104567,7 +104647,7 @@
       "slug": "topic",
       "vote_count": 4,
       "like_count": 0,
-      "views": 57,
+      "views": 58,
       "reply_count": 0,
       "tags": [
         "学习工作",
@@ -136482,7 +136562,7 @@
       "created_at": "2026-06-16T09:36:55.350Z"
     }
   ],
-  "count": 9748,
-  "last_update": "2026-07-13T17:51:08.650Z",
+  "count": 9754,
+  "last_update": "2026-07-13T17:55:49.354Z",
   "error": null
 }
