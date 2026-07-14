@@ -1,8 +1,62 @@
 {
   "topics": [
     {
-      "id": 150652,
-      "title": "【学习工作】ArtForgeAI",
+      "id": 150389,
+      "title": "学习工作 挑兵选将：AI 团队协作预演助手",
+      "slug": "topic",
+      "vote_count": 3,
+      "like_count": 0,
+      "views": 6,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u1167009704056852",
+      "created_at": "2026-07-14T13:39:39.717Z"
+    },
+    {
+      "id": 150689,
+      "title": "MindGuard - 智能心理健康守护系统啊",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 0,
+      "reply_count": 0,
+      "tags": [],
+      "username": "u2996588199555704",
+      "created_at": "2026-07-14T14:40:45.509Z"
+    },
+    {
+      "id": 150644,
+      "title": "【学习工作赛道】Hum2midi开发一款人声哼唱转谱的软件",
+      "slug": "topic",
+      "vote_count": 3,
+      "like_count": 2,
+      "views": 5,
+      "reply_count": 1,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u1747548339974692",
+      "created_at": "2026-07-14T14:34:04.725Z"
+    },
+    {
+      "id": 150688,
+      "title": "【生活娱乐赛道】家庭财务压力测试仪",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u2833872660727536",
+      "created_at": "2026-07-14T14:40:13.733Z"
+    },
+    {
+      "id": 150687,
+      "title": "【学习工作赛道】OfferCoach AI——面向程序员的 AI 求职训练与模拟面试平台（Demo）",
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
@@ -11,12 +65,481 @@
       "tags": [
         "学习工作"
       ],
-      "username": "u1888285600266076",
-      "created_at": "2026-07-14T14:35:27.541Z"
+      "username": "u300601576526311",
+      "created_at": "2026-07-14T14:40:11.737Z"
     },
     {
-      "id": 150613,
-      "title": "【生活娱乐赛道】情绪熔毁 「EmoMelt」—— 3 分钟内完成情绪释放（初赛）",
+      "id": 150685,
+      "title": "指尖传承 — 非遗技艺互动小游戏—剪纸扎染年画",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 0,
+      "reply_count": 0,
+      "tags": [
+        "社会服务"
+      ],
+      "username": "u1290158276634915",
+      "created_at": "2026-07-14T14:40:09.286Z"
+    },
+    {
+      "id": 150668,
+      "title": "【社会服务赛道】陈永华文化AI体验馆 —— 一个宝妈带着孩子们，用AI把隔壁村被遗忘的历史名人\"活\"了过来",
+      "slug": "topic",
+      "vote_count": 3,
+      "like_count": 0,
+      "views": 3,
+      "reply_count": 0,
+      "tags": [
+        "社会服务",
+        "社会公益"
+      ],
+      "username": "u793212852119587",
+      "created_at": "2026-07-14T14:37:57.125Z"
+    },
+    {
+      "id": 150684,
+      "title": "【社会服务赛道】此刻有解——校园即时互助与社团短时协作平台",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [
+        "社会服务"
+      ],
+      "username": "kallenseadom",
+      "created_at": "2026-07-14T14:40:05.835Z"
+    },
+    {
+      "id": 150649,
+      "title": "【学习工作赛道】言形 · AI 双向语言风格转换器",
+      "slug": "topic",
+      "vote_count": 2,
+      "like_count": 0,
+      "views": 2,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "Harlan",
+      "created_at": "2026-07-14T14:35:12.190Z"
+    },
+    {
+      "id": 150683,
+      "title": "生活娱乐+同人文梗库",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [],
+      "username": "u304997640187315",
+      "created_at": "2026-07-14T14:39:54.583Z"
+    },
+    {
+      "id": 150681,
+      "title": "【生活娱乐赛道】 | 拾途：拾起旅途的小美好— 初赛demo",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 3,
+      "reply_count": 0,
+      "tags": [],
+      "username": "u4157686087155824",
+      "created_at": "2026-07-14T14:39:44.972Z"
+    },
+    {
+      "id": 150660,
+      "title": "鱼来了：初赛 Demo 提交",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 5,
+      "reply_count": 0,
+      "tags": [
+        "社会服务",
+        "社会公益"
+      ],
+      "username": "u1184606154144314",
+      "created_at": "2026-07-14T14:36:17.278Z"
+    },
+    {
+      "id": 150665,
+      "title": "《周》demo是一款面向青少年的互动叙事游戏。玩家扮演一名高中生，经历一周校园生活，在一次次看似平常的选择中，逐步看见自己的睡眠、饮食、运动、情绪、社交和自我认同状态。",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 3,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐",
+        "社会公益"
+      ],
+      "username": "u925159822731210",
+      "created_at": "2026-07-14T14:37:44.377Z"
+    },
+    {
+      "id": 150679,
+      "title": "【生活娱乐+社会公益】——  一个集宝宝出生到3岁的衣食住行等等的综合性集合体，让新手爸妈不再焦虑",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐",
+        "社会公益"
+      ],
+      "username": "u2402890743554112",
+      "created_at": "2026-07-14T14:39:23.631Z"
+    },
+    {
+      "id": 113476,
+      "title": "爪印 —— 所有宠物 App 都在教你养宠，只有它在教你告别",
+      "slug": "topic",
+      "vote_count": 7,
+      "like_count": 3,
+      "views": 62,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐",
+        "社会公益"
+      ],
+      "username": "鹅翅",
+      "created_at": "2026-07-11T11:41:24.931Z"
+    },
+    {
+      "id": 150677,
+      "title": "【学习工作】市场洞察工具Winja——告别盲目GTM，精准锁定市场机会",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u392951500382663",
+      "created_at": "2026-07-14T14:38:50.698Z"
+    },
+    {
+      "id": 150676,
+      "title": "奇点造物局-帮 AI 小白 30 分钟做出第一个可展示作品的 Builder 社区",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 0,
+      "reply_count": 0,
+      "tags": [
+        "学习工作",
+        "社会服务"
+      ],
+      "username": "u1466084411579770",
+      "created_at": "2026-07-14T14:38:47.627Z"
+    },
+    {
+      "id": 150662,
+      "title": "社会服务·社会公益 | 知伴：一个陪伴你成长的AI伙伴（含访问链接）",
+      "slug": "topic",
+      "vote_count": 3,
+      "like_count": 0,
+      "views": 4,
+      "reply_count": 0,
+      "tags": [
+        "社会服务",
+        "社会公益"
+      ],
+      "username": "u63128855397184",
+      "created_at": "2026-07-14T14:36:24.450Z"
+    },
+    {
+      "id": 150675,
+      "title": "AI 原生智慧校园低碳管家",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 2,
+      "reply_count": 0,
+      "tags": [
+        "社会服务",
+        "社会公益"
+      ],
+      "username": "u3252806192997907",
+      "created_at": "2026-07-14T14:38:44.733Z"
+    },
+    {
+      "id": 150653,
+      "title": "【社会服务赛道】开战之前demo",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 2,
+      "reply_count": 0,
+      "tags": [
+        "社会服务"
+      ],
+      "username": "u1729958053945383",
+      "created_at": "2026-07-14T14:36:04.253Z"
+    },
+    {
+      "id": 70694,
+      "title": "生活娱乐赛道】记得 - AI家族回忆录",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 10,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u2769039438646288",
+      "created_at": "2026-07-04T09:13:57.322Z"
+    },
+    {
+      "id": 150674,
+      "title": "【学习工作】市场洞察工具Winja——告别盲目Marketing，精准锁定市场机会",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 0,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u392951500382663",
+      "created_at": "2026-07-14T14:38:38.617Z"
+    },
+    {
+      "id": 150673,
+      "title": "【生活娱乐赛道】AI体态恢复系统",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [
+        "社会服务",
+        "社会公益"
+      ],
+      "username": "u3335287920141785",
+      "created_at": "2026-07-14T14:38:35.961Z"
+    },
+    {
+      "id": 150672,
+      "title": "【生活娱乐】-秀我+",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 0,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "用户64504",
+      "created_at": "2026-07-14T14:38:32.493Z"
+    },
+    {
+      "id": 150661,
+      "title": "【社会服务】【社会公益】关爱/服务老人的APP-搭把手",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [
+        "社会服务",
+        "社会公益"
+      ],
+      "username": "u3366036520051722",
+      "created_at": "2026-07-14T14:36:20.814Z"
+    },
+    {
+      "id": 150651,
+      "title": "【学习工作赛道】文思锦囊AI作文助手—六维智能作文批改Demo",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 2,
+      "reply_count": 0,
+      "tags": [
+        "学习工作",
+        "社会公益"
+      ],
+      "username": "u2750302688379993",
+      "created_at": "2026-07-14T14:35:23.011Z"
+    },
+    {
+      "id": 150659,
+      "title": "【生活娱乐赛道】岁月如歌 - 人生模拟游戏",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u2904276878501980",
+      "created_at": "2026-07-14T14:36:15.530Z"
+    },
+    {
+      "id": 150455,
+      "title": "【社会服务赛道】心晴录 以东方气象为尺，量心中阴晴圆缺",
+      "slug": "topic",
+      "vote_count": 3,
+      "like_count": 0,
+      "views": 7,
+      "reply_count": 0,
+      "tags": [
+        "社会服务",
+        "社会公益"
+      ],
+      "username": "NAVI",
+      "created_at": "2026-07-14T13:54:24.990Z"
+    },
+    {
+      "id": 42125,
+      "title": "【学习工作赛道】SPSSGO：直击1200万科研人数据分析痛点，让数据分析像聊天一样简单",
+      "slug": "topic",
+      "vote_count": 8,
+      "like_count": 2,
+      "views": 147,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u195029937163692",
+      "created_at": "2026-06-23T14:12:51.433Z"
+    },
+    {
+      "id": 150375,
+      "title": "社会服务｜乡味有方 - 家乡美食宣传与地方资源连接平台",
+      "slug": "topic",
+      "vote_count": 2,
+      "like_count": 0,
+      "views": 9,
+      "reply_count": 0,
+      "tags": [
+        "社会服务"
+      ],
+      "username": "u3735473299658843",
+      "created_at": "2026-07-14T13:37:29.170Z"
+    },
+    {
+      "id": 150667,
+      "title": "【学习工作赛道】+AI家长助手",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u2513926134969932",
+      "created_at": "2026-07-14T14:37:55.011Z"
+    },
+    {
+      "id": 150390,
+      "title": "CourseAI——基于AI Agent的智能教学视频生成平台",
+      "slug": "topic",
+      "vote_count": 2,
+      "like_count": 0,
+      "views": 6,
+      "reply_count": 0,
+      "tags": [
+        "学习工作",
+        "社会公益"
+      ],
+      "username": "u1114219373149451",
+      "created_at": "2026-07-14T13:40:31.980Z"
+    },
+    {
+      "id": 150393,
+      "title": "【生活娱乐】｜私人着装助理：一个会听你说话、帮你搭衣服的小程序",
+      "slug": "topic",
+      "vote_count": 3,
+      "like_count": 0,
+      "views": 10,
+      "reply_count": 0,
+      "tags": [],
+      "username": "u4298424588710234",
+      "created_at": "2026-07-14T13:41:40.812Z"
+    },
+    {
+      "id": 150461,
+      "title": "【生活娱乐赛道】萌宠动态表情包工坊——上传图片一键生成可爱动态表情",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 4,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u1892676618160391",
+      "created_at": "2026-07-14T13:56:35.422Z"
+    },
+    {
+      "id": 150666,
+      "title": "【生活服务赛道】智校通Demo——基于地图导航+多模态 AI 驱动校园智慧服务小程序",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 2,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "用户14250",
+      "created_at": "2026-07-14T14:37:48.258Z"
+    },
+    {
+      "id": 150620,
+      "title": "【生活娱乐赛道】小球对战游戏",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 4,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u2380864354788320",
+      "created_at": "2026-07-14T14:31:17.931Z"
+    },
+    {
+      "id": 150645,
+      "title": "【学习工作】将与 ai 的线性对话转为思维导图-miand collab",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 3,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u3991670261812282",
+      "created_at": "2026-07-14T14:34:07.892Z"
+    },
+    {
+      "id": 150664,
+      "title": "【学习工作】CodeArchaeology 代码考古学 —— AI 驱动的遗留代码智能重构与知识图谱可视化系统",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 1,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u3581552885235888",
+      "created_at": "2026-07-14T14:37:40.117Z"
+    },
+    {
+      "id": 150466,
+      "title": "生活娱乐-今天穿什么——AI读懂天气和场景温差，帮你选搭配、比效果、记打卡",
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
@@ -25,23 +548,149 @@
       "tags": [
         "生活娱乐"
       ],
-      "username": "u4263240256459114",
-      "created_at": "2026-07-14T14:29:52.013Z"
+      "username": "u4104904936537936",
+      "created_at": "2026-07-14T13:57:44.850Z"
     },
     {
-      "id": 150651,
-      "title": "【学习工作赛道】文思锦囊AI作文助手—六维智能作文批改Demo",
+      "id": 150464,
+      "title": "【学习工作赛道】WordStrike——FPS单词射击游戏",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 9,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u1159355758291136",
+      "created_at": "2026-07-14T13:56:45.944Z"
+    },
+    {
+      "id": 150530,
+      "title": "学习工作 | 文墨简历 ModernCV — 专业的在线简历编辑器",
+      "slug": "topic",
+      "vote_count": 2,
+      "like_count": 0,
+      "views": 3,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u1839960285515623",
+      "created_at": "2026-07-14T14:11:08.218Z"
+    },
+    {
+      "id": 150532,
+      "title": "【学习生活赛道】学生自我管理平台",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 4,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u3388036510661034",
+      "created_at": "2026-07-14T14:11:09.428Z"
+    },
+    {
+      "id": 150534,
+      "title": "【生活娱乐】 搭了么——AI穿搭助手 Demo",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 9,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u1511202112154340",
+      "created_at": "2026-07-14T14:11:13.740Z"
+    },
+    {
+      "id": 150654,
+      "title": "一个节约整理错题时间的小妙招——兰音错题整理微信小程序",
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
       "views": 0,
       "reply_count": 0,
       "tags": [
-        "学习工作",
+        "学习工作"
+      ],
+      "username": "u2109288993008336",
+      "created_at": "2026-07-14T14:36:04.447Z"
+    },
+    {
+      "id": 150617,
+      "title": "【学习工作赛道】政务智督 —— AI驱动政务任务督办看板（支持简单任务/批办任务/会议任务/人员状态/工作量评估）",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 3,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u2965827941580224",
+      "created_at": "2026-07-14T14:31:15.500Z"
+    },
+    {
+      "id": 150529,
+      "title": "【学习工作赛道】地理眼 GeoEye — AI 拍照识地理学习助手",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 2,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u977941560835978",
+      "created_at": "2026-07-14T14:11:05.764Z"
+    },
+    {
+      "id": 150597,
+      "title": "【生活娱乐赛道】——星梦岐境",
+      "slug": "topic",
+      "vote_count": 2,
+      "like_count": 0,
+      "views": 6,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐",
         "社会公益"
       ],
-      "username": "u2750302688379993",
-      "created_at": "2026-07-14T14:35:23.011Z"
+      "username": "u3669542579735415",
+      "created_at": "2026-07-14T14:26:24.119Z"
+    },
+    {
+      "id": 150652,
+      "title": "【学习工作】ArtForgeAI",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 2,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "abaiyuayin",
+      "created_at": "2026-07-14T14:35:27.541Z"
+    },
+    {
+      "id": 150613,
+      "title": "【生活娱乐赛道】情绪熔毁 「EmoMelt」—— 3 分钟内完成情绪释放（初赛）",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 5,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u4263240256459114",
+      "created_at": "2026-07-14T14:29:52.013Z"
     },
     {
       "id": 150614,
@@ -58,26 +707,12 @@
       "created_at": "2026-07-14T14:29:54.037Z"
     },
     {
-      "id": 150649,
-      "title": "【学习工作赛道】言形 · AI 双向语言风格转换器",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 1,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "Harlan",
-      "created_at": "2026-07-14T14:35:12.190Z"
-    },
-    {
       "id": 150430,
       "title": "【生活娱乐赛道】+个人情感记录的Web+App",
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 4,
+      "views": 6,
       "reply_count": 0,
       "tags": [],
       "username": "u920717036112441",
@@ -87,9 +722,9 @@
       "id": 150648,
       "title": "【学习工作赛道】审阅链 - 在 RouteDev 里实现 4 角色接力审稿，审核人有权打回（初赛 Demo）",
       "slug": "topic",
-      "vote_count": 0,
+      "vote_count": 1,
       "like_count": 0,
-      "views": 0,
+      "views": 1,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -101,8 +736,8 @@
       "id": 150585,
       "title": "【社会服务+智慧养老】这是一款关照长者精神世界的出行助手",
       "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
+      "vote_count": 2,
+      "like_count": 1,
       "views": 6,
       "reply_count": 0,
       "tags": [
@@ -116,9 +751,9 @@
       "id": 150637,
       "title": "社会服务·社会公益 | 知伴：一个陪伴你成长的AI伙伴（含体验链接）",
       "slug": "topic",
-      "vote_count": 1,
+      "vote_count": 2,
       "like_count": 0,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -148,41 +783,13 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 1,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
       ],
       "username": "u3994956590757024",
       "created_at": "2026-07-14T14:34:52.312Z"
-    },
-    {
-      "id": 150645,
-      "title": "【学习工作】将与 ai 的线性对话转为思维导图-miand collab",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
-      "views": 1,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "u3991670261812282",
-      "created_at": "2026-07-14T14:34:07.892Z"
-    },
-    {
-      "id": 150644,
-      "title": "【学习工作赛道】Hum2midi开发一款人声哼唱转谱的软件",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
-      "views": 1,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "u1747548339974692",
-      "created_at": "2026-07-14T14:34:04.725Z"
     },
     {
       "id": 150457,
@@ -218,7 +825,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 3,
+      "views": 4,
       "reply_count": 0,
       "tags": [
         "学习工作",
@@ -276,7 +883,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 0,
-      "views": 11,
+      "views": 12,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -303,9 +910,9 @@
       "id": 150641,
       "title": "【学习工作赛道】澄流 ClarFlow — 让信息清澈流动的 AI 降噪周报",
       "slug": "topic",
-      "vote_count": 0,
+      "vote_count": 1,
       "like_count": 0,
-      "views": 0,
+      "views": 1,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -329,9 +936,9 @@
       "id": 96939,
       "title": "【生活娱乐赛道】 桌面宠物，让一个人的电脑不再孤单",
       "slug": "topic",
-      "vote_count": 29,
+      "vote_count": 31,
       "like_count": 19,
-      "views": 174,
+      "views": 178,
       "reply_count": 9,
       "tags": [
         "生活娱乐",
@@ -346,7 +953,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 15,
+      "views": 16,
       "reply_count": 2,
       "tags": [
         "社会公益",
@@ -361,7 +968,7 @@
       "slug": "topic",
       "vote_count": 4,
       "like_count": 0,
-      "views": 17,
+      "views": 18,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -375,7 +982,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 5,
+      "views": 6,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -459,7 +1066,7 @@
       "slug": "topic",
       "vote_count": 5,
       "like_count": 1,
-      "views": 45,
+      "views": 46,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -473,7 +1080,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 1,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -497,7 +1104,7 @@
       "id": 150629,
       "title": "MindGuard - 智能心理健康守护系统",
       "slug": "topic",
-      "vote_count": 0,
+      "vote_count": 1,
       "like_count": 0,
       "views": 1,
       "reply_count": 0,
@@ -564,7 +1171,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -578,7 +1185,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 1,
+      "views": 2,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -628,40 +1235,12 @@
       "created_at": "2026-07-14T14:31:19.844Z"
     },
     {
-      "id": 150620,
-      "title": "【生活娱乐赛道】小球对战游戏",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
-      "views": 4,
-      "reply_count": 0,
-      "tags": [
-        "生活娱乐"
-      ],
-      "username": "u2380864354788320",
-      "created_at": "2026-07-14T14:31:17.931Z"
-    },
-    {
-      "id": 150617,
-      "title": "【学习工作赛道】政务智督 —— AI驱动政务任务督办看板（支持简单任务/批办任务/会议任务/人员状态/工作量评估）",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
-      "views": 3,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "u2965827941580224",
-      "created_at": "2026-07-14T14:31:15.500Z"
-    },
-    {
       "id": 150607,
       "title": "机闹工厂 - 像素无人车间模拟器",
       "slug": "topic",
-      "vote_count": 2,
+      "vote_count": 4,
       "like_count": 0,
-      "views": 3,
+      "views": 5,
       "reply_count": 0,
       "tags": [
         "学习工作",
@@ -774,7 +1353,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 11,
+      "views": 13,
       "reply_count": 0,
       "tags": [
         "生活娱乐",
@@ -810,21 +1389,6 @@
       ],
       "username": "hjhIron",
       "created_at": "2026-07-14T14:25:11.970Z"
-    },
-    {
-      "id": 150597,
-      "title": "【生活娱乐赛道】——星梦岐境",
-      "slug": "topic",
-      "vote_count": 2,
-      "like_count": 0,
-      "views": 5,
-      "reply_count": 0,
-      "tags": [
-        "生活娱乐",
-        "社会公益"
-      ],
-      "username": "u3669542579735415",
-      "created_at": "2026-07-14T14:26:24.119Z"
     },
     {
       "id": 150598,
@@ -873,7 +1437,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 3,
-      "views": 13,
+      "views": 14,
       "reply_count": 2,
       "tags": [
         "学习工作"
@@ -899,7 +1463,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 3,
+      "views": 4,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -928,7 +1492,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [
         "硬件交互"
@@ -942,7 +1506,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 3,
+      "views": 4,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -970,7 +1534,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -984,7 +1548,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 6,
+      "views": 7,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -998,7 +1562,7 @@
       "slug": "topic",
       "vote_count": 5,
       "like_count": 0,
-      "views": 20,
+      "views": 22,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -1013,7 +1577,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -1027,7 +1591,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 3,
+      "views": 5,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -1041,7 +1605,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 8,
+      "views": 12,
       "reply_count": 0,
       "tags": [
         "生活娱乐",
@@ -1056,7 +1620,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -1070,7 +1634,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -1084,7 +1648,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 5,
+      "views": 6,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -1098,7 +1662,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "学习工作",
@@ -1113,7 +1677,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -1127,7 +1691,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 3,
+      "views": 4,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -1141,7 +1705,7 @@
       "slug": "topic",
       "vote_count": 10,
       "like_count": 84,
-      "views": 424,
+      "views": 426,
       "reply_count": 12,
       "tags": [
         "学习工作"
@@ -1169,7 +1733,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -1183,7 +1747,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [],
       "username": "福州-小羊",
@@ -1195,7 +1759,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -1209,7 +1773,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [],
       "username": "u3798157487770523",
@@ -1221,7 +1785,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -1235,7 +1799,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 3,
+      "views": 4,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -1250,7 +1814,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -1264,7 +1828,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 0,
-      "views": 6,
+      "views": 7,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -1278,7 +1842,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 8,
+      "views": 9,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -1292,7 +1856,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 3,
+      "views": 5,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -1306,7 +1870,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 5,
+      "views": 6,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -1320,27 +1884,13 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 3,
+      "views": 4,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
       ],
       "username": "u199441592897785",
       "created_at": "2026-07-14T14:00:44.615Z"
-    },
-    {
-      "id": 150534,
-      "title": "【生活娱乐】 搭了么——AI穿搭助手 Demo",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
-      "views": 5,
-      "reply_count": 0,
-      "tags": [
-        "生活娱乐"
-      ],
-      "username": "u1511202112154340",
-      "created_at": "2026-07-14T14:11:13.740Z"
     },
     {
       "id": 150171,
@@ -1357,54 +1907,12 @@
       "created_at": "2026-07-14T12:48:57.712Z"
     },
     {
-      "id": 150532,
-      "title": "【学习生活赛道】学生自我管理平台",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
-      "views": 3,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "u3388036510661034",
-      "created_at": "2026-07-14T14:11:09.428Z"
-    },
-    {
-      "id": 150530,
-      "title": "学习工作 | 文墨简历 ModernCV — 专业的在线简历编辑器",
-      "slug": "topic",
-      "vote_count": 2,
-      "like_count": 0,
-      "views": 2,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "u1839960285515623",
-      "created_at": "2026-07-14T14:11:08.218Z"
-    },
-    {
-      "id": 150529,
-      "title": "【学习工作赛道】地理眼 GeoEye — AI 拍照识地理学习助手",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
-      "views": 1,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "u977941560835978",
-      "created_at": "2026-07-14T14:11:05.764Z"
-    },
-    {
       "id": 150512,
       "title": "【硬件交互赛道】家庭存储管家，柜门一开一关间完成物品存储记录",
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [
         "硬件交互"
@@ -1418,7 +1926,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -1432,7 +1940,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 3,
+      "views": 4,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -1446,7 +1954,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [],
       "username": "用户24923",
@@ -1472,7 +1980,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -1487,7 +1995,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 1,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -1501,7 +2009,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -1515,7 +2023,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 1,
+      "views": 2,
       "reply_count": 0,
       "tags": [],
       "username": "等天亮",
@@ -1527,7 +2035,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -1542,7 +2050,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [],
       "username": "u3798157487770523",
@@ -1554,7 +2062,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 6,
+      "views": 7,
       "reply_count": 0,
       "tags": [
         "生活娱乐",
@@ -1569,7 +2077,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 3,
+      "views": 4,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -1583,7 +2091,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 0,
+      "views": 1,
       "reply_count": 0,
       "tags": [
         "生活娱乐",
@@ -1598,7 +2106,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -1612,7 +2120,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 2,
+      "views": 3,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -1626,7 +2134,7 @@
       "slug": "topic",
       "vote_count": 22,
       "like_count": 122,
-      "views": 670,
+      "views": 671,
       "reply_count": 15,
       "tags": [
         "社会服务"
@@ -1690,20 +2198,6 @@
       "created_at": "2026-07-14T13:57:46.709Z"
     },
     {
-      "id": 150466,
-      "title": "生活娱乐-今天穿什么——AI读懂天气和场景温差，帮你选搭配、比效果、记打卡",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
-      "views": 3,
-      "reply_count": 0,
-      "tags": [
-        "生活娱乐"
-      ],
-      "username": "u4104904936537936",
-      "created_at": "2026-07-14T13:57:44.850Z"
-    },
-    {
       "id": 150453,
       "title": "【学习工作赛道】智能信息审批管理系统",
       "slug": "topic",
@@ -1718,20 +2212,6 @@
       "created_at": "2026-07-14T13:54:22.914Z"
     },
     {
-      "id": 150464,
-      "title": "【学习工作赛道】WordStrike——FPS单词射击游戏",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
-      "views": 5,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "u1159355758291136",
-      "created_at": "2026-07-14T13:56:45.944Z"
-    },
-    {
       "id": 150444,
       "title": "【生活娱乐赛道】 绘梦师",
       "slug": "topic",
@@ -1744,35 +2224,6 @@
       ],
       "username": "u274244893683104",
       "created_at": "2026-07-14T13:52:51.111Z"
-    },
-    {
-      "id": 150455,
-      "title": "【社会服务赛道】心晴录 以东方气象为尺，量心中阴晴圆缺",
-      "slug": "topic",
-      "vote_count": 3,
-      "like_count": 0,
-      "views": 7,
-      "reply_count": 0,
-      "tags": [
-        "社会服务",
-        "社会公益"
-      ],
-      "username": "NAVI",
-      "created_at": "2026-07-14T13:54:24.990Z"
-    },
-    {
-      "id": 150461,
-      "title": "【生活娱乐赛道】萌宠动态表情包工坊——上传图片一键生成可爱动态表情  ",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 3,
-      "reply_count": 0,
-      "tags": [
-        "生活娱乐"
-      ],
-      "username": "u1892676618160391",
-      "created_at": "2026-07-14T13:56:35.422Z"
     },
     {
       "id": 150459,
@@ -1908,7 +2359,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 3,
+      "views": 4,
       "reply_count": 0,
       "tags": [
         "生活娱乐",
@@ -1932,18 +2383,6 @@
       "created_at": "2026-07-14T13:45:28.869Z"
     },
     {
-      "id": 150393,
-      "title": "【生活娱乐】｜私人着装助理：一个会听你说话、帮你搭衣服的小程序",
-      "slug": "topic",
-      "vote_count": 2,
-      "like_count": 0,
-      "views": 9,
-      "reply_count": 0,
-      "tags": [],
-      "username": "u4298424588710234",
-      "created_at": "2026-07-14T13:41:40.812Z"
-    },
-    {
       "id": 149594,
       "title": "【学习工作赛道】BriefPilot｜AI 行业情报工作台 Demo",
       "slug": "topic",
@@ -1956,21 +2395,6 @@
       ],
       "username": "u1677189166428571",
       "created_at": "2026-07-14T09:57:39.669Z"
-    },
-    {
-      "id": 150390,
-      "title": "CourseAI——基于AI Agent的智能教学视频生成平台",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
-      "views": 5,
-      "reply_count": 0,
-      "tags": [
-        "学习工作",
-        "社会公益"
-      ],
-      "username": "u1114219373149451",
-      "created_at": "2026-07-14T13:40:31.980Z"
     },
     {
       "id": 150409,
@@ -2058,20 +2482,6 @@
       "created_at": "2026-07-14T13:42:49.140Z"
     },
     {
-      "id": 150389,
-      "title": "学习工作 挑兵选将：AI 团队协作预演助手",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
-      "views": 4,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "u1167009704056852",
-      "created_at": "2026-07-14T13:39:39.717Z"
-    },
-    {
       "id": 150396,
       "title": "【学习工作赛道】hardesk 合智台——人机混编组织的HR管理平台",
       "slug": "topic",
@@ -2098,20 +2508,6 @@
       "created_at": "2026-07-14T13:42:13.096Z"
     },
     {
-      "id": 150375,
-      "title": "社会服务｜乡味有方 - 家乡美食宣传与地方资源连接平台",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
-      "views": 8,
-      "reply_count": 0,
-      "tags": [
-        "社会服务"
-      ],
-      "username": "u3735473299658843",
-      "created_at": "2026-07-14T13:37:29.170Z"
-    },
-    {
       "id": 150388,
       "title": "【社会服务赛道】Pathpal —— 陪你走出迷茫的成长伙伴",
       "slug": "topic",
@@ -2127,7 +2523,7 @@
       "id": 150387,
       "title": "Birthday Galaxy",
       "slug": "topic",
-      "vote_count": 0,
+      "vote_count": 1,
       "like_count": 0,
       "views": 2,
       "reply_count": 0,
@@ -2618,7 +3014,7 @@
       "id": 150284,
       "title": "《景德镇制瓷》——从泥土到瓷器的匠人之旅",
       "slug": "topic",
-      "vote_count": 1,
+      "vote_count": 2,
       "like_count": 0,
       "views": 5,
       "reply_count": 0,
@@ -4243,20 +4639,6 @@
       "created_at": "2026-07-14T12:22:12.338Z"
     },
     {
-      "id": 42125,
-      "title": "【学习工作赛道】SPSSGO：直击1200万科研人数据分析痛点，让数据分析像聊天一样简单",
-      "slug": "topic",
-      "vote_count": 6,
-      "like_count": 2,
-      "views": 143,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "u195029937163692",
-      "created_at": "2026-06-23T14:12:51.433Z"
-    },
-    {
       "id": 150072,
       "title": "【生活娱乐赛道】AI造梦工厂 —— 儿童AI创造空间",
       "slug": "topic",
@@ -4616,7 +4998,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 9,
+      "views": 10,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -5924,7 +6306,7 @@
       "slug": "topic",
       "vote_count": 25,
       "like_count": 3,
-      "views": 143,
+      "views": 144,
       "reply_count": 2,
       "tags": [
         "学习工作"
@@ -6443,7 +6825,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 7,
+      "views": 8,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -6513,7 +6895,7 @@
       "slug": "topic",
       "vote_count": 57,
       "like_count": 183,
-      "views": 924,
+      "views": 925,
       "reply_count": 54,
       "tags": [
         "社会服务",
@@ -8078,7 +8460,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [
         "硬件交互"
@@ -8106,7 +8488,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 5,
+      "views": 7,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -11805,7 +12187,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 0,
-      "views": 19,
+      "views": 20,
       "reply_count": 1,
       "tags": [
         "生活娱乐",
@@ -13126,21 +13508,6 @@
       ],
       "username": "u2323697596634347",
       "created_at": "2026-07-12T17:11:25.430Z"
-    },
-    {
-      "id": 113476,
-      "title": "爪印 —— 所有宠物 App 都在教你养宠，只有它在教你告别",
-      "slug": "topic",
-      "vote_count": 6,
-      "like_count": 3,
-      "views": 60,
-      "reply_count": 0,
-      "tags": [
-        "生活娱乐",
-        "社会公益"
-      ],
-      "username": "鹅翅",
-      "created_at": "2026-07-11T11:41:24.931Z"
     },
     {
       "id": 148594,
@@ -17419,7 +17786,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 3,
+      "views": 4,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -19255,7 +19622,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 16,
+      "views": 17,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -19368,7 +19735,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 3,
+      "views": 4,
       "reply_count": 0,
       "tags": [
         "社会服务"
@@ -20787,7 +21154,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 0,
-      "views": 8,
+      "views": 11,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -25859,7 +26226,7 @@
       "slug": "topic",
       "vote_count": 131,
       "like_count": 143,
-      "views": 1745,
+      "views": 1746,
       "reply_count": 7,
       "tags": [
         "生活娱乐"
@@ -32431,7 +32798,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 15,
+      "views": 16,
       "reply_count": 1,
       "tags": [
         "学习工作"
@@ -32801,7 +33168,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 10,
+      "views": 11,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -32967,9 +33334,9 @@
       "id": 115538,
       "title": "【学习工作】节拍——一款基于调度模型的桌面任务管理器",
       "slug": "topic",
-      "vote_count": 0,
+      "vote_count": 1,
       "like_count": 0,
-      "views": 5,
+      "views": 6,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -35019,7 +35386,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 12,
+      "views": 13,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -35579,7 +35946,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 4,
+      "views": 5,
       "reply_count": 0,
       "tags": [
         "社会服务"
@@ -35660,7 +36027,7 @@
     },
     {
       "id": 113162,
-      "title": "【学习工作赛道】CLI-Workboard — CLI专属工作看板Demo",
+      "title": "【学习工作赛道】CLI-Workboard — 工作的副脑 CLI专属工作看板Demo",
       "slug": "topic",
       "vote_count": 2,
       "like_count": 2,
@@ -36896,6 +37263,430 @@
       ],
       "username": "u3330851261918428",
       "created_at": "2026-07-12T09:24:56.552Z"
+    },
+    {
+      "id": 114931,
+      "title": "智慧宿舍管理系统",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 5,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u3938908902289508",
+      "created_at": "2026-07-12T09:24:54.025Z"
+    },
+    {
+      "id": 114929,
+      "title": "【学习工作赛道】Audio异常检测能力分析——初赛demo ，PC 工具截图2",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 4,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "用户64001",
+      "created_at": "2026-07-12T09:24:46.717Z"
+    },
+    {
+      "id": 114664,
+      "title": "【学习工作赛道】EPHA · 赛博克隆人计划 —— 你从来没有见过你自己",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 14,
+      "reply_count": 0,
+      "tags": [
+        "学习工作",
+        "生活娱乐",
+        "硬件交互"
+      ],
+      "username": "u2152174696542023",
+      "created_at": "2026-07-12T08:16:10.719Z"
+    },
+    {
+      "id": 114925,
+      "title": "【学习工作赛道】HackCheck码查查——帮助每一个0代码背景的vibe-coding开发者更高效的创造自己的项目!",
+      "slug": "topic",
+      "vote_count": 2,
+      "like_count": 0,
+      "views": 6,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u762381131581289",
+      "created_at": "2026-07-12T09:23:40.161Z"
+    },
+    {
+      "id": 114924,
+      "title": "【学习工作】懂你的小助手——私人知识库问答工具",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 10,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "小Su",
+      "created_at": "2026-07-12T09:22:58.339Z"
+    },
+    {
+      "id": 114923,
+      "title": "**心屿树洞**面向大学生的 AI+人工混合路由心理支持平台 ，学生匿名倾诉即时响应，危机信号自动升级心理老师接管，对话 AES-256 加密且留存时间由学生自主掌控，内置 PHQ-9/GAD-7/MBTI 专业心理测评。",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 7,
+      "reply_count": 0,
+      "tags": [
+        "社会服务",
+        "社会公益"
+      ],
+      "username": "u151088005648492",
+      "created_at": "2026-07-12T09:22:49.840Z"
+    },
+    {
+      "id": 114922,
+      "title": "【社会服务+社会公益】社交星球 SocialStar 模拟城市驱动的自闭症儿童社交训练平台",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 2,
+      "reply_count": 0,
+      "tags": [
+        "社会服务",
+        "社会公益"
+      ],
+      "username": "u1712365325265755",
+      "created_at": "2026-07-12T09:22:47.367Z"
+    },
+    {
+      "id": 113528,
+      "title": "现代围棋打谱程序",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 1,
+      "views": 15,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "Amarok",
+      "created_at": "2026-07-11T12:20:59.668Z"
+    },
+    {
+      "id": 114667,
+      "title": "生活娱乐 - 速将 - 威少 - 短跑智能训练系统",
+      "slug": "topic",
+      "vote_count": 2,
+      "like_count": 0,
+      "views": 22,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u2285219049112436",
+      "created_at": "2026-07-12T08:17:05.403Z"
+    },
+    {
+      "id": 114915,
+      "title": "社会服务赛道 + 築美城市 — AI 赋能城市共建智慧平台",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 3,
+      "reply_count": 0,
+      "tags": [
+        "社会服务"
+      ],
+      "username": "u3665101591422023",
+      "created_at": "2026-07-12T09:19:27.701Z"
+    },
+    {
+      "id": 114914,
+      "title": "社会服务 + 广西智慧防汛救灾平台，基于2026年7月广西台风\"美莎克\"特大洪涝灾害",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 5,
+      "reply_count": 0,
+      "tags": [
+        "社会服务"
+      ],
+      "username": "u3587078982755808",
+      "created_at": "2026-07-12T09:19:22.511Z"
+    },
+    {
+      "id": 114912,
+      "title": "StarTrail 星途 — 你电脑里那个温暖的小角落",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 2,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u4104904576082472",
+      "created_at": "2026-07-12T09:19:19.938Z"
+    },
+    {
+      "id": 114909,
+      "title": "【生活娱乐赛道】 EmotionMirror 情绪之镜 — 凌晨1点的焦虑，需要一个温柔出口",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 11,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐",
+        "社会公益"
+      ],
+      "username": "u4308305902310633",
+      "created_at": "2026-07-12T09:18:08.995Z"
+    },
+    {
+      "id": 114519,
+      "title": "【社会服务赛道】开源节流，消费习惯养成的个人财务管理工具",
+      "slug": "topic",
+      "vote_count": 2,
+      "like_count": 0,
+      "views": 17,
+      "reply_count": 0,
+      "tags": [
+        "社会服务"
+      ],
+      "username": "u4109311498790940",
+      "created_at": "2026-07-12T07:41:55.489Z"
+    },
+    {
+      "id": 114904,
+      "title": "【生活娱乐赛道】三国平民生存",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 14,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u3330853162204729",
+      "created_at": "2026-07-12T09:15:46.137Z"
+    },
+    {
+      "id": 114900,
+      "title": "一个基于 Web 的企业智能招标匹配系统",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 17,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u3405656563385184",
+      "created_at": "2026-07-12T09:14:44.901Z"
+    },
+    {
+      "id": 114895,
+      "title": "【学习工作】爬爬应用-内容创作工作流架构",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 5,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "CHYC",
+      "created_at": "2026-07-12T09:11:20.864Z"
+    },
+    {
+      "id": 114894,
+      "title": "【生活娱乐赛道】衍世录 —— 一个人的无限文字世界：LLM 驱动的本地叙事游戏引擎",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 5,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "言不虚",
+      "created_at": "2026-07-12T09:11:17.058Z"
+    },
+    {
+      "id": 114891,
+      "title": "DavLink：现代化桌面 WebDAV 文件管理客户端",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 21,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u2091741402902876",
+      "created_at": "2026-07-12T09:09:55.233Z"
+    },
+    {
+      "id": 114890,
+      "title": "【生活娱乐】跳跳挖土车 -- 让小朋友化身小司机的治愈系挖土游戏",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 6,
+      "reply_count": 0,
+      "tags": [],
+      "username": "u4158801696003388",
+      "created_at": "2026-07-12T09:09:46.634Z"
+    },
+    {
+      "id": 114889,
+      "title": "【硬件交互赛道】ESP32智能日历/课程表",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 15,
+      "reply_count": 0,
+      "tags": [
+        "硬件交互"
+      ],
+      "username": "u7520577764836492346",
+      "created_at": "2026-07-12T09:09:30.461Z"
+    },
+    {
+      "id": 114875,
+      "title": "基于 Web 的数字孪生机械臂仿真平台",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 15,
+      "reply_count": 0,
+      "tags": [
+        "硬件交互"
+      ],
+      "username": "u986729670254218",
+      "created_at": "2026-07-12T09:06:18.928Z"
+    },
+    {
+      "id": 114871,
+      "title": "学习工作赛道-大学生课程表web应用",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 5,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u1892726704965652",
+      "created_at": "2026-07-12T09:06:00.129Z"
+    },
+    {
+      "id": 114870,
+      "title": "（生活娱乐）用AI帮助你更好的玩游戏并且变强",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 3,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u4087318651363834",
+      "created_at": "2026-07-12T09:05:56.825Z"
+    },
+    {
+      "id": 114680,
+      "title": "基于2026年7月广西台风\"美莎克\"特大洪涝灾害的实况数据，从原型设计到最终实现应用于民生工程",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 18,
+      "reply_count": 0,
+      "tags": [
+        "社会服务"
+      ],
+      "username": "u3587078982755808",
+      "created_at": "2026-07-12T08:20:35.549Z"
+    },
+    {
+      "id": 114865,
+      "title": "【生活娱乐 】-初赛-《晨就（Morning Ritual）》— 五合一晨间仪式管理 APP",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 6,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "用户489",
+      "created_at": "2026-07-12T09:05:03.148Z"
+    },
+    {
+      "id": 114863,
+      "title": "【TRAE大赛参赛作品】适老化数字孪生居家安全系统（微空间数字建模养老）-社会服务赛道",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 5,
+      "reply_count": 0,
+      "tags": [
+        "社会服务"
+      ],
+      "username": "u2926235114808058",
+      "created_at": "2026-07-12T09:04:51.511Z"
+    },
+    {
+      "id": 114861,
+      "title": "【生活娱乐赛道】方寸出行 - 多城市智能出行规划",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 4,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "kedai",
+      "created_at": "2026-07-12T09:03:05.605Z"
+    },
+    {
+      "id": 114860,
+      "title": "【学习工作】TestPilot · AI测试设计体检官",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 6,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "ccbhwy",
+      "created_at": "2026-07-12T09:03:04.849Z"
+    },
+    {
+      "id": 114856,
+      "title": "【生活娱乐】echo核心版（后续会发帖更新)",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 5,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐",
+        "社会公益"
+      ],
+      "username": "Weaver织子",
+      "created_at": "2026-07-12T09:01:18.950Z"
     },
     {
       "id": 114689,
@@ -41068,7 +41859,7 @@
       "slug": "topic",
       "vote_count": 18,
       "like_count": 42,
-      "views": 1132,
+      "views": 1133,
       "reply_count": 22,
       "tags": [
         "学习工作"
@@ -41687,7 +42478,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 6,
+      "views": 7,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -47024,7 +47815,7 @@
       "slug": "topic",
       "vote_count": 76,
       "like_count": 83,
-      "views": 831,
+      "views": 832,
       "reply_count": 16,
       "tags": [
         "学习工作",
@@ -48048,7 +48839,7 @@
     },
     {
       "id": 113219,
-      "title": "【生活赛道】代号“贾维斯” ———智能助理AnyAPP Demo",
+      "title": "【生活赛道】代号“贾维斯” ———生活的副脑+AnyAPP Demo",
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
@@ -50133,7 +50924,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 8,
+      "views": 9,
       "reply_count": 0,
       "tags": [
         "社会服务"
@@ -53913,7 +54704,7 @@
       "slug": "topic",
       "vote_count": 13,
       "like_count": 80,
-      "views": 804,
+      "views": 805,
       "reply_count": 19,
       "tags": [
         "学习工作"
@@ -56675,7 +57466,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 3,
-      "views": 80,
+      "views": 81,
       "reply_count": 2,
       "tags": [],
       "username": "轻轻的云",
@@ -60305,7 +61096,7 @@
       "slug": "topic",
       "vote_count": 10,
       "like_count": 28,
-      "views": 293,
+      "views": 294,
       "reply_count": 8,
       "tags": [],
       "username": "u1571628210208203",
@@ -67225,7 +68016,7 @@
       "slug": "topic",
       "vote_count": 151,
       "like_count": 14,
-      "views": 995,
+      "views": 996,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -77043,8 +77834,8 @@
       "title": "【学习工作赛道】BCAI 数字企业：企业仿真分析与 AI Agent 办公自动化 Web 系统！",
       "slug": "topic",
       "vote_count": 2,
-      "like_count": 1,
-      "views": 21,
+      "like_count": 2,
+      "views": 22,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -77900,7 +78691,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 1,
-      "views": 16,
+      "views": 17,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -80257,7 +81048,7 @@
       "slug": "topic",
       "vote_count": 61,
       "like_count": 378,
-      "views": 3451,
+      "views": 3452,
       "reply_count": 94,
       "tags": [
         "学习工作"
@@ -89195,20 +89986,6 @@
       "created_at": "2026-07-04T09:14:49.812Z"
     },
     {
-      "id": 70694,
-      "title": "生活娱乐赛道】记得 - AI家族回忆录",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 8,
-      "reply_count": 0,
-      "tags": [
-        "生活娱乐"
-      ],
-      "username": "u2769039438646288",
-      "created_at": "2026-07-04T09:13:57.322Z"
-    },
-    {
       "id": 70691,
       "title": "社会服务 | 会说话的相册 — AI 驱动的家族记忆传承平台",
       "slug": "topic",
@@ -95099,6 +95876,34 @@
       ],
       "username": "用户61786",
       "created_at": "2026-07-04T06:47:57.107Z"
+    },
+    {
+      "id": 70057,
+      "title": "【学习工作】心镜 - AI 自我认知建模系统",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 17,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u3172509770319740",
+      "created_at": "2026-07-04T07:22:34.150Z"
+    },
+    {
+      "id": 70053,
+      "title": "用户友好智能打车",
+      "slug": "topic",
+      "vote_count": 2,
+      "like_count": 0,
+      "views": 12,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u2697533769908936",
+      "created_at": "2026-07-04T07:21:32.726Z"
     },
     {
       "id": 70050,
@@ -109570,7 +110375,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 20,
+      "views": 21,
       "reply_count": 0,
       "tags": [
         "社会服务"
@@ -110747,7 +111552,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 12,
+      "views": 13,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -118823,7 +119628,7 @@
       "slug": "topic",
       "vote_count": 5,
       "like_count": 7,
-      "views": 576,
+      "views": 577,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -120515,7 +121320,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 31,
+      "views": 32,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -134623,6 +135428,20 @@
       "created_at": "2026-06-24T09:55:02.149Z"
     },
     {
+      "id": 43424,
+      "title": "【学习工作赛道】 一生人脉app",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 43,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "sapplex",
+      "created_at": "2026-06-24T09:58:19.368Z"
+    },
+    {
       "id": 43423,
       "title": "【学习工作赛道 一生人脉app",
       "slug": "topic",
@@ -136573,7 +137392,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 33,
+      "views": 34,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -139842,7 +140661,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 55,
+      "views": 56,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -146221,7 +147040,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 95,
+      "views": 96,
       "reply_count": 1,
       "tags": [
         "学习工作"
@@ -153153,362 +153972,9 @@
       "tags": [],
       "username": "用户65904",
       "created_at": "2026-06-16T09:36:55.350Z"
-    },
-    {
-      "id": 114931,
-      "title": "智慧宿舍管理系统",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
-      "views": 5,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "u3938908902289508",
-      "created_at": "2026-07-12T09:24:54.025Z"
-    },
-    {
-      "id": 114929,
-      "title": "【学习工作赛道】Audio异常检测能力分析——初赛demo ，PC 工具截图2",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 4,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "用户64001",
-      "created_at": "2026-07-12T09:24:46.717Z"
-    },
-    {
-      "id": 114664,
-      "title": "【学习工作赛道】EPHA · 赛博克隆人计划 —— 你从来没有见过你自己",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
-      "views": 14,
-      "reply_count": 0,
-      "tags": [
-        "学习工作",
-        "生活娱乐",
-        "硬件交互"
-      ],
-      "username": "u2152174696542023",
-      "created_at": "2026-07-12T08:16:10.719Z"
-    },
-    {
-      "id": 114925,
-      "title": "【学习工作赛道】HackCheck码查查——帮助每一个0代码背景的vibe-coding开发者更高效的创造自己的项目!",
-      "slug": "topic",
-      "vote_count": 2,
-      "like_count": 0,
-      "views": 6,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "u762381131581289",
-      "created_at": "2026-07-12T09:23:40.161Z"
-    },
-    {
-      "id": 114924,
-      "title": "【学习工作】懂你的小助手——私人知识库问答工具",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
-      "views": 10,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "小Su",
-      "created_at": "2026-07-12T09:22:58.339Z"
-    },
-    {
-      "id": 114923,
-      "title": "**心屿树洞**面向大学生的 AI+人工混合路由心理支持平台 ，学生匿名倾诉即时响应，危机信号自动升级心理老师接管，对话 AES-256 加密且留存时间由学生自主掌控，内置 PHQ-9/GAD-7/MBTI 专业心理测评。",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 7,
-      "reply_count": 0,
-      "tags": [
-        "社会服务",
-        "社会公益"
-      ],
-      "username": "u151088005648492",
-      "created_at": "2026-07-12T09:22:49.840Z"
-    },
-    {
-      "id": 114922,
-      "title": "【社会服务+社会公益】社交星球 SocialStar 模拟城市驱动的自闭症儿童社交训练平台",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 2,
-      "reply_count": 0,
-      "tags": [
-        "社会服务",
-        "社会公益"
-      ],
-      "username": "u1712365325265755",
-      "created_at": "2026-07-12T09:22:47.367Z"
-    },
-    {
-      "id": 113528,
-      "title": "现代围棋打谱程序",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 1,
-      "views": 15,
-      "reply_count": 0,
-      "tags": [
-        "生活娱乐"
-      ],
-      "username": "Amarok",
-      "created_at": "2026-07-11T12:20:59.668Z"
-    },
-    {
-      "id": 114667,
-      "title": "生活娱乐 - 速将 - 威少 - 短跑智能训练系统",
-      "slug": "topic",
-      "vote_count": 2,
-      "like_count": 0,
-      "views": 22,
-      "reply_count": 0,
-      "tags": [
-        "生活娱乐"
-      ],
-      "username": "u2285219049112436",
-      "created_at": "2026-07-12T08:17:05.403Z"
-    },
-    {
-      "id": 114915,
-      "title": "社会服务赛道 + 築美城市 — AI 赋能城市共建智慧平台",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 3,
-      "reply_count": 0,
-      "tags": [
-        "社会服务"
-      ],
-      "username": "u3665101591422023",
-      "created_at": "2026-07-12T09:19:27.701Z"
-    },
-    {
-      "id": 114914,
-      "title": "社会服务 + 广西智慧防汛救灾平台，基于2026年7月广西台风\"美莎克\"特大洪涝灾害",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 5,
-      "reply_count": 0,
-      "tags": [
-        "社会服务"
-      ],
-      "username": "u3587078982755808",
-      "created_at": "2026-07-12T09:19:22.511Z"
-    },
-    {
-      "id": 114912,
-      "title": "StarTrail 星途 — 你电脑里那个温暖的小角落",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 2,
-      "reply_count": 0,
-      "tags": [
-        "生活娱乐"
-      ],
-      "username": "u4104904576082472",
-      "created_at": "2026-07-12T09:19:19.938Z"
-    },
-    {
-      "id": 114909,
-      "title": "【生活娱乐赛道】 EmotionMirror 情绪之镜 — 凌晨1点的焦虑，需要一个温柔出口",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
-      "views": 11,
-      "reply_count": 0,
-      "tags": [
-        "生活娱乐",
-        "社会公益"
-      ],
-      "username": "u4308305902310633",
-      "created_at": "2026-07-12T09:18:08.995Z"
-    },
-    {
-      "id": 114519,
-      "title": "【社会服务赛道】开源节流，消费习惯养成的个人财务管理工具",
-      "slug": "topic",
-      "vote_count": 2,
-      "like_count": 0,
-      "views": 17,
-      "reply_count": 0,
-      "tags": [
-        "社会服务"
-      ],
-      "username": "u4109311498790940",
-      "created_at": "2026-07-12T07:41:55.489Z"
-    },
-    {
-      "id": 114904,
-      "title": "【生活娱乐赛道】三国平民生存",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 14,
-      "reply_count": 0,
-      "tags": [
-        "生活娱乐"
-      ],
-      "username": "u3330853162204729",
-      "created_at": "2026-07-12T09:15:46.137Z"
-    },
-    {
-      "id": 114900,
-      "title": "一个基于 Web 的企业智能招标匹配系统",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
-      "views": 17,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "u3405656563385184",
-      "created_at": "2026-07-12T09:14:44.901Z"
-    },
-    {
-      "id": 114895,
-      "title": "【学习工作】爬爬应用-内容创作工作流架构",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
-      "views": 5,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "CHYC",
-      "created_at": "2026-07-12T09:11:20.864Z"
-    },
-    {
-      "id": 114894,
-      "title": "【生活娱乐赛道】衍世录 —— 一个人的无限文字世界：LLM 驱动的本地叙事游戏引擎",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 5,
-      "reply_count": 0,
-      "tags": [
-        "生活娱乐"
-      ],
-      "username": "言不虚",
-      "created_at": "2026-07-12T09:11:17.058Z"
-    },
-    {
-      "id": 114891,
-      "title": "DavLink：现代化桌面 WebDAV 文件管理客户端",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 21,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "u2091741402902876",
-      "created_at": "2026-07-12T09:09:55.233Z"
-    },
-    {
-      "id": 114890,
-      "title": "【生活娱乐】跳跳挖土车 -- 让小朋友化身小司机的治愈系挖土游戏",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 6,
-      "reply_count": 0,
-      "tags": [],
-      "username": "u4158801696003388",
-      "created_at": "2026-07-12T09:09:46.634Z"
-    },
-    {
-      "id": 114889,
-      "title": "【硬件交互赛道】ESP32智能日历/课程表",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 15,
-      "reply_count": 0,
-      "tags": [
-        "硬件交互"
-      ],
-      "username": "u7520577764836492346",
-      "created_at": "2026-07-12T09:09:30.461Z"
-    },
-    {
-      "id": 114875,
-      "title": "基于 Web 的数字孪生机械臂仿真平台",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 15,
-      "reply_count": 0,
-      "tags": [
-        "硬件交互"
-      ],
-      "username": "u986729670254218",
-      "created_at": "2026-07-12T09:06:18.928Z"
-    },
-    {
-      "id": 114871,
-      "title": "学习工作赛道-大学生课程表web应用",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
-      "views": 5,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "u1892726704965652",
-      "created_at": "2026-07-12T09:06:00.129Z"
-    },
-    {
-      "id": 114870,
-      "title": "（生活娱乐）用AI帮助你更好的玩游戏并且变强",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 3,
-      "reply_count": 0,
-      "tags": [
-        "生活娱乐"
-      ],
-      "username": "u4087318651363834",
-      "created_at": "2026-07-12T09:05:56.825Z"
-    },
-    {
-      "id": 114680,
-      "title": "基于2026年7月广西台风\"美莎克\"特大洪涝灾害的实况数据，从原型设计到最终实现应用于民生工程",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 18,
-      "reply_count": 0,
-      "tags": [
-        "社会服务"
-      ],
-      "username": "u3587078982755808",
-      "created_at": "2026-07-12T08:20:35.549Z"
     }
   ],
-  "count": 10962,
-  "last_update": "2026-07-14T14:36:20.781Z",
+  "count": 10995,
+  "last_update": "2026-07-14T14:41:37.629Z",
   "error": null
 }
