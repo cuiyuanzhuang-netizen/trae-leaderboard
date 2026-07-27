@@ -1,6 +1,20 @@
 {
   "topics": [
     {
+      "id": 113843,
+      "title": "【学习工作赛道】全知视野 - 3秒生成全景情报看板，把信息过载变成一目了然",
+      "slug": "topic",
+      "vote_count": 12,
+      "like_count": 6,
+      "views": 260,
+      "reply_count": 4,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "Jax0715",
+      "created_at": "2026-07-11T18:34:03.792Z"
+    },
+    {
       "id": 113476,
       "title": "爪印 —— 所有宠物 App 都在教你养宠，只有它在教你告别",
       "slug": "topic",
@@ -132,7 +146,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 41,
+      "views": 42,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -690,7 +704,7 @@
       "slug": "topic",
       "vote_count": 33,
       "like_count": 21,
-      "views": 712,
+      "views": 713,
       "reply_count": 2,
       "tags": [
         "社会公益",
@@ -874,7 +888,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 32,
+      "views": 33,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -1548,7 +1562,7 @@
       "slug": "topic",
       "vote_count": 5,
       "like_count": 1,
-      "views": 164,
+      "views": 165,
       "reply_count": 0,
       "tags": [
         "社会服务"
@@ -2096,7 +2110,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 194,
+      "views": 195,
       "reply_count": 2,
       "tags": [
         "社会服务",
@@ -2146,20 +2160,6 @@
       ],
       "username": "大模型善后工程师-K叔",
       "created_at": "2026-07-15T15:30:52.389Z"
-    },
-    {
-      "id": 113843,
-      "title": "【学习工作赛道】全知视野 - 3秒生成全景情报看板，把信息过载变成一目了然",
-      "slug": "topic",
-      "vote_count": 12,
-      "like_count": 6,
-      "views": 260,
-      "reply_count": 4,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "Jax0715",
-      "created_at": "2026-07-11T18:34:03.792Z"
     },
     {
       "id": 115678,
@@ -3947,7 +3947,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 30,
+      "views": 31,
       "reply_count": 0,
       "tags": [],
       "username": "u4316011759409724",
@@ -19989,7 +19989,7 @@
       "slug": "topic",
       "vote_count": 57,
       "like_count": 39,
-      "views": 547,
+      "views": 548,
       "reply_count": 2,
       "tags": [
         "学习工作"
@@ -25212,7 +25212,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 14,
+      "views": 15,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -27005,7 +27005,7 @@
       "slug": "topic",
       "vote_count": 4,
       "like_count": 3,
-      "views": 91,
+      "views": 92,
       "reply_count": 0,
       "tags": [],
       "username": "Adam.Linc",
@@ -48486,7 +48486,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 32,
+      "views": 33,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -51132,7 +51132,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 23,
+      "views": 24,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -76679,7 +76679,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 97,
+      "views": 98,
       "reply_count": 2,
       "tags": [
         "生活娱乐"
@@ -115004,7 +115004,7 @@
       "slug": "topic",
       "vote_count": 7,
       "like_count": 1,
-      "views": 51,
+      "views": 52,
       "reply_count": 2,
       "tags": [
         "生活娱乐"
@@ -130125,7 +130125,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 61,
+      "views": 62,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -196048,6 +196048,6 @@
     }
   ],
   "count": 13999,
-  "last_update": "2026-07-27T05:36:07.246Z",
+  "last_update": "2026-07-27T05:41:18.382Z",
   "error": null
 }
