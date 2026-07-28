@@ -1,6 +1,21 @@
 {
   "topics": [
     {
+      "id": 96939,
+      "title": "【生活娱乐赛道】 桌面宠物，让一个人的电脑不再孤单",
+      "slug": "topic",
+      "vote_count": 170,
+      "like_count": 81,
+      "views": 972,
+      "reply_count": 11,
+      "tags": [
+        "生活娱乐",
+        "社会服务"
+      ],
+      "username": "一叶孤舟",
+      "created_at": "2026-07-09T14:52:09.050Z"
+    },
+    {
       "id": 113476,
       "title": "爪印 —— 所有宠物 App 都在教你养宠，只有它在教你告别",
       "slug": "topic",
@@ -473,7 +488,7 @@
       "slug": "topic",
       "vote_count": 8,
       "like_count": 13,
-      "views": 277,
+      "views": 278,
       "reply_count": 3,
       "tags": [
         "生活娱乐"
@@ -632,7 +647,7 @@
       "slug": "topic",
       "vote_count": 6,
       "like_count": 2,
-      "views": 450,
+      "views": 451,
       "reply_count": 6,
       "tags": [
         "生活娱乐"
@@ -772,7 +787,7 @@
       "slug": "topic",
       "vote_count": 33,
       "like_count": 21,
-      "views": 733,
+      "views": 734,
       "reply_count": 2,
       "tags": [
         "社会公益",
@@ -3867,21 +3882,6 @@
       ],
       "username": "Ren",
       "created_at": "2026-07-13T03:21:47.612Z"
-    },
-    {
-      "id": 96939,
-      "title": "【生活娱乐赛道】 桌面宠物，让一个人的电脑不再孤单",
-      "slug": "topic",
-      "vote_count": 170,
-      "like_count": 81,
-      "views": 972,
-      "reply_count": 11,
-      "tags": [
-        "生活娱乐",
-        "社会服务"
-      ],
-      "username": "一叶孤舟",
-      "created_at": "2026-07-09T14:52:09.050Z"
     },
     {
       "id": 114421,
@@ -33599,7 +33599,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 0,
-      "views": 152,
+      "views": 154,
       "reply_count": 2,
       "tags": [
         "学习工作"
@@ -36734,7 +36734,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 21,
+      "views": 22,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -43391,7 +43391,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 20,
+      "views": 21,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -49142,7 +49142,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 30,
+      "views": 31,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -63216,7 +63216,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 24,
+      "views": 25,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -67645,7 +67645,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 24,
+      "views": 25,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -68070,7 +68070,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 49,
+      "views": 50,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -78827,7 +78827,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 17,
+      "views": 18,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -117939,7 +117939,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 21,
+      "views": 22,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -144372,7 +144372,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 0,
-      "views": 52,
+      "views": 53,
       "reply_count": 1,
       "tags": [],
       "username": "u1176912939715068",
@@ -159593,7 +159593,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 25,
+      "views": 26,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -193847,7 +193847,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 46,
+      "views": 47,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -196020,6 +196020,6 @@
     }
   ],
   "count": 13997,
-  "last_update": "2026-07-28T03:50:58.404Z",
+  "last_update": "2026-07-28T03:55:59.868Z",
   "error": null
 }
