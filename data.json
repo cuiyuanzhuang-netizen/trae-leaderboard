@@ -1,6 +1,21 @@
 {
   "topics": [
     {
+      "id": 113311,
+      "title": "智慧洗衣赛道 — 酒店智慧洗衣信息化系统",
+      "slug": "topic",
+      "vote_count": 2,
+      "like_count": 2,
+      "views": 32,
+      "reply_count": 1,
+      "tags": [
+        "生活娱乐",
+        "社会服务"
+      ],
+      "username": "u1501255761700939",
+      "created_at": "2026-07-11T09:34:39.420Z"
+    },
+    {
       "id": 113715,
       "title": "【生活娱乐赛道】动醒——一款基于 AI 动作识别的智能闹钟APP",
       "slug": "topic",
@@ -146,7 +161,7 @@
       "slug": "topic",
       "vote_count": 170,
       "like_count": 101,
-      "views": 1024,
+      "views": 1025,
       "reply_count": 11,
       "tags": [
         "生活娱乐",
@@ -369,7 +384,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 1,
-      "views": 136,
+      "views": 138,
       "reply_count": 1,
       "tags": [
         "硬件交互"
@@ -687,7 +702,7 @@
       "slug": "topic",
       "vote_count": 5,
       "like_count": 2,
-      "views": 248,
+      "views": 249,
       "reply_count": 4,
       "tags": [
         "硬件交互"
@@ -827,7 +842,7 @@
       "slug": "topic",
       "vote_count": 4,
       "like_count": 0,
-      "views": 151,
+      "views": 152,
       "reply_count": 1,
       "tags": [
         "生活娱乐"
@@ -5664,7 +5679,7 @@
       "slug": "topic",
       "vote_count": 17,
       "like_count": 16,
-      "views": 460,
+      "views": 461,
       "reply_count": 5,
       "tags": [
         "学习工作"
@@ -5991,7 +6006,7 @@
       "slug": "topic",
       "vote_count": 6,
       "like_count": 1,
-      "views": 88,
+      "views": 89,
       "reply_count": 0,
       "tags": [
         "硬件交互"
@@ -59581,7 +59596,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 30,
+      "views": 31,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -64931,7 +64946,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 29,
+      "views": 30,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -68475,7 +68490,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 15,
+      "views": 16,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -79570,7 +79585,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 69,
+      "views": 70,
       "reply_count": 0,
       "tags": [
         "社会服务"
@@ -84542,7 +84557,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 2,
-      "views": 18,
+      "views": 19,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -101143,7 +101158,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 5,
-      "views": 62,
+      "views": 63,
       "reply_count": 1,
       "tags": [
         "社会服务"
@@ -101799,7 +101814,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 4,
-      "views": 52,
+      "views": 53,
       "reply_count": 2,
       "tags": [
         "生活娱乐"
@@ -102966,7 +102981,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 22,
+      "views": 23,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -107462,7 +107477,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 36,
+      "views": 37,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -124375,7 +124390,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 29,
+      "views": 31,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -144316,7 +144331,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 33,
+      "views": 34,
       "reply_count": 1,
       "tags": [
         "学习工作"
@@ -144550,7 +144565,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 27,
+      "views": 28,
       "reply_count": 0,
       "tags": [
         "社会服务"
@@ -165344,7 +165359,7 @@
       "slug": "topic",
       "vote_count": 8,
       "like_count": 3,
-      "views": 356,
+      "views": 357,
       "reply_count": 1,
       "tags": [
         "学习工作",
@@ -195989,7 +196004,7 @@
       "created_at": "2026-06-16T09:36:55.350Z"
     }
   ],
-  "count": 13995,
-  "last_update": "2026-07-29T04:31:11.037Z",
+  "count": 13996,
+  "last_update": "2026-07-29T04:36:02.353Z",
   "error": null
 }
