@@ -1,6 +1,20 @@
 {
   "topics": [
     {
+      "id": 72610,
+      "title": "【社会服务】 柜眼 CabinetEye —— AI 视觉陈列管家*_*",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 3,
+      "views": 32,
+      "reply_count": 1,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "Zeno_L",
+      "created_at": "2026-07-05T15:24:14.858Z"
+    },
+    {
       "id": 115658,
       "title": "生活娱乐赛道｜语斐日记：用 TRAE 做出来的 AI 日记记账小程序",
       "slug": "topic",
@@ -18,9 +32,9 @@
       "id": 52943,
       "title": "【生活娱乐赛道】衍境 Demo：EvoMap 驱动的互动影游智能体创作系统",
       "slug": "topic",
-      "vote_count": 88,
+      "vote_count": 89,
       "like_count": 172,
-      "views": 1777,
+      "views": 1778,
       "reply_count": 7,
       "tags": [
         "生活娱乐"
@@ -175,7 +189,7 @@
       "slug": "topic",
       "vote_count": 57,
       "like_count": 1,
-      "views": 378,
+      "views": 379,
       "reply_count": 1,
       "tags": [
         "硬件交互"
@@ -1070,7 +1084,7 @@
       "slug": "topic",
       "vote_count": 5,
       "like_count": 3,
-      "views": 250,
+      "views": 251,
       "reply_count": 2,
       "tags": [
         "学习工作",
@@ -1730,7 +1744,7 @@
       "slug": "topic",
       "vote_count": 98,
       "like_count": 73,
-      "views": 805,
+      "views": 806,
       "reply_count": 17,
       "tags": [
         "生活娱乐"
@@ -2011,7 +2025,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 5,
-      "views": 100,
+      "views": 101,
       "reply_count": 2,
       "tags": [
         "生活娱乐"
@@ -2980,7 +2994,7 @@
       "slug": "topic",
       "vote_count": 83,
       "like_count": 116,
-      "views": 1222,
+      "views": 1223,
       "reply_count": 16,
       "tags": [
         "学习工作",
@@ -40285,7 +40299,7 @@
       "slug": "topic",
       "vote_count": 4,
       "like_count": 2,
-      "views": 62,
+      "views": 63,
       "reply_count": 1,
       "tags": [
         "生活娱乐"
@@ -57757,7 +57771,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 20,
+      "views": 21,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -62056,7 +62070,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 26,
+      "views": 27,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -89916,7 +89930,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 27,
+      "views": 28,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -98045,20 +98059,6 @@
       ],
       "username": "u2279768049588736",
       "created_at": "2026-07-11T06:07:08.901Z"
-    },
-    {
-      "id": 72610,
-      "title": "【社会服务】 柜眼 CabinetEye —— AI 视觉陈列管家*_*",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 3,
-      "views": 31,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "Zeno_L",
-      "created_at": "2026-07-05T15:24:14.858Z"
     },
     {
       "id": 72590,
@@ -106492,7 +106492,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 45,
+      "views": 47,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -117363,7 +117363,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 1,
-      "views": 65,
+      "views": 66,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -134956,7 +134956,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 20,
+      "views": 21,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -172801,7 +172801,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 1,
-      "views": 64,
+      "views": 65,
       "reply_count": 2,
       "tags": [
         "生活娱乐"
@@ -196005,6 +196005,6 @@
     }
   ],
   "count": 13996,
-  "last_update": "2026-08-01T08:06:08.091Z",
+  "last_update": "2026-08-01T08:11:09.066Z",
   "error": null
 }
