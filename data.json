@@ -1,6 +1,20 @@
 {
   "topics": [
     {
+      "id": 168253,
+      "title": "【硬件交互赛道】ICM Marcus — 可溯源的晨会简报与研报审计系统 · Source-Verifiable Morning Brief & Research Audit",
+      "slug": "topic",
+      "vote_count": 3,
+      "like_count": 0,
+      "views": 44,
+      "reply_count": 1,
+      "tags": [
+        "硬件交互"
+      ],
+      "username": "u1096641007074060",
+      "created_at": "2026-07-15T16:05:45.816Z"
+    },
+    {
       "id": 72610,
       "title": "【社会服务】 柜眼 CabinetEye —— AI 视觉陈列管家*_*",
       "slug": "topic",
@@ -161,7 +175,7 @@
       "slug": "topic",
       "vote_count": 16,
       "like_count": 19,
-      "views": 1032,
+      "views": 1033,
       "reply_count": 11,
       "tags": [
         "学习工作"
@@ -5589,20 +5603,6 @@
       ],
       "username": "Ballack",
       "created_at": "2026-07-15T16:05:47.127Z"
-    },
-    {
-      "id": 168253,
-      "title": "【硬件交互赛道】ICM Marcus — 可溯源的晨会简报与研报审计系统 · Source-Verifiable Morning Brief & Research Audit",
-      "slug": "topic",
-      "vote_count": 3,
-      "like_count": 0,
-      "views": 44,
-      "reply_count": 0,
-      "tags": [
-        "硬件交互"
-      ],
-      "username": "u1096641007074060",
-      "created_at": "2026-07-15T16:05:45.816Z"
     },
     {
       "id": 168252,
@@ -44384,7 +44384,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 65,
+      "views": 66,
       "reply_count": 0,
       "tags": [],
       "username": "可可AI轻创业",
@@ -51591,7 +51591,7 @@
       "slug": "topic",
       "vote_count": 5,
       "like_count": 0,
-      "views": 551,
+      "views": 552,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -108108,7 +108108,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 43,
+      "views": 44,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -119687,7 +119687,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 1,
-      "views": 54,
+      "views": 55,
       "reply_count": 0,
       "tags": [
         "社会服务"
@@ -142303,7 +142303,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 51,
+      "views": 52,
       "reply_count": 0,
       "tags": [],
       "username": "u1690366927177008",
@@ -160775,7 +160775,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 322,
+      "views": 323,
       "reply_count": 0,
       "tags": [
         "硬件交互"
@@ -169237,7 +169237,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 48,
+      "views": 49,
       "reply_count": 0,
       "tags": [
         "社会服务"
@@ -191807,7 +191807,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 41,
+      "views": 42,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -196005,6 +196005,6 @@
     }
   ],
   "count": 13996,
-  "last_update": "2026-08-02T07:11:28.606Z",
+  "last_update": "2026-08-02T07:16:05.950Z",
   "error": null
 }
