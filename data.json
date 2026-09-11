@@ -1,116 +1,6 @@
 {
   "topics": [
     {
-      "id": 166678,
-      "title": "【生活娱乐】药管家DEMO——全家用药，一管到底",
-      "slug": "topic",
-      "vote_count": 2,
-      "like_count": 0,
-      "views": 60,
-      "reply_count": 0,
-      "tags": [],
-      "username": "用户51549",
-      "created_at": "2026-07-15T14:03:42.094Z"
-    },
-    {
-      "id": 166427,
-      "title": "TenCOCO 十口口 - AI 自学平台 Demo",
-      "slug": "topic",
-      "vote_count": 2,
-      "like_count": 0,
-      "views": 57,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "u1219788044245001",
-      "created_at": "2026-07-15T13:22:18.721Z"
-    },
-    {
-      "id": 166123,
-      "title": "人类群星闪耀时之回到上古时代 — 学者对决 Demo",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
-      "views": 59,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "u802015859706272",
-      "created_at": "2026-07-15T12:26:23.374Z"
-    },
-    {
-      "id": 166204,
-      "title": "【生活娱乐赛道】诡村迷局——民俗悬疑MUDdemo",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 58,
-      "reply_count": 0,
-      "tags": [
-        "生活娱乐"
-      ],
-      "username": "u1065903007470379",
-      "created_at": "2026-07-15T12:42:45.906Z"
-    },
-    {
-      "id": 165444,
-      "title": "【生活娱乐赛道】摊来了-小程序",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 0,
-      "views": 57,
-      "reply_count": 0,
-      "tags": [
-        "生活娱乐"
-      ],
-      "username": "用户4097",
-      "created_at": "2026-07-15T09:34:17.974Z"
-    },
-    {
-      "id": 168003,
-      "title": "智视工训是一套面向卫星 AIT（总装集成测试）工序的工业智能系统 Demo",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 58,
-      "reply_count": 0,
-      "tags": [
-        "硬件交互"
-      ],
-      "username": "u533689155725416",
-      "created_at": "2026-07-15T15:55:07.215Z"
-    },
-    {
-      "id": 165404,
-      "title": "【硬件交互赛道】太阳能设备智能监控小程序 —— 户外光伏储能设备移动端实时监控数据",
-      "slug": "topic",
-      "vote_count": 1,
-      "like_count": 1,
-      "views": 60,
-      "reply_count": 0,
-      "tags": [
-        "硬件交互"
-      ],
-      "username": "u3455117870247123",
-      "created_at": "2026-07-15T09:24:14.285Z"
-    },
-    {
-      "id": 165229,
-      "title": "【社会服务赛道】信任星球-电子拉钩（信任星球/亲子信任约定小程序Demo）",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 57,
-      "reply_count": 0,
-      "tags": [
-        "社会服务"
-      ],
-      "username": "u1624404834132827",
-      "created_at": "2026-07-15T08:52:41.629Z"
-    },
-    {
       "id": 166312,
       "title": "【标题】 硬件交互赛道 | 镜灵 Mirror Spirit — AI实体伙伴 Demo",
       "slug": "topic",
@@ -203,7 +93,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 58,
+      "views": 59,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -402,6 +292,20 @@
       ],
       "username": "用户44074",
       "created_at": "2026-07-15T16:00:22.906Z"
+    },
+    {
+      "id": 166843,
+      "title": "【硬件交互】腕控眼镜 — 把智能手表手环作为 AI 眼镜的延伸，沉浸体验游戏和应用",
+      "slug": "topic",
+      "vote_count": 2,
+      "like_count": 0,
+      "views": 70,
+      "reply_count": 0,
+      "tags": [
+        "硬件交互"
+      ],
+      "username": "张润胜",
+      "created_at": "2026-07-15T14:24:54.663Z"
     },
     {
       "id": 166911,
@@ -821,6 +725,20 @@
       ],
       "username": "u3577130124319715",
       "created_at": "2026-07-15T08:13:06.208Z"
+    },
+    {
+      "id": 167893,
+      "title": "【学习工作赛道】一日实习生 · 游戏化实习模拟器开源网站平台",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 88,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u2187349874716856",
+      "created_at": "2026-07-15T15:50:24.659Z"
     },
     {
       "id": 166330,
@@ -1299,7 +1217,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 1,
-      "views": 141,
+      "views": 142,
       "reply_count": 3,
       "tags": [
         "社会服务"
@@ -1415,7 +1333,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 124,
+      "views": 126,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -1455,7 +1373,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 1,
-      "views": 159,
+      "views": 161,
       "reply_count": 1,
       "tags": [
         "社会公益"
@@ -1469,7 +1387,7 @@
       "slug": "topic",
       "vote_count": 5,
       "like_count": 0,
-      "views": 165,
+      "views": 167,
       "reply_count": 3,
       "tags": [
         "学习工作"
@@ -1483,7 +1401,7 @@
       "slug": "topic",
       "vote_count": 9,
       "like_count": 2,
-      "views": 172,
+      "views": 173,
       "reply_count": 3,
       "tags": [],
       "username": "Miateaching",
@@ -1640,6 +1558,20 @@
       "tags": [],
       "username": "小骆",
       "created_at": "2026-07-13T08:36:10.168Z"
+    },
+    {
+      "id": 95236,
+      "title": "【学习工作赛道】就业全程陪跑小程序",
+      "slug": "topic",
+      "vote_count": 8,
+      "like_count": 14,
+      "views": 259,
+      "reply_count": 5,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u494122514784320",
+      "created_at": "2026-07-08T14:42:37.144Z"
     },
     {
       "id": 115678,
@@ -1959,7 +1891,7 @@
       "slug": "topic",
       "vote_count": 15,
       "like_count": 106,
-      "views": 713,
+      "views": 714,
       "reply_count": 18,
       "tags": [
         "学习工作"
@@ -10353,6 +10285,20 @@
       ],
       "username": "u392960694292138",
       "created_at": "2026-07-15T15:55:09.513Z"
+    },
+    {
+      "id": 168003,
+      "title": "智视工训是一套面向卫星 AIT（总装集成测试）工序的工业智能系统 Demo",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 59,
+      "reply_count": 0,
+      "tags": [
+        "硬件交互"
+      ],
+      "username": "u533689155725416",
+      "created_at": "2026-07-15T15:55:07.215Z"
     },
     {
       "id": 168002,
@@ -21547,7 +21493,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 52,
+      "views": 55,
       "reply_count": 0,
       "tags": [
         "学习工作",
@@ -22594,6 +22540,18 @@
       "created_at": "2026-07-15T13:55:24.738Z"
     },
     {
+      "id": 166678,
+      "title": "【生活娱乐】药管家DEMO——全家用药，一管到底",
+      "slug": "topic",
+      "vote_count": 2,
+      "like_count": 0,
+      "views": 60,
+      "reply_count": 0,
+      "tags": [],
+      "username": "用户51549",
+      "created_at": "2026-07-15T14:03:42.094Z"
+    },
+    {
       "id": 166645,
       "title": "【学习工作赛道】阅问 Demo — AI 读书问答教练",
       "slug": "topic",
@@ -22831,6 +22789,20 @@
       ],
       "username": "u2297341152351331",
       "created_at": "2026-07-15T13:30:35.014Z"
+    },
+    {
+      "id": 166427,
+      "title": "TenCOCO 十口口 - AI 自学平台 Demo",
+      "slug": "topic",
+      "vote_count": 2,
+      "like_count": 0,
+      "views": 58,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u1219788044245001",
+      "created_at": "2026-07-15T13:22:18.721Z"
     },
     {
       "id": 166410,
@@ -24255,7 +24227,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 173,
+      "views": 175,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -25533,6 +25505,20 @@
       "created_at": "2026-07-15T12:50:29.980Z"
     },
     {
+      "id": 166123,
+      "title": "人类群星闪耀时之回到上古时代 — 学者对决 Demo",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 60,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u802015859706272",
+      "created_at": "2026-07-15T12:26:23.374Z"
+    },
+    {
       "id": 166232,
       "title": "【生活娱乐赛道】火弈 Fire Chess —— 用元胞自动机下一场\"火的棋\"",
       "slug": "topic",
@@ -25739,6 +25725,20 @@
       ],
       "username": "风雪归墟",
       "created_at": "2026-07-15T12:41:07.417Z"
+    },
+    {
+      "id": 166204,
+      "title": "【生活娱乐赛道】诡村迷局——民俗悬疑MUDdemo",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 59,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "u1065903007470379",
+      "created_at": "2026-07-15T12:42:45.906Z"
     },
     {
       "id": 166188,
@@ -31185,6 +31185,20 @@
       "created_at": "2026-07-15T09:39:58.387Z"
     },
     {
+      "id": 165444,
+      "title": "【生活娱乐赛道】摊来了-小程序",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 0,
+      "views": 58,
+      "reply_count": 0,
+      "tags": [
+        "生活娱乐"
+      ],
+      "username": "用户4097",
+      "created_at": "2026-07-15T09:34:17.974Z"
+    },
+    {
       "id": 165480,
       "title": "京日天气 — 气象沙盒：一款让您自己“看见”天气的地图可视化工具，通过叠加雷达、云图、风场和温度数据，配合时间轴回放与智能简报，帮您直观理解“雨会不会飘过来”“我家和市中心差几度”，从被动接收结论变为主动看懂数据。",
       "slug": "topic",
@@ -31603,6 +31617,20 @@
       ],
       "username": "u3164861505213674",
       "created_at": "2026-07-15T09:25:38.982Z"
+    },
+    {
+      "id": 165404,
+      "title": "【硬件交互赛道】太阳能设备智能监控小程序 —— 户外光伏储能设备移动端实时监控数据",
+      "slug": "topic",
+      "vote_count": 1,
+      "like_count": 1,
+      "views": 61,
+      "reply_count": 0,
+      "tags": [
+        "硬件交互"
+      ],
+      "username": "u3455117870247123",
+      "created_at": "2026-07-15T09:24:14.285Z"
     },
     {
       "id": 165425,
@@ -32546,6 +32574,20 @@
       ],
       "username": "亮一手",
       "created_at": "2026-07-15T08:05:08.433Z"
+    },
+    {
+      "id": 165229,
+      "title": "【社会服务赛道】信任星球-电子拉钩（信任星球/亲子信任约定小程序Demo）",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 58,
+      "reply_count": 0,
+      "tags": [
+        "社会服务"
+      ],
+      "username": "u1624404834132827",
+      "created_at": "2026-07-15T08:52:41.629Z"
     },
     {
       "id": 165227,
@@ -36709,7 +36751,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 68,
+      "views": 69,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -53820,7 +53862,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 59,
+      "views": 61,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -72553,7 +72595,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 146,
+      "views": 148,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -74887,7 +74929,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 201,
+      "views": 202,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -90081,7 +90123,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 50,
+      "views": 52,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -94472,7 +94514,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 36,
+      "views": 39,
       "reply_count": 0,
       "tags": [],
       "username": "u7640849568406373413",
@@ -100546,7 +100588,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 123,
+      "views": 125,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -140172,7 +140214,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 65,
+      "views": 67,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -148786,7 +148828,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 64,
+      "views": 66,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -152743,7 +152785,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 97,
+      "views": 100,
       "reply_count": 0,
       "tags": [
         "生活娱乐",
@@ -195874,7 +195916,7 @@
       "created_at": "2026-06-16T09:36:55.350Z"
     }
   ],
-  "count": 13987,
-  "last_update": "2026-09-11T14:36:14.065Z",
+  "count": 13990,
+  "last_update": "2026-09-11T14:41:24.883Z",
   "error": null
 }
