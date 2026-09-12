@@ -1,6 +1,20 @@
 {
   "topics": [
     {
+      "id": 165969,
+      "title": "【学习工作赛道】倒鸭子瀑布流字幕视频生成器Demo",
+      "slug": "topic",
+      "vote_count": 6,
+      "like_count": 11,
+      "views": 222,
+      "reply_count": 6,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "西蒙刘",
+      "created_at": "2026-07-15T11:44:03.147Z"
+    },
+    {
       "id": 72271,
       "title": "【生活娱乐赛道】 — 金宝App ：不只是助你登顶的AI游戏教练，更是一直懂你的游戏伙伴！",
       "slug": "topic",
@@ -1532,20 +1546,6 @@
       "tags": [],
       "username": "u1470459875695927",
       "created_at": "2026-07-06T11:01:22.557Z"
-    },
-    {
-      "id": 165969,
-      "title": "【学习工作赛道】倒鸭子瀑布流字幕视频生成器Demo",
-      "slug": "topic",
-      "vote_count": 6,
-      "like_count": 11,
-      "views": 220,
-      "reply_count": 5,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "西蒙刘",
-      "created_at": "2026-07-15T11:44:03.147Z"
     },
     {
       "id": 52833,
@@ -27210,7 +27210,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 66,
+      "views": 70,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -46341,7 +46341,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 47,
+      "views": 49,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -61454,7 +61454,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 195,
+      "views": 197,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -74246,7 +74246,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 116,
+      "views": 118,
       "reply_count": 1,
       "tags": [
         "生活娱乐"
@@ -76663,7 +76663,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 30,
+      "views": 31,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -78375,7 +78375,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 216,
+      "views": 218,
       "reply_count": 0,
       "tags": [
         "硬件交互"
@@ -116816,7 +116816,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 1,
-      "views": 67,
+      "views": 70,
       "reply_count": 0,
       "tags": [],
       "username": "缝补匠",
@@ -121441,7 +121441,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 1,
-      "views": 48,
+      "views": 50,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -123137,7 +123137,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 72,
+      "views": 73,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -173452,7 +173452,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 251,
+      "views": 254,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -195917,6 +195917,6 @@
     }
   ],
   "count": 13990,
-  "last_update": "2026-09-12T14:41:24.248Z",
+  "last_update": "2026-09-12T14:46:33.046Z",
   "error": null
 }
