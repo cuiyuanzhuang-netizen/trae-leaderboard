@@ -1,6 +1,20 @@
 {
   "topics": [
     {
+      "id": 94899,
+      "title": "【硬件交互赛道】硬件工程师的 AI 协作者 — CPLD 逻辑代码 + 寄存器配置速通助手",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 1,
+      "views": 40,
+      "reply_count": 0,
+      "tags": [
+        "硬件交互"
+      ],
+      "username": "用户64651",
+      "created_at": "2026-07-08T13:47:33.058Z"
+    },
+    {
       "id": 40927,
       "title": "【学习工作赛道】I+1 Quest —— 基于 I+1 语言学习理论的开放故事冒险英语学习游戏",
       "slug": "topic",
@@ -760,7 +774,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 3,
-      "views": 96,
+      "views": 97,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -1693,7 +1707,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 6,
-      "views": 297,
+      "views": 299,
       "reply_count": 2,
       "tags": [
         "社会服务"
@@ -2690,7 +2704,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 2,
-      "views": 547,
+      "views": 550,
       "reply_count": 1,
       "tags": [
         "生活娱乐"
@@ -6788,7 +6802,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 45,
+      "views": 47,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -28264,7 +28278,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 104,
+      "views": 105,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -79192,7 +79206,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 28,
+      "views": 30,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -83681,7 +83695,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 43,
+      "views": 45,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -91822,7 +91836,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 54,
+      "views": 56,
       "reply_count": 0,
       "tags": [
         "生活娱乐",
@@ -103246,7 +103260,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 46,
+      "views": 47,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -111075,7 +111089,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 2,
-      "views": 87,
+      "views": 89,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -113928,7 +113942,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 55,
+      "views": 56,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -114561,20 +114575,6 @@
       ],
       "username": "mashu77",
       "created_at": "2026-07-08T13:47:37.717Z"
-    },
-    {
-      "id": 94899,
-      "title": "【硬件交互赛道】硬件工程师的 AI 协作者 — CPLD 逻辑代码 + 寄存器配置速通助手",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 1,
-      "views": 40,
-      "reply_count": 0,
-      "tags": [
-        "硬件交互"
-      ],
-      "username": "用户64651",
-      "created_at": "2026-07-08T13:47:33.058Z"
     },
     {
       "id": 94898,
@@ -120707,7 +120707,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 4,
-      "views": 254,
+      "views": 255,
       "reply_count": 1,
       "tags": [
         "生活娱乐"
@@ -143350,7 +143350,7 @@
       "slug": "topic",
       "vote_count": 4,
       "like_count": 7,
-      "views": 147,
+      "views": 149,
       "reply_count": 4,
       "tags": [
         "生活娱乐"
@@ -173730,7 +173730,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 52,
+      "views": 54,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -195917,6 +195917,6 @@
     }
   ],
   "count": 13990,
-  "last_update": "2026-09-15T13:51:22.442Z",
+  "last_update": "2026-09-15T13:56:11.752Z",
   "error": null
 }
