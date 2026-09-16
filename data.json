@@ -1,6 +1,20 @@
 {
   "topics": [
     {
+      "id": 112794,
+      "title": "一个面向K12教育阶段中学生的AI伴学系统",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 45,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "用户29716",
+      "created_at": "2026-07-11T07:19:59.086Z"
+    },
+    {
       "id": 94899,
       "title": "【硬件交互赛道】硬件工程师的 AI 协作者 — CPLD 逻辑代码 + 寄存器配置速通助手",
       "slug": "topic",
@@ -2309,7 +2323,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 462,
+      "views": 469,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -37666,7 +37680,7 @@
       "slug": "topic",
       "vote_count": 23,
       "like_count": 0,
-      "views": 180,
+      "views": 182,
       "reply_count": 1,
       "tags": [],
       "username": "Asnakemood",
@@ -45622,7 +45636,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 69,
+      "views": 70,
       "reply_count": 0,
       "tags": [],
       "username": "u1074683835851891",
@@ -49209,7 +49223,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 42,
+      "views": 44,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -63947,7 +63961,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 0,
-      "views": 46,
+      "views": 47,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -81203,7 +81217,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 124,
+      "views": 129,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -89981,7 +89995,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 1,
-      "views": 93,
+      "views": 94,
       "reply_count": 0,
       "tags": [
         "学习工作",
@@ -97043,20 +97057,6 @@
       ],
       "username": "u3489184611576235",
       "created_at": "2026-07-11T07:19:59.270Z"
-    },
-    {
-      "id": 112794,
-      "title": "一个面向K12教育阶段中学生的AI伴学系统",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 45,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "用户29716",
-      "created_at": "2026-07-11T07:19:59.086Z"
     },
     {
       "id": 112793,
@@ -123319,7 +123319,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 52,
+      "views": 54,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -148531,7 +148531,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 182,
+      "views": 184,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -166766,7 +166766,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 2,
-      "views": 124,
+      "views": 126,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -178592,7 +178592,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 235,
+      "views": 237,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -189757,7 +189757,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 72,
+      "views": 73,
       "reply_count": 0,
       "tags": [],
       "username": "HuiSir",
@@ -195917,6 +195917,6 @@
     }
   ],
   "count": 13990,
-  "last_update": "2026-09-16T00:55:50.320Z",
+  "last_update": "2026-09-16T01:01:09.382Z",
   "error": null
 }
