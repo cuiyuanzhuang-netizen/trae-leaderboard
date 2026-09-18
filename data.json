@@ -1,6 +1,20 @@
 {
   "topics": [
     {
+      "id": 116632,
+      "title": "LaughLab — AI观众模拟实验室",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 52,
+      "reply_count": 0,
+      "tags": [
+        "学习工作"
+      ],
+      "username": "u441382861286579",
+      "created_at": "2026-07-13T07:00:53.612Z"
+    },
+    {
       "id": 51482,
       "title": "【学习工作赛道】数字员工办公区：让 AI Agent 像一个团队一样干活",
       "slug": "topic",
@@ -3083,7 +3097,7 @@
       "slug": "topic",
       "vote_count": 170,
       "like_count": 103,
-      "views": 1600,
+      "views": 1601,
       "reply_count": 11,
       "tags": [
         "生活娱乐",
@@ -4875,7 +4889,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 2,
-      "views": 201,
+      "views": 202,
       "reply_count": 1,
       "tags": [
         "社会服务",
@@ -55100,7 +55114,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 97,
+      "views": 98,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -74353,20 +74367,6 @@
       "created_at": "2026-07-13T07:01:18.330Z"
     },
     {
-      "id": 116632,
-      "title": "LaughLab — AI观众模拟实验室",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 52,
-      "reply_count": 0,
-      "tags": [
-        "学习工作"
-      ],
-      "username": "u441382861286579",
-      "created_at": "2026-07-13T07:00:53.612Z"
-    },
-    {
       "id": 116631,
       "title": "【生活娱乐赛道】初行指南——解答你的日常疑问",
       "slug": "topic",
@@ -92051,7 +92051,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 1,
-      "views": 74,
+      "views": 77,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -104038,7 +104038,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 44,
+      "views": 46,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -106715,7 +106715,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 180,
+      "views": 183,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -107534,7 +107534,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 8,
-      "views": 161,
+      "views": 162,
       "reply_count": 3,
       "tags": [
         "学习工作"
@@ -119911,7 +119911,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 1,
-      "views": 83,
+      "views": 85,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -145640,7 +145640,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 87,
+      "views": 88,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -160635,7 +160635,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 86,
+      "views": 88,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -181705,7 +181705,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 97,
+      "views": 100,
       "reply_count": 1,
       "tags": [
         "学习工作"
@@ -195903,6 +195903,6 @@
     }
   ],
   "count": 13989,
-  "last_update": "2026-09-18T15:36:30.248Z",
+  "last_update": "2026-09-18T15:41:55.906Z",
   "error": null
 }
