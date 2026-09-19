@@ -1,6 +1,22 @@
 {
   "topics": [
     {
+      "id": 71664,
+      "title": "【生活育儿赛道】字帖生成器 · Trae创意大赛初赛 Demo",
+      "slug": "topic",
+      "vote_count": 2,
+      "like_count": 5,
+      "views": 326,
+      "reply_count": 3,
+      "tags": [
+        "学习工作",
+        "生活娱乐",
+        "社会公益"
+      ],
+      "username": "u309409433785034",
+      "created_at": "2026-07-05T07:23:12.771Z"
+    },
+    {
       "id": 116632,
       "title": "LaughLab — AI观众模拟实验室",
       "slug": "topic",
@@ -1729,22 +1745,6 @@
       ],
       "username": "u1599104765934251",
       "created_at": "2026-06-23T12:14:17.716Z"
-    },
-    {
-      "id": 71664,
-      "title": "【生活育儿赛道】字帖生成器 · Trae创意大赛初赛 Demo",
-      "slug": "topic",
-      "vote_count": 2,
-      "like_count": 5,
-      "views": 324,
-      "reply_count": 1,
-      "tags": [
-        "学习工作",
-        "生活娱乐",
-        "社会公益"
-      ],
-      "username": "u309409433785034",
-      "created_at": "2026-07-05T07:23:12.771Z"
     },
     {
       "id": 70048,
@@ -64704,7 +64704,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 126,
+      "views": 127,
       "reply_count": 4,
       "tags": [
         "学习工作"
@@ -76175,7 +76175,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 30,
+      "views": 32,
       "reply_count": 0,
       "tags": [
         "社会服务"
@@ -114709,7 +114709,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 61,
+      "views": 62,
       "reply_count": 0,
       "tags": [
         "学习工作",
@@ -118939,7 +118939,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 2,
-      "views": 96,
+      "views": 98,
       "reply_count": 2,
       "tags": [
         "社会服务",
@@ -140187,7 +140187,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 3,
-      "views": 66,
+      "views": 69,
       "reply_count": 1,
       "tags": [
         "学习工作"
@@ -144606,7 +144606,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 150,
+      "views": 152,
       "reply_count": 1,
       "tags": [
         "生活娱乐"
@@ -181691,7 +181691,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 107,
+      "views": 108,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -194974,7 +194974,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 302,
+      "views": 303,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -195903,6 +195903,6 @@
     }
   ],
   "count": 13989,
-  "last_update": "2026-09-19T04:26:01.956Z",
+  "last_update": "2026-09-19T04:31:10.893Z",
   "error": null
 }
