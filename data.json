@@ -1,6 +1,20 @@
 {
   "topics": [
     {
+      "id": 168069,
+      "title": "硬件交互 · 嘀嗒找 —— 家里的好帮手",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 27,
+      "reply_count": 0,
+      "tags": [
+        "社会服务"
+      ],
+      "username": "u2785490534140233",
+      "created_at": "2026-07-15T15:58:58.716Z"
+    },
+    {
       "id": 70172,
       "title": "【学习工作赛道】TRAE Legacy Remote — 让 CentOS 7 老服务器也能用上 AI 编程【DEMO】】",
       "slug": "topic",
@@ -2298,7 +2312,7 @@
       "slug": "topic",
       "vote_count": 74,
       "like_count": 438,
-      "views": 5306,
+      "views": 5307,
       "reply_count": 101,
       "tags": [
         "学习工作"
@@ -7719,7 +7733,7 @@
       "slug": "topic",
       "vote_count": 22,
       "like_count": 0,
-      "views": 237,
+      "views": 239,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -8597,7 +8611,7 @@
       "slug": "topic",
       "vote_count": 8,
       "like_count": 0,
-      "views": 177,
+      "views": 179,
       "reply_count": 0,
       "tags": [
         "硬件交互"
@@ -9625,20 +9639,6 @@
       ],
       "username": "u3907035026701099",
       "created_at": "2026-07-15T15:58:57.605Z"
-    },
-    {
-      "id": 168069,
-      "title": "硬件交互 · 嘀嗒找 —— 家里的好帮手",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 27,
-      "reply_count": 0,
-      "tags": [
-        "社会服务"
-      ],
-      "username": "u2785490534140233",
-      "created_at": "2026-07-15T15:58:58.716Z"
     },
     {
       "id": 168062,
@@ -12964,7 +12964,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 55,
+      "views": 56,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -19067,7 +19067,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 94,
+      "views": 96,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -49099,7 +49099,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 236,
+      "views": 238,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -75224,7 +75224,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 50,
+      "views": 51,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -102576,7 +102576,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 215,
+      "views": 219,
       "reply_count": 0,
       "tags": [],
       "username": "u1018571587074880",
@@ -106479,7 +106479,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 48,
+      "views": 50,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -107981,7 +107981,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 1,
-      "views": 62,
+      "views": 64,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -128941,7 +128941,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 46,
+      "views": 48,
       "reply_count": 0,
       "tags": [
         "学习工作",
@@ -138448,7 +138448,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 35,
+      "views": 37,
       "reply_count": 0,
       "tags": [],
       "username": "u3815774934276971",
@@ -174021,7 +174021,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 148,
+      "views": 150,
       "reply_count": 1,
       "tags": [
         "社会服务",
@@ -176741,7 +176741,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 90,
+      "views": 91,
       "reply_count": 1,
       "tags": [
         "学习工作"
@@ -181286,7 +181286,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 67,
+      "views": 69,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -195903,6 +195903,6 @@
     }
   ],
   "count": 13989,
-  "last_update": "2026-09-21T15:26:16.044Z",
+  "last_update": "2026-09-21T15:31:33.246Z",
   "error": null
 }
