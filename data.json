@@ -1,6 +1,21 @@
 {
   "topics": [
     {
+      "id": 166315,
+      "title": "【社会服务赛道】+ 纹脉共生——AI 非遗纹样共创与授权工坊",
+      "slug": "topic",
+      "vote_count": 0,
+      "like_count": 0,
+      "views": 43,
+      "reply_count": 0,
+      "tags": [
+        "社会服务",
+        "社会公益"
+      ],
+      "username": "u3308911035162473",
+      "created_at": "2026-07-15T13:04:36.881Z"
+    },
+    {
       "id": 166293,
       "title": "AI 智能直播切片剪辑工具，剪存量素材/直播回放/实时直播边播边剪，提高剪辑效率！",
       "slug": "topic",
@@ -5677,7 +5692,7 @@
       "slug": "topic",
       "vote_count": 7,
       "like_count": 4,
-      "views": 227,
+      "views": 229,
       "reply_count": 1,
       "tags": [],
       "username": "u1518842159063467",
@@ -8708,7 +8723,7 @@
       "slug": "topic",
       "vote_count": 8,
       "like_count": 0,
-      "views": 219,
+      "views": 220,
       "reply_count": 0,
       "tags": [
         "硬件交互"
@@ -17329,7 +17344,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 28,
+      "views": 29,
       "reply_count": 0,
       "tags": [
         "社会服务",
@@ -22209,7 +22224,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 129,
+      "views": 130,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -25014,21 +25029,6 @@
       ],
       "username": "u4273177421153380",
       "created_at": "2026-07-15T13:04:44.478Z"
-    },
-    {
-      "id": 166315,
-      "title": "【社会服务赛道】+ 纹脉共生——AI 非遗纹样共创与授权工坊",
-      "slug": "topic",
-      "vote_count": 0,
-      "like_count": 0,
-      "views": 43,
-      "reply_count": 0,
-      "tags": [
-        "社会服务",
-        "社会公益"
-      ],
-      "username": "u3308911035162473",
-      "created_at": "2026-07-15T13:04:36.881Z"
     },
     {
       "id": 166211,
@@ -37473,7 +37473,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 67,
+      "views": 68,
       "reply_count": 0,
       "tags": [
         "学习工作",
@@ -38735,7 +38735,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 83,
+      "views": 84,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -107405,7 +107405,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 115,
+      "views": 116,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -117574,7 +117574,7 @@
       "slug": "topic",
       "vote_count": 3,
       "like_count": 1,
-      "views": 105,
+      "views": 108,
       "reply_count": 1,
       "tags": [],
       "username": "u3770652551287772",
@@ -119867,7 +119867,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 1,
-      "views": 123,
+      "views": 125,
       "reply_count": 0,
       "tags": [
         "社会公益",
@@ -131707,7 +131707,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 0,
-      "views": 183,
+      "views": 184,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -136410,7 +136410,7 @@
       "slug": "topic",
       "vote_count": 2,
       "like_count": 0,
-      "views": 133,
+      "views": 134,
       "reply_count": 0,
       "tags": [
         "生活娱乐"
@@ -184361,7 +184361,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 113,
+      "views": 115,
       "reply_count": 0,
       "tags": [
         "学习工作",
@@ -189212,7 +189212,7 @@
       "slug": "topic",
       "vote_count": 1,
       "like_count": 1,
-      "views": 237,
+      "views": 240,
       "reply_count": 1,
       "tags": [
         "学习工作"
@@ -189618,7 +189618,7 @@
       "slug": "topic",
       "vote_count": 0,
       "like_count": 0,
-      "views": 52,
+      "views": 54,
       "reply_count": 0,
       "tags": [
         "学习工作"
@@ -195889,6 +195889,6 @@
     }
   ],
   "count": 13988,
-  "last_update": "2026-10-04T13:11:15.432Z",
+  "last_update": "2026-10-04T13:16:59.468Z",
   "error": null
 }
